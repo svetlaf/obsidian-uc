@@ -5,7 +5,7 @@ tags:
   - derecho-procesal
 concepto-padre:
   - "[[Medios de resolución de conflictos]]"
-concepto-hijo: ["[[Autocomposición unilateral]]", "[[Autocomposición bilateral]]"]
+concepto-hijo: ["[[Autocomposición bilateral]]", "[[Autocomposición unilateral]]"]
 ---
 Consiste en la sumisión o en renuncia total o parcial del Derecho de una Parte en favor de otra. Esta propicia la solución del conflicto por los propios interesados. Implica una actitud de reconocimiento parcial o total de anuencia de una de las partes en favor de la otra, así sucede en la Transacción, Conciliación, Renuncia, Avenimientos.
 

@@ -36,6 +36,20 @@
             }
           },
           {
+            "id": "f9d0e2e804721db9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "checkpoint-git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "checkpoint-git"
+            }
+          },
+          {
             "id": "77524cf42966afe5",
             "type": "leaf",
             "state": {
@@ -50,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -195,13 +209,18 @@
       "graph:Open graph view": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "templater-obsidian:Templater": false,
+      "obsidian42-brat:BRAT": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f9acff86b043cd22",
+  "active": "f9d0e2e804721db9",
   "lastOpenFiles": [
-    "sucesión por causa de muerte.md",
     "clases/civil2/requisitos de la posesión regular.md",
+    "checkpoint-git.md",
+    "sucesión por causa de muerte.md",
     "procesal.md",
     "causales de incompetencia accidental.md",
     "Textos-legales/Código Orgánico de Tribunales COT/Art. 191 inc. 4 COT.md",
@@ -225,7 +244,6 @@
     "Textos-legales/Código de Procedimiento Civil/Art. 922 CPC.md",
     "Textos-legales/Código de Procedimiento Civil/Art. 921 CPC.md",
     "Textos-legales/Código de Procedimiento Civil/Art. 920 CPC.md",
-    "Textos-legales/Código de Procedimiento Civil/Art. 919 CPC.md",
     "Untitled 6.canvas",
     "clases/laboral/7. Jornada Laboral 2025.pdf",
     "Untitled 4.canvas",

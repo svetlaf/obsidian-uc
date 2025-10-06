@@ -5,5 +5,5 @@ fecha-creación-o-descubrimiento:
 asignatura: [derecho-procesal1]
 tags:
   - derecho-procesal
-concepto-hijo: ["[[Autotutela]]", "[[Autocomposición]]", "[[Heterocomposición]]"]
+concepto-hijo: ["[[Autocomposición]]", "[[Autotutela]]", "[[Heterocomposición]]"]
 ---
