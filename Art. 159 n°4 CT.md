@@ -1,2 +1,0 @@
-
-El contrato de trabajo terminará en los siguientes casos: 1.- Mutuo acuerdo de las partes. 2.- Renuncia del trabajador, dando aviso a su empleador con treinta días de anticipación, a lo menos. 3.- Muerte del trabajador. **4.- Vencimiento del plazo convenido en el contrato. La duración del contrato de plazo fijo no podrá exceder de un año.**
