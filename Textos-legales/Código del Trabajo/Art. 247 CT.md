@@ -1,0 +1,1 @@
+El empleador deberá prestar las facilidades necesarias para practicar la elección del directorio y demás votaciones secretas que exija la ley, sin que lo anterior implique la paralización de la empresa, establecimiento o faena.

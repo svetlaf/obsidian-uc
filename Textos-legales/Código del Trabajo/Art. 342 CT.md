@@ -1,0 +1,3 @@
+Derecho a la suscripción del piso de la negociación. Durante todo el período de negociación, e incluso después de votada y hecha efectiva la huelga, la comisión negociadora sindical podrá poner término al proceso de negociación comunicándole al empleador, por escrito, su decisión de suscribir un contrato colectivo sujeto a las estipulaciones del piso de la negociación.
+
+El empleador no podrá negarse a esta exigencia, salvo en el caso a que se refiere el inciso final del artículo anterior. El contrato que se celebre conforme a las disposiciones de este artículo tendrá una duración de dieciocho meses y se entenderá suscrito desde la fecha en que la comisión negociadora sindical comunique su decisión al empleador.

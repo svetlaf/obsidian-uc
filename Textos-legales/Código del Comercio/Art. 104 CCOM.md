@@ -1,0 +1,1 @@
+Residiendo los interesados en distintos lugares, se entenderá celebrado el contrato, para todos sus efectos legales, en el de la residencia del que hubiere aceptado la propuesta primitiva o la propuesta modificada.

@@ -1,0 +1,1 @@
+Los gastos hechos por el arrendatario en la cosa arrendada con posterioridad al desahucio no le autorizarán para pedir su retención.

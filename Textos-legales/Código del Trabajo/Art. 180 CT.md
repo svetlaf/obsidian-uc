@@ -1,0 +1,1 @@
+Las actividades de capacitación que realicen las empresas, deberán efectuarse en los términos que establece el Estatuto de Capacitación y Empleo contenido en el Decreto Ley Nº 1.446, de 1976.

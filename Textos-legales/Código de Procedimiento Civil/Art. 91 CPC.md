@@ -1,0 +1,1 @@
+Vencido el término de prueba, háyanla o no rendido las partes, y aún cuando éstas no lo pidan, fallará el tribunal inmediatamente o, a más tardar, dentro de tercero día, la cuestión que haya dado origen al incidente.

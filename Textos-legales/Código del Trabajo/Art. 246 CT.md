@@ -1,0 +1,1 @@
+Todas las elecciones de directorio, votaciones de censura y escrutinios de los mismos, deberán realizarse de manera simultánea en la forma que determinen los estatutos. Si éstos nada dicen, se estará a las normas que determine la Dirección del Trabajo.

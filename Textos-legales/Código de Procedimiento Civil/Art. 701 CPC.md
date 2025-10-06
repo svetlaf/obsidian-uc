@@ -1,0 +1,1 @@
+El tribunal destinará, por lo menos, un día de cada semana a la vista preferente de estas causas.

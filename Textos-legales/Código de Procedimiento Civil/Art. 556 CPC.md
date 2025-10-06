@@ -1,0 +1,1 @@
+Se interrogará a los testigos acerca de los hechos mencionados en la demanda, y de los que indiquen las partes en la audiencia, si el tribunal los estima pertinentes.

@@ -1,0 +1,1 @@
+El recurso debe interponerse por la parte agraviada ante el tribunal que haya pronunciado la sentencia que se trata de invalidar y para ante aquel a quien corresponde conocer de él conforme a la ley.

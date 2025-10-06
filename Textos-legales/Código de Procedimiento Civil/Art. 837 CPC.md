@@ -1,0 +1,1 @@
+La autorización judicial para repudiar el reconocimiento de un hijo natural que se encuentre bajo interdicción, se sujetará a lo dispuesto en los artículos 833 y 835.

@@ -1,0 +1,1 @@
+La persona que pida el cotejo designará el instrumento o instrumentos indubitados con que debe hacerse.

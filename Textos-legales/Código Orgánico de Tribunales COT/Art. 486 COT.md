@@ -1,0 +1,1 @@
+Los defensores públicos pueden ser recusados en los casos y por las personas porque pueden serlo los fiscales judiciales.

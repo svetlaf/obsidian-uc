@@ -1,0 +1,1 @@
+Los trabajadores que no alcanzaren a completar un año de servicios tendrán derecho a la gratificación en proporción a los meses trabajados.

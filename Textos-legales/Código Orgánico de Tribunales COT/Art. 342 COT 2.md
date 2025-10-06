@@ -1,0 +1,1 @@
+No tendrán derecho a permiso los funcionarios suplentes que entren a subrogar a los propietarios o interinos en los casos de licencias, ni los auxiliares que fueren llamados a prestar sus servicios accidentalmente y por tiempo limitado.

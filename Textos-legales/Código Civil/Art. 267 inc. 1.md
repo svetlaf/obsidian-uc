@@ -1,0 +1,13 @@
+---
+fileClass: articulo, vigencia, historia-y-fuentes, codigo-civil
+tags:
+- derecho-civil
+- derecho-privado
+estado: vigente
+tipo: inciso
+libro:
+titulo:
+parrafo:
+corriente-juridica:
+---
+La patria potestad se suspende por la demencia del padre o madre que la ejerce, por su menor edad, por estar en entredicho de administrar sus propios bienes, y por su larga ausencia u otro impedimento físico, de los cuales se siga perjuicio grave en los intereses del hijo, a que el padre o madre ausente o impedido no provee.

@@ -1,0 +1,1 @@
+Esta reclamación sólo podrá entablarse dentro de los diez días subsiguientes a la noticia del desahucio.

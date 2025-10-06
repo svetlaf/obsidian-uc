@@ -1,0 +1,1 @@
+En caso de aceptación extemporánea, el proponente será obligado, bajo responsabilidad de daños y perjuicios, a dar pronto aviso de su retractación.

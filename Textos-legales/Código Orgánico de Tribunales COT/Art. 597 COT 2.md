@@ -1,0 +1,1 @@
+En las ciudades donde rijan las obligaciones de estar representado y patrocinado por abogado, las personas notoriamente menesterosas, a juicio del tribunal, serán representadas y patrocinadas gratuitamente por el abogado de turno.

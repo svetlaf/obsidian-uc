@@ -1,0 +1,5 @@
+No puede deducirse acusación o demanda civil contra un juez para hacer efectiva su responsabilidad criminal o civil si no se hubieren entablado oportunamento los recursos que la ley franquea para la reparación del agravio causado, ni cuando hayan transcurrido seis meses desde que se hubiere notificado al reclamante la sentencia firme recaída en la causa en que se supone inferido el agravio.
+
+Para las personas que no fueren las directamente ofendidas o perjudicadas por el delito del juez cuya responsabilidad se persigue, el plazo de seis meses correrá desde la fecha en que se hubiere pronunciado sentencia firme.
+
+Siempre que, por el examen de un proceso o de los datos o documentos estadísticos, o por cualquier otro modo auténtico, llegaren a noticia de un tribunal antecedentes que hagan presumir que un juez o funcionario del ministerio público ha cometido en el ejercicio de sus funciones algún crimen, o simple delito, mandará sacar compulsa de los antecedentes o datos que reciba al respecto, y los hará pasar al ministerio público, para que entable en el término de seis días la respectiva acusación contra el funcionario responsable.

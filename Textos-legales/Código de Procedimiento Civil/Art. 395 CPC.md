@@ -1,0 +1,1 @@
+Lo dicho en el artículo 370 es aplicable a la declaración de los litigantes.

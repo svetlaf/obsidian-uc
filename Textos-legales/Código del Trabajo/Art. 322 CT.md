@@ -1,0 +1,7 @@
+Aplicación de las estipulaciones de un instrumento colectivo. La comunicación al empleador deberá realizarse por escrito al correo electrónico designado por este y enviarse copia de la misma a la Inspección del Trabajo.
+
+Las partes de un instrumento colectivo podrán acordar la aplicación general o parcial de sus estipulaciones a todos o parte de los trabajadores de la empresa o establecimiento de empresa sin afiliación sindical. En el caso antes señalado, para acceder a los beneficios dichos trabajadores deberán aceptar la extensión y obligarse a pagar todo o parte de la cuota ordinaria de la organización sindical, según lo establezca el acuerdo.
+
+El acuerdo de extensión de que trata el inciso anterior deberá fijar criterios objetivos, generales y no arbitrarios para extender los beneficios a trabajadores sin afiliación sindical.
+
+Sin perjuicio de lo anterior, el empleador podrá aplicar a todos los trabajadores de la empresa las cláusulas pactadas de reajuste de remuneraciones conforme a la variación del Índice de Precios al Consumidor determinado por el Instituto Nacional de Estadísticas o el que haga sus veces, siempre que dicho reajuste se haya contemplado en su respuesta al proyecto de contrato colectivo.

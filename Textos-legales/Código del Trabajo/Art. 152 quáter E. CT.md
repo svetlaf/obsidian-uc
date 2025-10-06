@@ -1,0 +1,1 @@
+Un reglamento conjunto de los Ministerios de Salud y del Trabajo y Previsión Social establecerá las condiciones ambientales, de seguridad y salud en el trabajo que deberán cumplir los establecimientos destinados a prestar servicios como centros de contacto o llamadas.

@@ -1,0 +1,1 @@
+Para hacer efectivo el pago de la hipoteca, cuando la finca gravada se posea por otro que el deudor personal, se notificará previamente al poseedor, señalándole un plazo de diez días para que pague la deuda o abandone ante el juzgado la propiedad hipotecada.

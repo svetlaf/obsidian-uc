@@ -1,0 +1,2 @@
+Los testigos deben responder de una manera clara y precisa a las preguntas que se les hagan, expresando la causa por qué afirman los hechos aseverados.
+No se les permitirá llevar escrita su declaración.

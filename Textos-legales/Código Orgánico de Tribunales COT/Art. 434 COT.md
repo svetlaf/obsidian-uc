@@ -1,0 +1,1 @@
+Los protocolos y documentos protocolizados o agregados a los mismos, deberán guardarse en cajas de seguridad o bóvedas contra incendio.

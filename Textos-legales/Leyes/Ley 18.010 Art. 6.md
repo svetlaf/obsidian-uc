@@ -1,0 +1,3 @@
+*No podrá estipularse un interés que exceda el producto del capital respectivo y la cifra mayor entre: 1) 1,5 veces la tasa de interés corriente que rija al momento de la convención, según determine la Comisión para cada tipo de operación de crédito de dinero, y 2) la tasa de interés corriente que rija al momento de la convención incrementada en 2 puntos porcentuales anuales, ya sea que se pacte tasa fija o variable. Este límite de interés se denomina interés máximo convencional.*
+
+*No se podrá cobrar intereses por sobre aquella parte de la deuda que ya esté pagada.*

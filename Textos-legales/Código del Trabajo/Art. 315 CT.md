@@ -1,0 +1,5 @@
+Derecho de información periódica en las grandes empresas. Las grandes empresas deberán entregar anualmente a los sindicatos de empresa constituidos en ellas, el balance general, el estado de resultados y los estados financieros auditados, si los tuvieren, dentro del plazo de treinta días contado desde que estos documentos se encuentren disponibles.
+
+Asimismo, deberán entregar toda otra información de carácter público que conforme a la legislación vigente estén obligadas a poner a disposición de la Superintendencia de Valores y Seguros. Esta información deberá ser entregada dentro del plazo de treinta días contado desde que se haya puesto a disposición de la referida Superintendencia.
+
+Respecto de los nuevos sindicatos de empresa que se constituyan, la información indicada en este artículo será entregada dentro del plazo de treinta días contado a partir de la comunicación señalada en el inciso primero del artículo 225 de este Código.

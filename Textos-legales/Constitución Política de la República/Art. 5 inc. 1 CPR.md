@@ -1,0 +1,1 @@
+La soberanía reside esencialmente en la Nación. Su ejercicio se realiza por el pueblo a través del plebiscito y de elecciones periódicas y, también, por las autoridades que esta Constitución establece. Ningún sector del pueblo ni individuo alguno puede atribuirse su ejercicio.

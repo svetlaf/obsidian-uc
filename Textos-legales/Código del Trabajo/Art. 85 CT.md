@@ -1,0 +1,1 @@
+El porcentaje de aprendices no podrá exceder del diez por ciento del total de trabajadores ocupados a jornada completa en la respectiva empresa.

@@ -1,0 +1,5 @@
+El notario llevará un libro índice público, en el que anotará las escrituras por orden alfabético de los otorgantes; y otro privado en el que anotará, en la misma forma, los testamentos cerrados con indicación del lugar de su otorgamiento y del nombre y domicilio de sus testigos.
+
+El primero estará a disposición del público, debiendo exhibirlo a quien lo solicite y el segundo deberá mantenerlo reservado, no teniendo obligación de exhibirlo, sino por decreto de juez competente o ante una solicitud de un particular que acompañe el certificado de defunción que corresponda al otorgante del testamento.
+
+Los índices de escrituras deberán ser hechos con el nombre de los otorgantes y si se tratare de personas jurídicas, sucesiones u otra clase de comunidades bastará con anotar el nombre de éstas.

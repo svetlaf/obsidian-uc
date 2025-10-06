@@ -1,0 +1,3 @@
+Las declaraciones se consignarán por escrito, conservándose en cuanto sea posible las expresiones de que se haya valido el testigo, reducidas al menor número de palabras.
+
+Después de leídas por el receptor en alta voz y ratificadas por el testigo, serán firmadas por el juez, el declarante, si sabe, y las partes, si también saben y se hallan presentes, autorizándolas un receptor, que servirá también como actuario en las incidencias que ocurran durante la audiencia de prueba.

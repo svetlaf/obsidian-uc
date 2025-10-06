@@ -1,0 +1,1 @@
+Para trabajar en las industrias o faenas a que se refiere el artículo anterior, los trabajadores necesitarán un certificado médico de aptitud.

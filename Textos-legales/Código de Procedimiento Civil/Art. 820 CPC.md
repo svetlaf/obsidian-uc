@@ -1,0 +1,1 @@
+Asimismo decretarán de oficio las diligencias informativas que estimen convenientes.

@@ -1,0 +1,90 @@
+/*
+================================================================================
+  LEGAL FOLDER STYLES (v2 - Corrected Header Selectors)
+  - Apply these classes using the Autoclass plugin based on note folder path.
+================================================================================
+*/
+
+/* --- Style for Código Civil --- */
+.cc-style .markdown-preview-view,
+.cc-style.is-live-preview .cm-editor {
+    background-color: #F0F8FF; /* Very light blue (AliceBlue) */
+}
+
+/* Headers for Reading View & Live Preview */
+.cc-style .markdown-preview-view h1, .cc-style.is-live-preview .cm-header-1,
+.cc-style .markdown-preview-view h2, .cc-style.is-live-preview .cm-header-2,
+.cc-style .markdown-preview-view h3, .cc-style.is-live-preview .cm-header-3,
+.cc-style .markdown-preview-view h4, .cc-style.is-live-preview .cm-header-4,
+.cc-style .markdown-preview-view h5, .cc-style.is-live-preview .cm-header-5,
+.cc-style .markdown-preview-view h6, .cc-style.is-live-preview .cm-header-6 {
+    color: #003366; /* Very dark blue */
+}
+
+
+/* --- Style for Código de Procedimiento Civil --- */
+.cpc-style .markdown-preview-view,
+.cpc-style.is-live-preview .cm-editor {
+    background-color: #E6F7FF; /* Very light lighter blue */
+}
+
+/* Headers for Reading View & Live Preview */
+.cpc-style .markdown-preview-view h1, .cpc-style.is-live-preview .cm-header-1,
+.cpc-style .markdown-preview-view h2, .cpc-style.is-live-preview .cm-header-2,
+.cpc-style .markdown-preview-view h3, .cpc-style.is-live-preview .cm-header-3,
+.cpc-style .markdown-preview-view h4, .cpc-style.is-live-preview .cm-header-4,
+.cpc-style .markdown-preview-view h5, .cpc-style.is-live-preview .cm-header-5,
+.cpc-style .markdown-preview-view h6, .cpc-style.is-live-preview .cm-header-6 {
+    color: #4682B4; /* Steel Blue */
+}
+
+
+/* --- Style for Código Orgánico de Tribunales --- */
+.cot-style .markdown-preview-view,
+.cot-style.is-live-preview .cm-editor {
+    background-color: #FAF0E6; /* Very light brown (Linen) */
+}
+
+/* Headers for Reading View & Live Preview */
+.cot-style .markdown-preview-view h1, .cot-style.is-live-preview .cm-header-1,
+.cot-style .markdown-preview-view h2, .cot-style.is-live-preview .cm-header-2,
+.cot-style .markdown-preview-view h3, .cot-style.is-live-preview .cm-header-3,
+.cot-style .markdown-preview-view h4, .cot-style.is-live-preview .cm-header-4,
+.cot-style .markdown-preview-view h5, .cot-style.is-live-preview .cm-header-5,
+.cot-style .markdown-preview-view h6, .cot-style.is-live-preview .cm-header-6 {
+    color: #8B4513; /* Saddle Brown */
+}
+
+
+/* --- Style for Constitución Política de la República --- */
+.cpr-style .markdown-preview-view,
+.cpr-style.is-live-preview .cm-editor {
+    background-color: #FFF0F0; /* Very light red (Snow) */
+}
+
+/* Headers for Reading View & Live Preview */
+.cpr-style .markdown-preview-view h1, .cpr-style.is-live-preview .cm-header-1,
+.cpr-style .markdown-preview-view h2, .cpr-style.is-live-preview .cm-header-2,
+.cpr-style .markdown-preview-view h3, .cpr-style.is-live-preview .cm-header-3,
+.cpr-style .markdown-preview-view h4, .cpr-style.is-live-preview .cm-header-4,
+.cpr-style .markdown-preview-view h5, .cpr-style.is-live-preview .cm-header-5,
+.cpr-style .markdown-preview-view h6, .cpr-style.is-live-preview .cm-header-6 {
+    color: #8B0000; /* Dark Red */
+}
+
+
+/* --- Style for Código del Trabajo --- */
+.ct-style .markdown-preview-view,
+.ct-style.is-live-preview .cm-editor {
+    background-color: #FFFACD; /* Very light orange-yellow (LemonChiffon) */
+}
+
+/* Headers for Reading View & Live Preview */
+.ct-style .markdown-preview-view h1, .ct-style.is-live-preview .cm-header-1,
+.ct-style .markdown-preview-view h2, .ct-style.is-live-preview .cm-header-2,
+.ct-style .markdown-preview-view h3, .ct-style.is-live-preview .cm-header-3,
+.ct-style .markdown-preview-view h4, .ct-style.is-live-preview .cm-header-4,
+.ct-style .markdown-preview-view h5, .ct-style.is-live-preview .cm-header-5,
+.ct-style .markdown-preview-view h6, .ct-style.is-live-preview .cm-header-6 {
+    color: #D2691E; /* Dark orange (Chocolate) */
+}

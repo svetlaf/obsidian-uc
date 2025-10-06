@@ -1,0 +1,1 @@
+Plazo mínimo para negociar colectivamente. Para negociar colectivamente en una micro y pequeña empresa, en una mediana empresa o en una gran empresa, se requerirá que hayan transcurrido, a lo menos, dieciocho, doce y seis meses, respectivamente, desde el inicio de sus actividades.

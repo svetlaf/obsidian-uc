@@ -1,0 +1,1 @@
+   3º. Todo impedimento o prohibición referente a inmuebles, sea convencional, legal o  judicial, que embarace o limite de cualquier modo el libre ejercicio del derecho de enajenar. Son de la segunda clase el embargo, cesión de bienes, secuestro, litigio, etc.

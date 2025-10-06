@@ -1,0 +1,1 @@
+Cualquiera de las partes podrá exigir al notario que antes de firmarla, lea la escritura en alta voz, pero si los otorgantes están de acuerdo en omitir esta formalidad, leyéndola ellos mismos, podrá procederse así.

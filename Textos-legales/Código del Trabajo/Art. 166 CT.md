@@ -1,0 +1,1 @@
+Los trabajadores no afectos al sistema de pensiones del Decreto Ley Nº 3.500, de 1980, se afiliarán a alguna administradora de fondos de pensiones en los términos previstos en el artículo 2º de dicho cuerpo legal, para el solo efecto del cobro y administración del aporte a que se refiere el artículo precedente.

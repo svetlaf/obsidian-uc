@@ -1,0 +1,1 @@
+Si el juez que presidió la audiencia de juicio no pudiere dictar sentencia, aquélla deberá celebrarse nuevamente.

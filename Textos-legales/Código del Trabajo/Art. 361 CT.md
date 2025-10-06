@@ -1,0 +1,5 @@
+Conformación de los equipos de emergencia. El empleador, en su respuesta al proyecto de contrato colectivo, deberá proponer a la comisión negociadora sindical los trabajadores afiliados al sindicato que conformarán los equipos de emergencia, cuando corresponda.
+
+La comisión negociadora sindical tendrá un plazo de cuarenta y ocho horas para responder la propuesta del empleador. Si no contesta dentro del plazo señalado, se entenderá aceptada esta propuesta.
+
+En caso de negativa expresa de la comisión negociadora sindical o discrepancia en el número o identidad de los trabajadores del sindicato respectivo que deben conformar los equipos de emergencia, el empleador deberá solicitar a la Inspección del Trabajo que se pronuncie dentro del plazo de cinco días contados desde la respuesta. La Inspección del Trabajo tendrá un plazo de diez días para resolver el requerimiento. La resolución será notificada al correo electrónico designado por las partes y en contra de ella sólo procederá el recurso de reposición.

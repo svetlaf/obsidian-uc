@@ -1,0 +1,1 @@
+Regla de aplicación de convenios en la micro y pequeña empresa, sin sindicatos. En la micro y pequeña empresa en que no exista sindicato con derecho a negociar, los convenios podrán ser extendidos a los trabajadores sin afiliación sindical, previa aceptación escrita de la extensión y del compromiso de pago de la cuota sindical ordinaria de la respectiva organización sindical.

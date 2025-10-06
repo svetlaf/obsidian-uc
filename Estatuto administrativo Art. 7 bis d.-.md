@@ -1,0 +1,1 @@
+   d) La permanencia en estos cargos de jefatura será por un período de ==tres años==. Al término del primer período trienal, el jefe superior de cada servicio, podrá por una sola vez, previa evaluación del desempeño del funcionario, resolver la prórroga de su nombramiento por igual período o bien llamar a concurso.

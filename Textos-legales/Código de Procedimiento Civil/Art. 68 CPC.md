@@ -1,0 +1,1 @@
+En ningún caso podrá la prórroga ampliar el término más allá de los días asignados por la ley.

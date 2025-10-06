@@ -1,0 +1,1 @@
+La aceptación condicional será considerada como una propuesta.

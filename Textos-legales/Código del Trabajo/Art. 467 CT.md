@@ -1,0 +1,1 @@
+Iniciada la ejecución, el tribunal, de oficio o a petición de parte, podrá ordenar a la Tesorería General de la República que retenga de las sumas que por concepto de devolución de impuestos a la renta corresponda restituir al ejecutado, el monto objeto de la ejecución, con sus reajustes, intereses y multas. Esta medida tendrá el carácter de cautelar.

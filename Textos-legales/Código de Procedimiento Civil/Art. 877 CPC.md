@@ -1,0 +1,1 @@
+Se dará la posesión efectiva de la herencia al que la pida exhibiendo un testamento aparentemente válido en que se le instituya heredero.

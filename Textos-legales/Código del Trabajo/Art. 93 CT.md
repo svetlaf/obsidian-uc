@@ -1,0 +1,1 @@
+Para los efectos de este párrafo, se entiende por trabajadores agrícolas de temporada, todos aquellos que desempeñen faenas transitorias o de temporada en actividades de cultivo de la tierra, comerciales o industriales derivadas de la agricultura y en aserraderos y plantas de explotación de madera y otras afines.

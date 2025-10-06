@@ -1,0 +1,1 @@
+Si, ratificado el desahucio y llegado el momento de la restitución, existe retención decretada a favor del arrendatario, y el arrendador no ha caucionado el pago de las indemnizaciones debidas, no podrá éste pedir lanzamiento sin que previamente pague dichas indemnizaciones o asegure su pago a satisfacción del tribunal.

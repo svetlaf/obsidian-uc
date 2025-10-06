@@ -1,0 +1,1 @@
+Las copias podrán ser manuscritas, dactilografiadas, impresas, fotocopiadas, litografiadas o fotograbadas. En ellas deberá expresarse que son testimonio fiel de su original y llevarán la fecha, la firma y sello del funcionario autorizante. El notario deberá otorgar tantas copias cuantas se soliciten.

@@ -1,0 +1,1 @@
+Admitida la demanda, se conferirá traslado de ella al demandado para que la conteste.

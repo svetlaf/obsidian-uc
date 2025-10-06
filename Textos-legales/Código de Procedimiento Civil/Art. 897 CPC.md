@@ -1,0 +1,1 @@
+Los interesados tendrán el término de tres días para impugnar la tasación.

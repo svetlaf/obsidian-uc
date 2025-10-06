@@ -1,0 +1,1 @@
+Cada parte sólo puede presentar hasta cuatro testigos sobre cada uno de los hechos que deben ser acreditados.

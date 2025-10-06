@@ -1,0 +1,1 @@
+La ejecución de la sentencia de los arbitradores se sujetará a lo dispuesto en el artículo 635.

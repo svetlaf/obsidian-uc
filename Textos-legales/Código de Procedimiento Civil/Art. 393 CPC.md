@@ -1,0 +1,1 @@
+Si el litigante citado ante el tribunal para prestar declaración no comparece, se le volverá a citar bajo los apercibimientos que expresan los artículos siguientes.

@@ -1,0 +1,3 @@
+Presentación del proyecto de contrato colectivo y negativa del empleador a recibirlo. Copia del proyecto de contrato colectivo presentado por el o los sindicatos, firmada por el empleador para acreditar que ha sido recibido por este, con la fecha de recepción estampada en él, deberá entregarse a la Inspección del Trabajo respectiva, dentro de los cinco días siguientes a su presentación.
+
+Si el empleador se negare a recibir o certificar la recepción del proyecto, el sindicato deberá requerir a la Inspección del Trabajo, dentro de los tres días siguientes a la negativa, para que notifique el proyecto de contrato al empleador en el más breve plazo.

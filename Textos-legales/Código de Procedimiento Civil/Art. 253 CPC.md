@@ -1,0 +1,1 @@
+Todo juicio ordinario comenzará por demanda del actor, sin perjuicio de lo dispuesto en el Título IV de este Libro.

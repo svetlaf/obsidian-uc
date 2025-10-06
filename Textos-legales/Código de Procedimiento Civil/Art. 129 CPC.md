@@ -1,0 +1,1 @@
+En las gestiones para obtener privilegio de pobreza, los derechos que se causen sólo podrán reclamarse en caso de que no se dé lugar a la solicitud.

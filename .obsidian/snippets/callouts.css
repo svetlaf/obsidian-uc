@@ -1,0 +1,80 @@
+.cm-line:has(.cm-hmd-frontmatter) { display: none !important; }
+.canvas.metadata-container {
+display: none !important;
+}
+
+
+/* --- CÓDIGO CIVIL --- */
+.callout[data-callout="cc"] {
+    --callout-color: 0, 51, 102; /* Deep Blue */
+    --callout-icon: lucide-book-text;
+}
+
+.callout[data-callout="cc"] .callout-title .callout-title-inner {
+    font-size: 0;
+}
+
+.callout[data-callout="cc"] .callout-title .callout-title-inner::before {
+    font-size: 1rem;
+    content: "Código Civil";
+}
+
+/* --- CÓDIGO DE PROCEDIMIENTO CIVIL --- */
+.callout[data-callout="cpc"] {
+    --callout-color: 173, 216, 230; /* Lighter Blue */
+    --callout-icon: lucide-book-text;
+}
+
+.callout[data-callout="cpc"] .callout-title .callout-title-inner {
+    font-size: 0;
+}
+
+.callout[data-callout="cpc"] .callout-title .callout-title-inner::before {
+    font-size: 1rem;
+    content: "Código de Procedimiento Civil";
+}
+
+/* --- CÓDIGO ORGÁNICO DE TRIBUNALES --- */
+.callout[data-callout="cot"] {
+    --callout-color: 181, 101, 29; /* Light Brown */
+    --callout-icon: lucide-gavel;
+}
+
+.callout[data-callout="cot"] .callout-title .callout-title-inner {
+    font-size: 0;
+}
+
+.callout[data-callout="cot"] .callout-title .callout-title-inner::before {
+    font-size: 1rem;
+    content: "Código Orgánico de Tribunales";
+}
+
+/* --- CONSTITUCIÓN POLÍTICA DE LA REPÚBLICA --- */
+.callout[data-callout="cpr"] {
+    --callout-color: 255, 102, 102; /* Light Red */
+    --callout-icon: lucide-scale;
+}
+
+.callout[data-callout="cpr"] .callout-title .callout-title-inner {
+    font-size: 0;
+}
+
+.callout[data-callout="cpr"] .callout-title .callout-title-inner::before {
+    font-size: 1rem;
+    content: "Constitución Política de la República";
+}
+
+/* --- CÓDIGO DEL TRABAJO --- */
+.callout[data-callout="ct"] {
+    --callout-color: 255, 174, 66; /* Orange-Yellow */
+    --callout-icon: lucide-shield;
+}
+
+.callout[data-callout="ct"] .callout-title .callout-title-inner {
+    font-size: 0;
+}
+
+.callout[data-callout="ct"] .callout-title .callout-title-inner::before {
+    font-size: 1rem;
+    content: "Código del Trabajo";
+}

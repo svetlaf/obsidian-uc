@@ -1,0 +1,1 @@
+Concepto. Se entenderá por mediación laboral el sistema de resolución de conflictos en el que un tercero imparcial llamado mediador, sin poder decisorio, colabora con las partes, y les facilita la búsqueda, por sí mismas, de una solución al conflicto y sus efectos, mediante acuerdos.

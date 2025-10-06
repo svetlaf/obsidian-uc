@@ -1,0 +1,1 @@
+Si el tribunal superior declara no haber lugar al recurso, pondrá el proceso a disposición del inferior para el cumplimiento del fallo. En caso contrario mandará que se traigan los autos en relación.

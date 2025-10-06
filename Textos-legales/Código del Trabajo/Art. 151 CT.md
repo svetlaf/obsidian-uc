@@ -1,0 +1,1 @@
+La remuneración de los trabajadores de casa particular se fijará de común acuerdo entre las partes y en moneda de curso legal, sin que pueda comprender los alimentos y la habitación, los cuales siempre serán de cargo del empleador.

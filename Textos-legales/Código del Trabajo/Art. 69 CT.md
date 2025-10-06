@@ -1,0 +1,1 @@
+Para los efectos del feriado, el día sábado se considerará siempre inhábil.

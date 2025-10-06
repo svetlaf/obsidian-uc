@@ -1,0 +1,1 @@
+Practicada la tasación, se depositará en la oficina a disposición de los interesados, los cuales serán notificados de ella por el secretario o por otro ministro de fe, sin necesidad de previo decreto del tribunal.

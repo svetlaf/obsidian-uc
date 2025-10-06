@@ -1,0 +1,1 @@
+Las infracciones a las disposiciones del presente capítulo serán sancionadas con las multas a que se refiere el artículo 506.

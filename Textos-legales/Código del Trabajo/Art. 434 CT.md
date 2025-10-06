@@ -1,0 +1,3 @@
+Las partes deberán comparecer con patrocinio de abogado y representadas por persona legalmente habilitada para actuar en juicio.
+
+El mandato judicial y el patrocinio constituido en el Tribunal de Letras del Trabajo, se entenderá constituido para toda la prosecución del juicio en el Tribunal de Cobranza Laboral y Previsional, a menos que exista constancia en contrario.

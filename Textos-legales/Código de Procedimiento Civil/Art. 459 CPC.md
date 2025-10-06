@@ -1,0 +1,1 @@
+Si el deudor es requerido de pago en el territorio jurisdiccional del tribunal en que se interpuso la demanda, tendrá el término de ocho días útiles para oponerse a la ejecución.

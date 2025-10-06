@@ -1,0 +1,1 @@
+Los tribunales en estos negocios apreciarán prudencialmente el mérito de las justificaciones y pruebas de cualquiera clase que se produzcan.

@@ -1,0 +1,3 @@
+Contenido del proyecto de contrato colectivo. En la presentación del proyecto de contrato colectivo se deberán explicitar, a lo menos, las cláusulas que se proponen, la vigencia ofrecida, la comisión negociadora sindical y el domicilio físico y electrónico de el o los sindicatos respectivos. En esta misma oportunidad deberán presentar la nómina de los trabajadores que hasta ese momento se encuentren afiliados.
+
+El sindicato podrá explicar los fundamentos de su propuesta de contrato y acompañar los antecedentes que sustenten su presentación.

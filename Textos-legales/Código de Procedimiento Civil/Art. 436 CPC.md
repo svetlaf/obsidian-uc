@@ -1,0 +1,1 @@
+Reconocida la firma, quedará preparada la ejecución, aunque se niegue la deuda.

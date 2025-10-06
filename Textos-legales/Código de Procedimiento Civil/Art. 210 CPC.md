@@ -1,0 +1,1 @@
+Las resoluciones que recaigan en los incidentes que se promuevan en segunda instancia, se dictarán sólo por el tribunal de alzada y no serán apelables.

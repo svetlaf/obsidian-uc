@@ -1,0 +1,1 @@
+Se entiende por personal embarcado o gente de mar el que, mediando contrato de embarco, ejerce profesiones, oficios u ocupaciones a bordo de naves o artefactos navales.

@@ -1,0 +1,1 @@
+El término de emplazamiento para contestar la demanda será de dieciocho días si el demandado es notificado en el territorio jurisdiccional del tribunal en que se haya presentado la demanda.

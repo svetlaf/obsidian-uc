@@ -1,0 +1,1 @@
+Cuando el litigante declarado pobre no gestione personalmente ni tenga en el proceso mandatario constituido en forma legal, entrará a representarlo el procurador de pobres, sin que sea necesario mandato expreso.

@@ -1,0 +1,1 @@
+El aumento extraordinario para rendir prueba deberá solicitarse antes de vencido el término ordinario, determinando el lugar en que dicha prueba debe rendirse.

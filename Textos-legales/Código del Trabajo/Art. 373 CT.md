@@ -1,0 +1,5 @@
+Convenio de provisión de puestos de trabajo. Los convenios de provisión de puestos de trabajo de que trata el artículo 142 podrán negociarse conforme a las reglas del presente Capítulo.
+
+Durante la vigencia de un convenio de provisión de puestos de trabajo, sus estipulaciones beneficiarán a todos los afiliados a la organización que los negocie, que sean expresamente considerados en la nómina del convenio. Las estipulaciones del convenio referidas al monto de la remuneración acordada para el respectivo turno se harán extensivas a los trabajadores no considerados en la nómina antes señalada cada vez que sean contratados por el empleador. A estos últimos trabajadores no se les extenderán los demás beneficios del convenio, ni la garantía de ofertas de trabajo de la letra a) del artículo 142, salvo que medie acuerdo expreso del empleador.
+
+En cuanto a su contenido, los convenios de provisión de puestos de trabajo quedarán enteramente sujetos a lo dispuesto en el artículo 142.

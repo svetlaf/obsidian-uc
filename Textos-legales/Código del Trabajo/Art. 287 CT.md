@@ -1,0 +1,1 @@
+Las centrales sindicales se disolverán por las mismas causales establecidas con respecto a las organizaciones sindicales.

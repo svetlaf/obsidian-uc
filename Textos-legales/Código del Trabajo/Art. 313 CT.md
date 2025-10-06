@@ -1,0 +1,1 @@
+Para los efectos previstos en este Libro IV, además de los inspectores del trabajo, serán ministros de fe los notarios públicos, los oficiales del Registro Civil, los funcionarios de la Administración del Estado que sean designados en esa calidad por la Dirección del Trabajo y los secretarios municipales en localidades en que no existan otros ministros de fe disponibles.

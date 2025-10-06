@@ -1,0 +1,1 @@
+Los reajustes legales no se aplicarán a las remuneraciones y beneficios estipulados en contratos y convenios colectivos de trabajo, en acuerdos de grupo negociador o en fallos arbitrales recaídos en una negociación colectiva.

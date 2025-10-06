@@ -1,0 +1,3 @@
+Para ser receptor ante los Juzgados de Letras y procurador del número es menester tener las cualidades requeridas para poder ejercer el derecho de sufragio en las elecciones populares y acreditar la aptitud necesaria para desempeñar el cargo. Siempre será necesaria la edad de veinticinco años a lo menos para desempeñar el cargo de procurador y de receptor.
+
+Para ser asistente social judicial se requiere tener más de veintiún años de edad, encontrarse en posesión del título de asistente social otorgado por alguna Universidad del Estado o reconocida por éste.

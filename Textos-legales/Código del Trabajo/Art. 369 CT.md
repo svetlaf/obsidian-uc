@@ -1,0 +1,1 @@
+Reuniones durante la negociación. Durante la negociación y con el objeto de lograr un acuerdo, las partes se reunirán el número de veces que estimen necesario. Las partes podrán asistir a estas reuniones con sus asesores.

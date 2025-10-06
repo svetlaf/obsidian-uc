@@ -1,0 +1,3 @@
+El arbitrador practicará solo o con asistencia de un ministro de fe, según lo estime conveniente, los actos de substanciación que decrete en el juicio, y consignará por escrito los hechos que pasen ante él y cuyo testimonio le exijan los interesados, si son necesarios para el fallo.
+
+Las diligencias probatorias concernientes al juicio de compromiso que se practiquen ante los tribunales ordinarios se someterán a las reglas establecidas para éstos.

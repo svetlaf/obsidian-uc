@@ -1,0 +1,1 @@
+En todos los casos a que se refieren los artículos precedentes, la resolución que se trate de ejecutar se presentará a la Corte Suprema en copia legalizada o apostillada.

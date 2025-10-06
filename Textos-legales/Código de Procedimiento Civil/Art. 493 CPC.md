@@ -1,0 +1,1 @@
+Salvo el caso de convenio expreso de las partes, no se admitirá postura que baje de los dos tercios de la tasación. ■

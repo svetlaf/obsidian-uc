@@ -1,0 +1,1 @@
+El tiempo empleado en licencias y horas de trabajo sindical se entenderá como efectivamente trabajado para todos los efectos.

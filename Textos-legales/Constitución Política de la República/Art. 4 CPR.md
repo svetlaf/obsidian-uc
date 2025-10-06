@@ -1,0 +1,1 @@
+Chile es una república democrática.

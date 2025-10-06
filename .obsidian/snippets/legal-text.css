@@ -1,0 +1,67 @@
+/*
+================================================================================
+  Legal Text Theming Snippet for Obsidian
+================================================================================
+  This snippet changes the background and header colors of notes
+  based on their folder path within "Textos-legales".
+  It works for Live Preview, Source Mode, and Reading Mode.
+================================================================================
+*/
+
+/* --- 1. CÓDIGO CIVIL (CC) --- */
+.workspace-leaf-content[data-path^="Textos-legales/Código Civil"] {
+  --legal-text-bg-color: rgba(0, 51, 102, 0.1); /* Deep Blue, 10% opacity */
+  --legal-text-header-color: rgb(0, 51, 102);  /* Deep Blue */
+}
+
+/* --- 2. CÓDIGO DE PROCEDIMIENTO CIVIL (CPC) --- */
+.workspace-leaf-content[data-path^="Textos-legales/Código de Procedimiento Civil"] {
+  --legal-text-bg-color: rgba(173, 216, 230, 0.2); /* Lighter Blue, 20% opacity */
+  --legal-text-header-color: rgb(90, 150, 170); /* Darker shade of the Lighter Blue for readability */
+}
+
+/* --- 3. CÓDIGO ORGÁNICO DE TRIBUNALES (COT) --- */
+.workspace-leaf-content[data-path^="Textos-legales/Código Orgánico de Tribunales COT"] {
+  --legal-text-bg-color: rgba(181, 101, 29, 0.1); /* Light Brown, 10% opacity */
+  --legal-text-header-color: rgb(181, 101, 29);   /* Light Brown */
+}
+
+/* --- 4. CONSTITUCIÓN POLÍTICA DE LA REPÚBLICA (CPR) --- */
+.workspace-leaf-content[data-path^="Textos-legales/Constitución Política de la República"] {
+  --legal-text-bg-color: rgba(255, 102, 102, 0.1); /* Light Red, 10% opacity */
+  --legal-text-header-color: rgb(220, 50, 50);   /* A more solid red for headers */
+}
+
+/* --- 5. CÓDIGO DEL TRABAJO (CT) --- */
+.workspace-leaf-content[data-path^="/Users/aaaaddddd/Library/Mobile Documents/iCloud~md~obsidian/Documents/4tose/Textos-legales/Código del Trabajo"] {
+  --legal-text-bg-color: rgba(255, 174, 66, 0.1); /* Orange-Yellow, 10% opacity */
+  --legal-text-header-color: rgb(225, 140, 20);  /* A darker orange for headers */
+}
+
+
+/*
+================================================================================
+  Generic Rules to Apply the Colors (Do Not Change)
+================================================================================
+*/
+
+/* Apply the background color to the editor (Live Preview/Source) and Reading view */
+.workspace-leaf-content[data-path^="Textos-legales/"] .cm-editor,
+.workspace-leaf-content[data-path^="Textos-legales/"] .markdown-reading-view .markdown-preview-view {
+  background-color: var(--legal-text-bg-color) !important;
+}
+
+/* Apply the header color in the editor (Live Preview/Source) */
+.workspace-leaf-content[data-path^="Textos-legales/"] .cm-header {
+  color: var(--legal-text-header-color) !important;
+}
+
+/* Apply the header color in Reading view */
+.workspace-leaf-content[data-path^="Textos-legales/"] .markdown-reading-view h1,
+.workspace-leaf-content[data-path^="Textos-legales/"] .markdown-reading-view h2,
+.workspace-leaf-content[data-path^="Textos-legales/"] .markdown-reading-view h3,
+.workspace-leaf-content[data-path^="Textos-legales/"] .markdown-reading-view h4,
+.workspace-leaf-content[data-path^="Textos-legales/"] .markdown-reading-view h5,
+.workspace-leaf-content[data-path^="Textos-legales/"] .markdown-reading-view h6 {
+  color: var(--legal-text-header-color) !important;
+}

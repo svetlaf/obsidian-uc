@@ -1,0 +1,1 @@
+Las restantes resoluciones se entenderán notificadas a las partes desde que se incluyan en el estado diario.

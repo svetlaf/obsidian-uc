@@ -1,0 +1,1 @@
+Sin perjuicio de lo dispuesto en el artículo precedente, la apelación de la sentencia definitiva en este interdicto se concederá en ambos efectos.

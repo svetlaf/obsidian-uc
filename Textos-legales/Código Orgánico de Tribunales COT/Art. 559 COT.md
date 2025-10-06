@@ -1,0 +1,1 @@
+Los Tribunales Superiores de Justicia decretarán visitas extraordinarias por medio de alguno de sus ministros en los juzgados de su respectivo territorio jurisdiccional, siempre que el mejor servicio judicial lo exigiere.

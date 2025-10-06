@@ -1,0 +1,1 @@
+El juez reconocerá, en seguida, el estado de aseo y seguridad de los calabozos, oyendo las observaciones del jefe del establecimiento a este respecto; y tomará nota del movimiento de ingreso y egreso de individuos reclusos que haya habido durante el curso de la semana.

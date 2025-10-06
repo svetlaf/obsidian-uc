@@ -1,0 +1,2 @@
+
+Artículo 486.- Cualquier trabajador u organización sindical que, invocando un derecho o interés legítimo, considere lesionados derechos fundamentales en el ámbito de las relaciones jurídicas cuyo conocimiento corresponde a la jurisdicción laboral, podrá requerir su tutela por la vía de este procedimiento.

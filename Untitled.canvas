@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"4f74ad2d98d2a689","x":-183,"y":-160,"width":283,"height":50,"type":"text","text":"Derecho del Trabajo"},
+		{"id":"7645fea6a59b322d","x":-620,"y":49,"width":280,"height":60,"type":"text","text":"[[principio de dignidad]]"},
+		{"id":"244fcfb31953fbed","x":-166,"y":19,"width":250,"height":60,"type":"text","text":"[[principio protector]]"},
+		{"id":"d5cfc70d2791a98f","x":200,"y":19,"width":348,"height":60,"type":"text","text":"[[principio de libertad sindical]]"}
+	],
+	"edges":[
+		{"id":"6c82e0b843c39257","fromNode":"4f74ad2d98d2a689","fromSide":"bottom","toNode":"7645fea6a59b322d","toSide":"top"},
+		{"id":"bef33b6e4c46f687","fromNode":"4f74ad2d98d2a689","fromSide":"bottom","toNode":"244fcfb31953fbed","toSide":"top"},
+		{"id":"a5b34b97e815e847","fromNode":"4f74ad2d98d2a689","fromSide":"bottom","toNode":"d5cfc70d2791a98f","toSide":"top"}
+	]
+}

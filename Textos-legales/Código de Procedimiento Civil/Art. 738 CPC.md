@@ -1,0 +1,1 @@
+En los casos no previstos por los artículos precedentes, serán aplicables las reglas del juicio ejecutivo de mayor cuantía si la cuestión deducida es también ejecutiva.

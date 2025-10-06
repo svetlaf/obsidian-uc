@@ -1,0 +1,1 @@
+Son apelables todas las sentencias definitivas y las interlocutorias de primera instancia, salvo en los casos en que la ley deniegue expresamente este recurso.

@@ -1,0 +1,1 @@
+Existirá un organismo autónomo, con patrimonio propio, de carácter técnico, denominado Banco Central, cuya composición, organización, funciones y atribuciones determinará una ley orgánica constitucional.

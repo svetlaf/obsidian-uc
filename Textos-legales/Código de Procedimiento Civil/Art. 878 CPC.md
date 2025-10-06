@@ -1,0 +1,1 @@
+Se dará igualmente al heredero abintestato que acredite el estado civil que le da derecho a la herencia, siempre que no conste la existencia de heredero testamentario, ni se presenten otros abintestatos de mejor derecho.

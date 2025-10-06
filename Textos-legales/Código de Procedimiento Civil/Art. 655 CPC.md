@@ -1,0 +1,1 @@
+Para poner término al goce gratuito de alguno o algunos de los comuneros sobre la cosa común, bastará la reclamación de cualquiera de los interesados; salvo que este goce se funde en algún título especial.

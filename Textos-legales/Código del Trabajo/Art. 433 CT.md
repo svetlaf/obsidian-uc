@@ -1,0 +1,1 @@
+Siempre que alguna de las partes lo solicite para sí, y el tribunal acceda a ello, las actuaciones procesales, a excepción de las audiencias, podrán realizarse por medios electrónicos que permitan su adecuada recepción, registro y control. En este caso el administrador del tribunal deberá dejar constancia escrita de la forma en que se realizó dicha actuación.

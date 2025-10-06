@@ -1,0 +1,1 @@
+Si, renovado el procedimiento, hace el demandado cualquiera gestión que no tenga por objeto alegar su abandono, se considerará renunciado este derecho.

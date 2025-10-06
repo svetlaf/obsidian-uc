@@ -1,0 +1,1 @@
+El cotejo de instrumentos se hará por el funcionario que haya autorizado la copia presentada en el juicio, por el secretario del tribunal o por otro ministro de fe que dicho tribunal designe.

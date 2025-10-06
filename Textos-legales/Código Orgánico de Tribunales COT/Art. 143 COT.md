@@ -1,0 +1,1 @@
+Es competente para conocer de los interdictos posesorios el juez de letras del territorio jurisdiccional en que estuvieren situados los bienes a que se refieren. Si ellos, por su situación, pertenecieren a varios territorios jurisdiccionales, será competente el juez de cualquiera de éstos.

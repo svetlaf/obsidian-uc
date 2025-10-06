@@ -1,0 +1,5 @@
+Cuando los tribunales pidan o hayan de oír dictamen por escrito del respectivo fiscal judicial o de los defensores públicos, les enviarán comunicación de la carpeta electrónica a la que deben acceder electrónicamente.
+
+Si estos funcionarios retardan dicho dictamen, podrá el tribunal señalarles un plazo razonable para que lo envíen o agreguen a la carpeta electrónica.
+
+En aquellos casos en que otro tribunal requiera la remisión del expediente original o de algún cuaderno o pieza del proceso, el trámite se cumplirá enviando la correspondiente comunicación de la carpeta electrónica a la que deben acceder a través del sistema de tramitación electrónica del Poder Judicial. Lo mismo se aplicará cada vez que la ley ordene la remisión, devolución o envío del proceso o de cualquiera de sus piezas a otro tribunal.

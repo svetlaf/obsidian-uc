@@ -1,0 +1,1 @@
+Mediación voluntaria. Una vez vencido el plazo de respuesta del empleador, y durante todo el proceso de negociación colectiva, las partes podrán solicitar, de común acuerdo, la mediación de la Dirección del Trabajo.

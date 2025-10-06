@@ -1,0 +1,1 @@
+Siempre que tenga lugar la acumulación, el curso de los juicios que estén más avanzados se suspenderá hasta que todos lleguen a un mismo estado.

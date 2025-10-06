@@ -1,0 +1,1 @@
+Negociación no reglada. En cualquier momento y sin restricciones de ninguna naturaleza, podrán iniciarse entre uno o más empleadores y una o más organizaciones sindicales, negociaciones voluntarias, directas y sin sujeción a normas de procedimiento, para convenir condiciones comunes de trabajo y remuneraciones, por un tiempo determinado.

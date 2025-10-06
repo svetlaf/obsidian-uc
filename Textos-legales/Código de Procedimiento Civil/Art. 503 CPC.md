@@ -1,0 +1,1 @@
+La entrega de los bienes en prenda pretoria se hará bajo inventario solemne.

@@ -1,0 +1,1 @@
+Todo lo dicho en este Título se aplica a las capellanías laicales a que esté afecto algún censo.

@@ -1,0 +1,1 @@
+La acción del censualista sobre la finca acensuada se rige por las disposiciones del presente Título.

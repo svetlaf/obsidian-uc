@@ -1,0 +1,1 @@
+Las tasaciones que ocurran en los negocios no contenciosos y las que se decreten en los contenciosos, se harán por el tribunal que corresponda, oyendo a peritos nombrados en la forma establecida por el artículo 414.

@@ -1,0 +1,1 @@
+Es aplicable a la notificación de la demanda en este caso lo dispuesto por el artículo 553.

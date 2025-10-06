@@ -1,0 +1,1 @@
+En todo lo que no sea contrario a las normas especiales que las rigen, se aplicará a las federaciones, confederaciones y centrales, las normas establecidas respecto a los sindicatos, contenidas en este Libro III.

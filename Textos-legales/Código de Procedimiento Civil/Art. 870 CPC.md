@@ -1,0 +1,1 @@
+Los testamentos privilegiados se someterán en su apertura, publicación y protocolización a las reglas establecidas por el Código Civil respecto de ellos.

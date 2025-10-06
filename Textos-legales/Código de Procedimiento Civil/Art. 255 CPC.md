@@ -1,0 +1,1 @@
+Los documentos acompañados a la demanda deberán impugnarse dentro del término de emplazamiento, cualquiera sea su naturaleza.

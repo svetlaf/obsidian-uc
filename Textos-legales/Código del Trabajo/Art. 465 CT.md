@@ -1,0 +1,1 @@
+En las causas laborales el cumplimiento de la sentencia se sujetará a las normas del presente Párrafo, y a falta de disposición expresa en este texto o en leyes especiales, se aplicarán supletoriamente las normas del Título XIX del Libro Primero del Código de Procedimiento Civil, siempre que dicha aplicación no vulnere los principios que informan el procedimiento laboral.

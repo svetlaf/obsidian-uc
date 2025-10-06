@@ -1,0 +1,1 @@
+La acción de jactancia prescribe en seis meses, contados desde que tuvieron lugar los hechos en que pueda fundarse.

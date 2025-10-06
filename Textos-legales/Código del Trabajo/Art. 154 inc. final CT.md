@@ -1,0 +1,1 @@
+Las obligaciones y prohibiciones a que hace referencia el número 5 de este artículo, y, en general, toda medida de control, sólo podrán efectuarse por medios idóneos y concordantes con la naturaleza de la relación laboral y, en todo caso, su aplicación deberá ser general, garantizándose la impersonalidad de la medida, para respetar la dignidad del trabajador.

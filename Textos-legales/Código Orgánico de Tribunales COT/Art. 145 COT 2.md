@@ -1,0 +1,1 @@
+La justificación, regulación y repartimiento de la avería común se harán ante el tribunal que designa el Código de Comercio.

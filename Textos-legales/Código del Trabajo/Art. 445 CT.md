@@ -1,0 +1,3 @@
+En toda resolución que ponga término a la causa o resuelva un incidente, el juez deberá pronunciarse sobre el pago de las costas del procedimiento, tasando las procesales y regulando las personales, según proceda.
+
+Cuando el trabajador ha litigado con privilegio de pobreza, las costas personales a cuyo pago sea condenada la contraparte pertenecerán a la respectiva Corporación de Asistencia Judicial, al abogado de turno, o a quien la ley señale.

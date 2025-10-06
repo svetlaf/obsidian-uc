@@ -1,0 +1,3 @@
+Excepcionalmente, contra la resolución que falle el recurso de nulidad, podrá interponerse recurso de unificación de jurisprudencia.
+
+Procederá el recurso de unificación de jurisprudencia cuando respecto de la materia de derecho objeto del juicio existieren distintas interpretaciones sostenidas en uno o más fallos firmes emanados de Tribunales Superiores de Justicia.

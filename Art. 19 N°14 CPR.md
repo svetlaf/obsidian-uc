@@ -1,0 +1,1 @@
+14º.- El derecho de presentar petic iones a la autoridad, sobre cualquier asunto de interés público o privado, sin otra limitación que la de proceder en términos respetuosos y convenientes;  

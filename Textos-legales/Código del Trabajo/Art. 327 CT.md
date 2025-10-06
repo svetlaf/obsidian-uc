@@ -1,0 +1,1 @@
+Inicio de la negociación colectiva reglada. La negociación colectiva se inicia con la presentación del proyecto de contrato colectivo por parte de el o los sindicatos al empleador.

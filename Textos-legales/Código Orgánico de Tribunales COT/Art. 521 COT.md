@@ -1,0 +1,1 @@
+El título de abogado será otorgado en audiencia pública por la Corte Suprema reunida en tribunal pleno, previa comprobación y declaración de que el candidato reúne los requisitos establecidos por los artículos 523 y 526.

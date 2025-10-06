@@ -1,0 +1,1 @@
+Se entiende por federación la unión de tres o más sindicatos, y por confederación, la unión de tres o más federaciones o de veinte o más sindicatos.

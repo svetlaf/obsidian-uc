@@ -1,0 +1,1 @@
+Sólo podrán celebrar contrato de aprendizaje los trabajadores menores de veintiún años de edad.

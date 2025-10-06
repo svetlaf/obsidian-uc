@@ -1,0 +1,1 @@
+Para la validez de la notificación no se requiere el consentimiento del notificado.

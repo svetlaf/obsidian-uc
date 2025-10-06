@@ -1,0 +1,1 @@
+Son aplicables a la prueba de tachas las disposiciones que reglamentan la prueba de la cuestión principal.

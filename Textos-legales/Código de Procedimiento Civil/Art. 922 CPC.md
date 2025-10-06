@@ -1,0 +1,1 @@
+En segunda instancia podrá hacerse nueva estimación pericial en la forma dispuesta por los artículos 915 a 918 inclusive, si el tribunal lo juzga necesario.

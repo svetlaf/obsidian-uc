@@ -1,0 +1,1 @@
+En todo caso, se dejará en el proceso un extracto del acta de remate.

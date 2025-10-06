@@ -1,0 +1,1 @@
+Si alguna de las partes formula objeciones, podrá el tribunal resolver de plano sobre ellas, o darles la tramitación de un incidente.

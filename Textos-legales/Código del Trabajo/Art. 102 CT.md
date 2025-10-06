@@ -1,0 +1,1 @@
+Es empleador, para los efectos de este párrafo, todo dueño o armador u operador a cualquier título de un buque mercante nacional.

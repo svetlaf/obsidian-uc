@@ -1,0 +1,1 @@
+El cotejo de letras no constituye por sí solo prueba suficiente; pero podrá servir de base para una presunción judicial.

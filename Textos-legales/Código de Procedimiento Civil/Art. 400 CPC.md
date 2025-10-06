@@ -1,0 +1,1 @@
+La confesión tácita o presunta que establece el artículo 394, producirá los mismos efectos que la confesión expresa.

@@ -1,0 +1,1 @@
+De la remuneración de los árbitros. La remuneración de los árbitros será determinada por el arancel que anualmente fije la Dirección del Trabajo para el año siguiente, la que será de costo fiscal, salvo cuando el procedimiento arbitral afecte a una gran empresa, caso en el cual el costo deberá ser asumido por esta.

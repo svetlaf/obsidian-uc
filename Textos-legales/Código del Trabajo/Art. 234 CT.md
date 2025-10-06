@@ -1,0 +1,1 @@
+El directorio representará judicial y extrajudicialmente al sindicato y a su presidente le será aplicable lo dispuesto en el artículo 8º del Código de Procedimiento Civil.

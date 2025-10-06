@@ -1,0 +1,1 @@
+Los diputados y senadores percibirán como única renta una dieta equivalente a la remuneración de un Ministro de Estado.

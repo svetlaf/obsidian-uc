@@ -1,0 +1,1 @@
+Es hábil para testificar en juicio toda persona a quien la ley no declare inhábil.

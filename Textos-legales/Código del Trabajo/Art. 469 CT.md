@@ -1,0 +1,3 @@
+Notificada la liquidación, las partes tendrán el plazo de cinco días para objetarla, sólo si de ella apareciere que hay errores de cálculo numérico, alteración en las bases de cálculo o elementos o incorrecta aplicación de los índices de reajustabilidad o de intereses emanados de los órganos competentes.
+
+El tribunal resolverá de plano la objeción planteada, pudiendo oír a la contraria si estima que los antecedentes agregados a la causa no son suficientes para emitir pronunciamiento.

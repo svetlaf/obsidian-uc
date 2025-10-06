@@ -1,0 +1,1 @@
+Siempre que el actor lo exija, se dejará en el proceso copia de las piezas que se presenten, o de su parte conducente, y una razón de la clase y estado actual de los objetos exhibidos.

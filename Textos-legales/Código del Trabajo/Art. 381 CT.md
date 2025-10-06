@@ -1,0 +1,1 @@
+Mediación laboral de conflictos colectivos. Los conflictos colectivos que no tengan un procedimiento especial previsto en este Libro para su resolución podrán sujetarse a las disposiciones de este Capítulo.

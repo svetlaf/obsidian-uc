@@ -1,0 +1,7 @@
+Las resoluciones no comprendidas en los artículos precedentes se entenderán notificadas a las partes desde que se incluyan en un estado que deberá formarse electrónicamente, el que estará disponible diariamente en la página web del Poder Judicial con las indicaciones que el inciso siguiente expresa.
+
+Se encabezará el estado con la fecha del día en que se forme y se mencionarán por el número de orden que les corresponda en el rol general, expresado en cifras y en letras y, además, por los apellidos del demandante y del demandado o de los primeros que figuren con dicho carácter si son varios, todas las causas en que se haya dictado resolución en aquel día y el número de resoluciones dictadas en cada una de ellas.
+
+Estos estados se mantendrán en la página web del Poder Judicial durante al menos tres días en una forma que impida hacer alteraciones en ellos. De las notificaciones realizizadas en conformidad a este artículo se dejará constancia en la carpeta electrónica el mismo día en que se publique el estado.
+
+La notificación efectuada conforme a este artículo será nula en caso que no sea posible la visualización de la resolución referida en el estado diario por problemas técnicos del sistema de tramitación electrónica del Poder Judicial, lo que podrá declararse de oficio o a petición de parte.

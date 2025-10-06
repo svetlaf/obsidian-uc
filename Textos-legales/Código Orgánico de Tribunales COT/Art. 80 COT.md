@@ -1,0 +1,1 @@
+En los casos de los artículos 77, 78 y 79 no se verá de nuevo la causa aunque deje de tomar parte en el acuerdo alguno o algunos de los que concurrieron a la vista, siempre que el fallo sea acordado por el voto conforme de la mayoría del total de jueces que haya intervenido en la vista de la causa.

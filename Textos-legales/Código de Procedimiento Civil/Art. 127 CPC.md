@@ -1,0 +1,1 @@
+La recusación y la implicancia que deban surtir efecto en diversos juicios de las mismas partes, podrán hacerse valer en una sola gestión.

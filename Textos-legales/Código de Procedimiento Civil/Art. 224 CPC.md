@@ -1,0 +1,1 @@
+Si la apelación comprende dos o más puntos independientes entre sí y susceptibles de resolución aislada, podrá el tribunal alterar la regla del artículo precedente haciendo que los abogados aleguen separada y sucesivamente sobre cada punto.

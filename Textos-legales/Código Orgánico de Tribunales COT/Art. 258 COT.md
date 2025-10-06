@@ -1,0 +1,1 @@
+No pueden ser simultáneamente jueces de una misma Corte de Apelaciones, los parientes consanguíneos o afines en línea recta, ni los colaterales que se hallen dentro del segundo grado de consanguinidad o afinidad.

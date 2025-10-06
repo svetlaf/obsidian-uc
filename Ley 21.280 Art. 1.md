@@ -1,0 +1,3 @@
+Artículo 1°.- Declárase interpretado el inciso primero del artículo 485 del Código del Trabajo en el siguiente sentido:
+
+Las normas de los artículos 485 y siguientes del Código del Trabajo, contenidas en el Párrafo 6° del Capítulo II del Título I del Libro V de dicho cuerpo normativo, son aplicables a todos los trabajadores, incluidos aquellos a los que hace referencia el inciso segundo del artículo 1° del Código del Trabajo, en virtud de lo dispuesto en los incisos primero y tercero de ese mismo artículo. También serán aplicables a los trabajadores que se desempeñen en los órganos señalados en los Capítulos VII, VIII, IX, X y XIII de la Constitución Política de la República y a aquellos que sus propias leyes declaren como autónomos.

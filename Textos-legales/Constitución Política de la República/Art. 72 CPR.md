@@ -1,0 +1,1 @@
+Aprobado un proyecto por ambas Cámaras será remitido al Presidente de la República, quien, si también lo aprueba, dispondrá su promulgación como ley.

@@ -1,0 +1,1 @@
+La Dirección del Trabajo podrá hacerse parte o querellarse en los procesos a que diere lugar un hecho que revista caracteres de delito, en relación a los trámites que se desarrollen ante ella, o que se hubiere cometido en contra de alguno de sus funcionarios en el ejercicio de sus deberes.

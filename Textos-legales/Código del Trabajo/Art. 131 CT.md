@@ -1,0 +1,1 @@
+No se aplicarán las disposiciones de este párrafo a los trabajadores embarcados en naves menores, salvo acuerdo de las partes.

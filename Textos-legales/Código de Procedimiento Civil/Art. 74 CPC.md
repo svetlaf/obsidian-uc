@@ -1,0 +1,1 @@
+Podrá una misma comunicación dirigirse a diversos tribunales para que se practiquen actuaciones en distintos puntos sucesivamente. Las primeras diligencias practicadas, junto con la comunicación que las motive, se remitirán por el tribunal que haya intervenido en ellas al que deba continuarlas en otro territorio.

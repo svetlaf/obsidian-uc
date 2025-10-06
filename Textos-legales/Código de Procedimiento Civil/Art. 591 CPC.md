@@ -1,0 +1,1 @@
+La reclamación se notificará al que hace el desahucio en la forma que dispone el artículo 553, debiendo intervenir el defensor de ausentes en los casos y para los efectos que allí se expresan.

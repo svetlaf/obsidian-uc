@@ -1,0 +1,1 @@
+Los secretarios letrados de los juzgados civiles podrán dictar por sí solos las sentencias interlocutorias, autos y decretos, providencias o proveídos, salvo cuando ello pudiere importar poner término al juicio o hacer imposible su continuación. La reposición que sea procedente en contra de estas resoluciones, en su caso, será resuelta por el juez.

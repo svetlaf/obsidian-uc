@@ -1,0 +1,1 @@
+Las obligaciones de residencia y asistencia diaria al despacho cesan durante los días feriados. Son tales los que la ley determine y los comprendidos en el tiempo de vacaciones de cada año, que corresponderá a un feriado anual de un mes.

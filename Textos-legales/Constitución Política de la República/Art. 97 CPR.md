@@ -1,0 +1,1 @@
+Anualmente, se destinarán en la Ley de Presupuestos de la Nación los fondos necesarios para la organización y funcionamiento de estos tribunales, cuyas plantas, remuneraciones y estatuto del personal serán establecidos por ley.

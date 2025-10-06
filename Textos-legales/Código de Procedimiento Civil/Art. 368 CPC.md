@@ -1,0 +1,1 @@
+La declaración constituye un solo acto que no puede interrumpirse sino por causas graves y urgentes.

@@ -1,0 +1,1 @@
+Las piezas que se presenten al tribunal se mantendrán bajo su custodia y responsabilidad. Éstas no podrán retirarse sino por las personas y en los casos expresamente contemplados en la ley. Corresponderá al tribunal velar por el estricto cumplimiento de lo establecido en el artículo 393 del Código Orgánico de Tribunales.

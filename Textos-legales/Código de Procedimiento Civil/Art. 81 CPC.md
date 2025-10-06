@@ -1,0 +1,1 @@
+Los incidentes a que den lugar las disposiciones contenidas en los dos artículos anteriores, no suspenderán el curso de la causa principal y se substanciarán en cuaderno separado.

@@ -1,0 +1,1 @@
+Medidas de reparación. En el caso de la denuncia del artículo 345, el tribunal competente podrá disponer, como medida de reparación, una indemnización del daño causado a los afectados por la infracción a la prohibición de reemplazar trabajadores en huelga, además de la multa establecida en el artículo 406.

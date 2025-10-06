@@ -1,0 +1,1 @@
+La propuesta hecha por escrito deberá ser aceptada o desechada dentro de veinticuatro horas, si la persona a quien se ha dirigido residiere en el mismo lugar que el proponente, o a vuelta de correo, si estuviere en otro diverso.

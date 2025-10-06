@@ -1,0 +1,1 @@
+Los actos procesales serán públicos y deberán realizarse con la celeridad necesaria, procurando concentrar en un solo acto aquellas diligencias en que esto sea posible.

@@ -1,0 +1,17 @@
+---
+fileClass: articulo, vigencia, historia-y-fuentes, codigo-civil
+tags:
+- derecho-civil
+- derecho-privado
+estado: vigente
+tipo: multi
+incisos: ["[[Art. 1938 inc. 2]]", "[[Art. 1938 inc. 1]]"]
+libro:
+titulo:
+parrafo:
+corriente-juridica:
+
+---
+El arrendatario es obligado a usar de la cosa según los términos o espíritu del contrato; y no podrá en consecuencia hacerla servir a otros objetos que los convenidos, o, a falta de convención expresa, aquellos a que la cosa es naturalmente destinada, o que deban presumirse de las circunstancias del contrato o de la costumbre del país. [[Art. 1938 inc. 1| ]]
+
+Si el arrendatario contraviene a esta regla, podrá el arrendador reclamar la terminación del arriendo con indemnización de perjuicios, o limitarse a esta indemnización, dejando subsistir el arriendo. [[Art. 1938 inc. 2| ]]

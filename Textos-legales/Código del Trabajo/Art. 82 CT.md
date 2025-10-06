@@ -1,0 +1,1 @@
+En ningún caso las remuneraciones de los aprendices podrán ser reguladas a través de convenios o contratos colectivos, acuerdos de grupo negociador o fallos arbitrales recaídos en una negociación colectiva.

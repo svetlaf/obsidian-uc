@@ -1,0 +1,41 @@
+{
+  "matches": [
+    {
+      "path": "Textos-legales",
+      "scope": "Read",
+      "classes": [
+        "hide-frontmatter"
+      ]
+    },
+    {
+      "path": "Textos-legales/Código Orgánico de Tribunales COT",
+      "scope": "Read & Edit",
+      "classes": [
+        "cot-style"
+      ]
+    },
+    {
+      "path": "Textos-legales/Código del Trabajo",
+      "scope": "Read & Edit",
+      "classes": [
+        "ct-style"
+      ]
+    },
+    {
+      "path": "Textos-legales/Código Civil",
+      "scope": "Read & Edit",
+      "classes": [
+        "cc-style"
+      ]
+    },
+    {
+      "path": "Textos-legales/Constitución Política de la República",
+      "scope": "Read & Edit",
+      "classes": [
+        "cpr-style"
+      ]
+    }
+  ],
+  "version": "2.3.0",
+  "usePathGlob": false
+}

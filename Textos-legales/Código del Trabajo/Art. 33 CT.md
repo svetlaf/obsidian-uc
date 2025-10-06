@@ -1,0 +1,5 @@
+El empleador tiene el deber de controlar la asistencia y determinar las horas de trabajo, sean ordinarias o extraordinarias. Estará obligado a llevar un libro de asistencia del personal, un reloj control con tarjetas de registro o un sistema electrónico de registro.
+
+Una resolución del Director del Trabajo, que se publicará en el Diario Oficial, establecerá y regulará las condiciones y requisitos que deberán cumplir los sistemas electrónicos de registro y control de asistencia y horas de trabajo correspondientes al servicio prestado, el que será uniforme para una misma actividad.
+
+La Dirección del Trabajo, a petición de parte, se pronunciará respecto de si un determinado sistema electrónico se ajusta a las condiciones establecidas en la referida resolución, lo que habilitará su utilización.

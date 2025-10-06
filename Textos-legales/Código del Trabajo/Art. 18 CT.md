@@ -1,0 +1,1 @@
+Queda prohibido a los adolescentes con edad para trabajar realizar labores en horario nocturno en establecimientos industriales y comerciales. El período durante el cual el adolescente con edad para trabajar no puede trabajar de noche será de trece horas consecutivas, que comprenderá, al menos, el intervalo que media entre las veintiuna y las ocho horas.

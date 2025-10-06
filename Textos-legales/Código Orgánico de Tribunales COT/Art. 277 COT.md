@@ -1,0 +1,15 @@
+El secretario o administrador del tribunal en donde presten servicios, llevará una hoja de vida de cada persona que deba ser evaluada; si existe más de un secretario, el tribunal distribuirá entre ellos esta labor.
+
+En el caso de los funcionarios auxiliares de la Administración de Justicia señalados en la letra b) del artículo 273, corresponderá esta tarea al secretario de la Corte de Apelaciones o al que designe ese tribunal, de haber más de uno. Respecto de los funcionarios auxiliares indicados en la letra e) del mismo artículo, corresponderá al secretario del tribunal que designe la respectiva Corte de Apelaciones. En el caso a que se refiere la letra c) de dicho artículo, corresponderá esta tarea al secretario abogado del fiscal judicial de la Corte Suprema y en el de la letra d) de la misma disposición, al respectivo fiscal judicial.
+
+Las hojas de vida de las personas a quienes se asigna esta labor serán llevadas por el Presidente de la Corte Suprema, por el fiscal judicial de la Corte Suprema, por los Presidentes de las Cortes de Apelaciones o por los jueces, según corresponda.
+
+En la hoja de vida los encargados dejarán constancia clara, oportuna y precisa, de las medidas disciplinarias ejecutoriadas y de las apreciaciones de mérito y de demérito que ordenen anotar los tribunales, ministros visitadores y los funcionarios calificadores indicados en el artículo 273 respecto de las personas que les corresponda calificar. Tratándose de tribunales colegiados, las anotaciones de mérito o de demérito serán decretadas por el tribunal pleno o por cualquiera de las salas de que se componen.
+
+Los antecedentes que figuren en la hoja de vida serán reservados, salvo para la persona a que se refieren, la que podrá imponerse de su contenido las veces que estime conveniente y hacer llegar al encargado de llevarlas, antes que se inicie el proceso de calificación, las observaciones y antecedentes que desee, para ser agregados.
+
+Ante el mismo encargado y en igual oportunidad, las personas que deben ser evaluadas podrán pedir que se anote en su hoja de vida la circunstancia de haber participado en actividades idóneas de capacitación y perfeccionamiento, para lo cual deberán acompañar los certificados y comprobantes pertinentes.
+
+Cuando en virtud de traslado o ascenso de un determinado funcionario o empleado, deba cambiar el calificador, el anterior cerrará su hoja de vida y la remitirá al nuevo calificador inmediatamente de materializado el traslado o ascenso, junto con un informe de calificación en el cual consignará su desempeño funcionario. La persona encargada de llevar la hoja de vida del funcionario trasladado o ascendido procederá a abrir una nueva hoja de vida, a la cual anexará la anterior y el informe de calificación.
+
+Existirá, además, una hoja de calificación en la cual se resumirá y valorará, anualmente, el desempeño de cada funcionario y se dejará constancia de la lista en que quedó clasificado.

@@ -1,0 +1,1 @@
+Los notarios sólo podrán dar copias íntegras de las escrituras o documentos protocolizados, salvo los casos en que la ley ordene otra cosa, o que por decreto judicial se le ordene certificar sobre parte de ellos.

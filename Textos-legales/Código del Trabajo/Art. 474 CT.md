@@ -1,0 +1,1 @@
+Los recursos se regirán por las normas establecidas en este Párrafo, y supletoriamente por las normas establecidas en el Libro Primero del Código de Procedimiento Civil.

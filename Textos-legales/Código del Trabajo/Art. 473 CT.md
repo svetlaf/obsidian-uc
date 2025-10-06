@@ -1,0 +1,7 @@
+Tratándose de títulos ejecutivos laborales distintos a los señalados en el número 1 del artículo 464, su ejecución se regirá por las disposiciones que a continuación se señalan y a falta de norma expresa, le serán aplicables las disposiciones de los Títulos I y II del Libro Tercero del Código de Procedimiento Civil, siempre que dicha aplicación no vulnere los principios que informan el procedimiento laboral.
+
+Una vez despachada la ejecución, el juez deberá remitir sin más trámite la causa a la unidad de liquidación o al funcionario encargado, según corresponda, para que se proceda a la liquidación del crédito, lo que deberá hacerse dentro de tercer día.
+
+En los juicios ejecutivos se practicará personalmente el requerimiento de pago al deudor y la notificación de la liquidación, pero si no es habido se procederá en la forma establecida en el artículo 437, expresándose en la copia a que este mismo se refiere, a más del mandamiento, la designación del día, hora y lugar que fije el ministro de fe para practicar el requerimiento. No concurriendo a esta citación el deudor, se trabará el embargo inmediatamente y sin más trámite.
+
+En lo demás, se aplicarán las reglas contenidas en los artículos 467, 468, 469; inciso primero del artículo 470, e incisos segundo y tercero del artículo 471.

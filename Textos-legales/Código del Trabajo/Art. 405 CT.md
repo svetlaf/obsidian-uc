@@ -1,0 +1,1 @@
+Práctica desleal de la empresa principal. La contratación directa o indirecta de los trabajadores en huelga de una empresa contratista o subcontratista por parte de la empresa principal será considerada práctica desleal.

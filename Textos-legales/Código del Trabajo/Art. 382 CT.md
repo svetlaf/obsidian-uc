@@ -1,0 +1,1 @@
+Forma de inicio de la mediación de conflictos colectivos. Cualquiera de las partes podrá recurrir a la Inspección del Trabajo para solicitarle una instancia de mediación laboral de conflictos colectivos. Asimismo, la Inspección del Trabajo podrá intervenir de oficio.

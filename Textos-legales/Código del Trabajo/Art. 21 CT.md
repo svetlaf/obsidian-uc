@@ -1,0 +1,2 @@
+Jornada de trabajo es el tiempo durante el cual el trabajador debe prestar efectivamente sus servicios en conformidad al contrato.
+Se considerará también jornada de trabajo el tiempo en que el trabajador se encuentra a disposición del empleador sin realizar labor, por causas que no le sean imputables.

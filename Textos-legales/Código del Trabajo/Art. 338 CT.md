@@ -1,0 +1,1 @@
+Registro de la respuesta. El empleador deberá remitir a la Inspección del Trabajo copia de la respuesta dentro de los cinco días siguientes a la fecha en que esta haya sido entregada a la comisión negociadora sindical, adjuntando comprobante de su recepción por el sindicato.

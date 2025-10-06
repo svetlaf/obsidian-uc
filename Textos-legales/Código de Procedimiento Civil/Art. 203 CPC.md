@@ -1,0 +1,1 @@
+Si el tribunal inferior deniega un recurso de apelación que ha debido concederse, la parte agraviada podrá ocurrir al superior respectivo, dentro del plazo de cinco días contado desde la notificación de la negativa, para que declare admisible dicho recurso.

@@ -1,0 +1,1 @@
+Puede pedir la apertura, publicación y protocolización de un testamento cualquiera persona capaz de parecer por sí mismo en juicio.

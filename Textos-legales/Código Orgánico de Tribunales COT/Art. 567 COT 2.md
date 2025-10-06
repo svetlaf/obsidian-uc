@@ -1,0 +1,1 @@
+El último día hábil de cada semana, un juez de garantía, designado por el comité de jueces del tribunal de la respectiva jurisdicción, visitará la cárcel o el establecimiento en que se encuentren los detenidos o presos a fin de indagar si sufren tratos indebidos, si se les coarta la libertad de defensa o si se prolonga ilegalmente la tramitación de su proceso.

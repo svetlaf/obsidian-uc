@@ -1,0 +1,3 @@
+Partes. Las partes deben negociar de buena fe, cumpliendo con las obligaciones y plazos previstos en las disposiciones siguientes, sin poner obstáculos que limiten las opciones de entendimiento entre ambas.
+
+Para determinar si dos o más empresas deben ser consideradas como un solo empleador para efectos de la negociación colectiva, se estará a lo dispuesto en los incisos cuarto y siguientes del artículo 3.

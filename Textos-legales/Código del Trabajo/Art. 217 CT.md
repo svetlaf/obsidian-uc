@@ -1,0 +1,1 @@
+Los funcionarios de las empresas del Estado dependientes del Ministerio de Defensa Nacional o que se relacionen con el Gobierno a través de dicho Ministerio podrán constituir organizaciones sindicales en conformidad a las disposiciones de este Libro, sin perjuicio de las normas sobre negociación colectiva contenidas en el Libro siguiente.

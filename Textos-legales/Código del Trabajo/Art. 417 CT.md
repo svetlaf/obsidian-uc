@@ -1,0 +1,1 @@
+Los juzgados a que se refieren los artículos anteriores son tribunales especiales integrantes del Poder Judicial, teniendo sus magistrados la categoría de Jueces de Letras y les son aplicables las normas del Código Orgánico de Tribunales en todo aquello no previsto en este título.

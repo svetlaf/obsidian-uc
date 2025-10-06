@@ -1,0 +1,1 @@
+Al finalizar la audiencia se extenderá el acta correspondiente, en la que constará el lugar, fecha e individualización del tribunal, de las partes comparecientes, de sus apoderados y abogados, y de toda otra circunstancia que el tribunal estime necesario incorporar.

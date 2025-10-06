@@ -1,0 +1,1 @@
+Respecto de los trabajadores a que se refiere este título, el contrato de trabajo se someterá preferentemente a las normas de los artículos siguientes.

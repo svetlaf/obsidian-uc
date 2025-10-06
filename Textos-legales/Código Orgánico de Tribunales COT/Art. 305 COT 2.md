@@ -1,0 +1,1 @@
+Prestado que sea el juramento, se hará constar la diligencia en el libro respectivo, y de ella se dará testimonio al nombrado, el cual entrará inmediatamente en el ejercicio de sus funciones.

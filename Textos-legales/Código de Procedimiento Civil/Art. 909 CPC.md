@@ -1,0 +1,1 @@
+Los tribunales admitirán las informaciones de testigos que ante ellos se promuevan, con tal que no se refieran a hechos de que pueda resultar perjuicio a persona conocida y determinada.

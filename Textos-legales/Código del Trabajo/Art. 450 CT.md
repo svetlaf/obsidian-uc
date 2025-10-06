@@ -1,0 +1,1 @@
+El procedimiento regulado en este Párrafo se desarrollará en dos audiencias, la primera preparatoria y la segunda de juicio, conforme a las reglas que se señalan en los artículos siguientes.

@@ -1,0 +1,1 @@
+*En los casos mencionados en el inciso anterior, el plazo de desahucio será de dos meses, contado desde su notificación, y se aumentará en un mes por cada año completo que el arrendatario hubiera ocupado el inmueble. Dicho plazo más el aumento no podrá exceder, en total, de seis meses.*

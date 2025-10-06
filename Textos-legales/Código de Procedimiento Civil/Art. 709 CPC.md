@@ -1,0 +1,1 @@
+El plazo para que se declare abandonado el procedimiento en estos juicios, será de tres meses.

@@ -1,0 +1,1 @@
+Los fiscales judiciales gozan de la misma inamovilidad que los jueces, tienen el tratamiento de Señoría y les es aplicable todo lo prevenido respecto de los honores y prerrogativas de los jueces por los artículos 308 y 309.

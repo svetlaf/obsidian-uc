@@ -1,0 +1,1 @@
+Es aplicable a la denuncia de obra ruinosa lo dispuesto en el artículo 553.

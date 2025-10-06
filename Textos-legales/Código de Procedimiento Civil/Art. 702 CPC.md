@@ -1,0 +1,1 @@
+La sentencia deberá dictarse dentro del plazo de 15 días, contado desde el término de la vista de la causa.

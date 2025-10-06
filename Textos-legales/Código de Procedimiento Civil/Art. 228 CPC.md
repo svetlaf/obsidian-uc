@@ -1,0 +1,1 @@
+Los tribunales podrán mandar, a petición de parte, informar en derecho.

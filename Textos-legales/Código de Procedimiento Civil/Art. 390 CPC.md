@@ -1,0 +1,1 @@
+Antes de interrogar al litigante, se le tomará juramento de decir verdad en conformidad al artículo 363.

@@ -1,0 +1,1 @@
+El procedimiento es ordinario o extraordinario. Es ordinario el que se somete a la tramitación común ordenada por la ley, y extraordinario el que se rige por las disposiciones especiales que para determinados casos ella establece.

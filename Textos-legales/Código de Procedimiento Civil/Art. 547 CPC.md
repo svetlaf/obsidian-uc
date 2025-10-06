@@ -1,0 +1,1 @@
+De la misma preferencia establecida en el artículo anterior gozarán las cauciones legales que se presten en substitución de la retención.

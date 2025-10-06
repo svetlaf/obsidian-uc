@@ -1,0 +1,1 @@
+Efecto de la interposición de acciones judiciales. En los procedimientos judiciales a que dé lugar el ejercicio de las acciones previstas en este Libro, el tribunal podrá, mediante resolución fundada, disponer la suspensión de la negociación colectiva en curso. La resolución será apelable conforme a lo dispuesto en el artículo 476.

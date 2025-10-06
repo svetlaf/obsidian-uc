@@ -1,0 +1,1 @@
+Lo dispuesto en el artículo anterior es sin perjuicio de la responsabilidad penal en los casos en que las conductas antisindicales o desleales configuren faltas, simples delitos o crímenes.

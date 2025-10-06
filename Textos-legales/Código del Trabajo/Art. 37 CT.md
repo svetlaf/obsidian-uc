@@ -1,0 +1,3 @@
+Las empresas o faenas no exceptuadas del descanso dominical no podrán distribuir la jornada ordinaria de trabajo en forma que incluya el día domingo o festivo, salvo en caso de fuerza mayor.
+
+Si la Dirección del Trabajo estableciere fundadamente que no hubo fuerza mayor, el empleador deberá pagar las horas como extraordinarias y se le aplicará una multa con arreglo a lo previsto en el artículo 506.

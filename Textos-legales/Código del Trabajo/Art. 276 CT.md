@@ -1,0 +1,1 @@
+Reconócese el derecho de constituir centrales sindicales, sin autorización previa. Estas adquirirán personalidad jurídica por el solo registro de sus estatutos y acta de constitución en la Dirección del Trabajo, en conformidad a la ley.

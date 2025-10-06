@@ -1,0 +1,1 @@
+Los derechos de cada diligencia se pagarán tan pronto como ésta se evacue; pero la falta de pago no podrá entorpecer en ningún caso la marcha del juicio.

@@ -1,0 +1,1 @@
+Para que proceda la ejecución, se requiere además que la obligación sea actualmente exigible.

@@ -1,0 +1,1 @@
+No podrá alegarse el abandono del procedimiento en los procedimientos concursales de liquidación, ni en los de división o liquidación de herencias, sociedades o comunidades.

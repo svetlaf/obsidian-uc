@@ -1,0 +1,5 @@
+Votación de la huelga. La votación de la huelga se realizará en forma personal, secreta y ante un ministro de fe. Los votos serán impresos y deberán emitirse con las expresiones "última oferta del empleador" o "huelga".
+
+La última oferta o la huelga deberán ser acordadas por la mayoría absoluta de los trabajadores representados por el sindicato. Del quórum de votación se descontarán aquellos trabajadores que no se encuentren actualmente prestando servicios en la empresa por licencia médica, feriado legal o aquellos que, por requerimientos de la empresa, se encuentren fuera del lugar habitual donde prestan servicios.
+
+De aprobarse la huelga, esta se hará efectiva a partir del inicio de la respectiva jornada del quinto día siguiente a su aprobación.

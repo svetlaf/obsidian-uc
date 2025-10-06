@@ -1,0 +1,1 @@
+Los chilenos, y los extranjeros residentes que hayan cursado la totalidad de sus estudios de derecho en Chile, podrán ejercer la profesión de abogado. Lo anterior se entenderá sin perjuicio de lo que dispongan los tratados internacionales vigentes.

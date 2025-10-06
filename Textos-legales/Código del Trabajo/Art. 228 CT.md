@@ -1,0 +1,1 @@
+Para constituir un sindicato que no sea de aquellos a que se refiere el artículo anterior, se requerirá del concurso de un mínimo de veinticinco trabajadores para formarlo.

@@ -1,0 +1,1 @@
+Son igualmente aplicables a los auxiliares de la Administración de Justicia las disposiciones relativas a las licencias, permisos y feriados de los jueces contenidas en el párrafo 9 del Título X del presente Código.

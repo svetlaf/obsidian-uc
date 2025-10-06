@@ -1,0 +1,5 @@
+Las multas, consignaciones, intereses y demás sumas que corresponda entregar en definitiva al Fisco o a otras instituciones señaladas por la ley, las pagará el tribunal al respectivo beneficiario en la primera quincena de enero de cada año, exceptuándose las multas que se perciban por infracción a la Ley de Alcoholes, cuyo pago se hará en conformidad a dicha ley.
+
+TITULO XV
+
+Los Abogados

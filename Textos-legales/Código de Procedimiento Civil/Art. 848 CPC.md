@@ -1,0 +1,1 @@
+Se sacarán de los bienes del ausente las expensas de la litis, así como los fondos necesarios para dar cumplimiento a los fallos que se expidan en su contra y para cubrir los gastos que ocasione la curaduría.

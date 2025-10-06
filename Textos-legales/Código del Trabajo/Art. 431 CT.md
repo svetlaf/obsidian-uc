@@ -1,0 +1,5 @@
+En las causas laborales, toda actuación, trámite o diligencia del juicio, realizada por funcionarios del tribunal será gratuita para las partes. El encargado de la gestión administrativa del tribunal será responsable de la estricta observancia tanto de esta gratuidad como del oportuno cumplimiento de las diligencias.
+
+Las partes que gocen de privilegio de pobreza tendrán derecho a defensa letrada gratuita por parte de las respectivas Corporaciones de Asistencia Judicial o, en su defecto, por un abogado de turno, o del sistema de defensa gratuita que disponga la ley. Asimismo, tendrán derecho, a que todas las actuaciones en que deban intervenir auxiliares de la administración de justicia se cumplan oportuna y gratuitamente.
+
+Las defensas orales sólo podrán ser efectuadas por abogados habilitados.

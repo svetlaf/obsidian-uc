@@ -1,0 +1,1 @@
+Para decretar las medidas de que trata este Título, deberá el que las solicite expresar la acción que se propone deducir y someramente sus fundamentos.

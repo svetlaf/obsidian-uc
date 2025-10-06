@@ -1,0 +1,1 @@
+Cuando el tribunal lo estime necesario podrá, antes de dictar sentencia, nombrar un perito que informe sobre los hechos alegados o practicar una inspección personal.

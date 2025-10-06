@@ -1,0 +1,1 @@
+Comprobada la constitución del censo y no presentándose contradictor, lo que certificará antes del último decreto el secretario, el tribunal decretará el derecho del compareciente, si acredita los requisitos establecidos en el artículo 902.

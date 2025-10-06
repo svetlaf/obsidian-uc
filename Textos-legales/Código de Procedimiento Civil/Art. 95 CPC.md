@@ -1,0 +1,1 @@
+Para que pueda tener lugar la acumulación, se requiere que los juicios se encuentren sometidos a una misma clase de procedimiento y que la substanciación de todos ellos se encuentre en instancias análogas.

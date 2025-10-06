@@ -1,0 +1,1 @@
+El notario entregará al archivero judicial que corresponda, los protocolos a su cargo, que tengan más de un año desde la fecha de cierre y los índices de escrituras públicas que tengan más de diez años.

@@ -1,0 +1,1 @@
+El notario es responsable de las faltas, defectos o deterioros de los protocolos, mientras los conserve en su poder.

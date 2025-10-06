@@ -1,0 +1,1 @@
+Reconócese a los trabajadores del sector privado y de las empresas del Estado, cualquiera sea su naturaleza jurídica, el derecho de constituir, sin autorización previa, las organizaciones sindicales que estimen convenientes, con la sola condición de sujetarse a la ley y a los estatutos de las mismas.

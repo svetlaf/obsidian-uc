@@ -1,0 +1,5 @@
+Última oferta del empleador. El empleador, con a lo menos dos días de anticipación al inicio del período en que se puede hacer efectiva la votación de la huelga, podrá presentar a la comisión negociadora sindical una propuesta formal de contrato colectivo denominada "última oferta". Esta propuesta deberá estar contenida en un documento suscrito por la comisión negociadora de la empresa. En la micro y pequeña empresa bastará que la última oferta sea firmada por uno de los miembros de la comisión negociadora de la empresa.
+
+A falta de última oferta, aquella estará constituida por la propuesta formal más próxima al vencimiento del plazo señalado en el inciso anterior. De no existir propuestas formales, se tendrá por última oferta la respuesta del empleador.
+
+La última oferta podrá ser informada por el empleador por escrito a todos los trabajadores involucrados en la negociación a través de mecanismos generales de comunicación.

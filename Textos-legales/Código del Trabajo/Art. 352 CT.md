@@ -1,0 +1,3 @@
+Votación que no alcanza los quórum necesarios. En los casos en que no se alcancen los quórum de votación necesarios para que la asamblea acuerde la huelga, el sindicato tendrá la facultad de impetrar la suscripción de un contrato colectivo con las estipulaciones establecidas en el piso de la negociación, conforme al artículo 342, facultad que deberá ejercerse dentro del plazo de tres días contado desde la votación.
+
+En caso de no ejercer la facultad señalada en el inciso anterior, se entenderá que el sindicato ha optado por aceptar la última oferta del empleador.

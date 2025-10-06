@@ -1,0 +1,1 @@
+Los términos de días que establece el presente Código, se entenderán suspendidos durante los feriados, salvo que el tribunal, por motivos justificados, haya dispuesto expresamente lo contrario.

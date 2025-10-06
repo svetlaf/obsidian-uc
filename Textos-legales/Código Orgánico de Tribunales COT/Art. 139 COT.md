@@ -1,0 +1,1 @@
+Si una misma demanda comprendiere obligaciones que deban cumplirse en diversos territorios jurisdiccionales, será competente para conocer del juicio el juez del lugar en que se reclame el cumplimiento de cualquiera de ellas.

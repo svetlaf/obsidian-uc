@@ -1,0 +1,1 @@
+En los asuntos no contenciosos no se tomará en consideración el fuero personal de los interesados para establecer la competencia del tribunal.

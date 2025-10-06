@@ -1,0 +1,1 @@
+Los Ministros serán responsables individualmente de los actos que firmaren y solidariamente de los que suscribieren o acordaren con los otros Ministros.

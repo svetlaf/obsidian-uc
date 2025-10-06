@@ -1,0 +1,1 @@
+Si el trabajo hubiere de efectuarse en naves que se encuentran a la gira, serán de cargo del empleador los gastos que demande el transporte entre el muelle y la nave respectiva.

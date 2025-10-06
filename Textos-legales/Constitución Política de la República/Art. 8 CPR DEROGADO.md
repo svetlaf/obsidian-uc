@@ -1,0 +1,1 @@
+Todo acto de persona o grupo destinado a propagar doctrinas que atenten contra la familia, propugnen la violencia o una concepción de la sociedad del Estado o del orden jurídico, de carácter totalitario o fundada en la lucha de clases, es ilícito y contrario al ordenamiento institucional de la república

@@ -1,0 +1,1 @@
+Concluida la información, se pasará al defensor público para que examine las cualidades de los testigos y si se ha acreditado su identidad por alguno de los medios expresados.

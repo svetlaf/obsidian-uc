@@ -1,0 +1,1 @@
+En los juicios civiles podrán hacerse valer las sentencias dictadas en un proceso criminal siempre que condenen al procesado

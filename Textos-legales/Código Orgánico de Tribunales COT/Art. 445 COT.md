@@ -1,0 +1,1 @@
+Toda sanción penal impuesta a un notario en virtud de este párrafo, lleva consigo la inhabilitación especial perpetua para el ejercicio del cargo, sin perjuicio de las otras penas accesorias que procedan en conformidad al Código Penal.

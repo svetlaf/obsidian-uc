@@ -1,0 +1,1 @@
+En todo caso, se deducirán de las gratificaciones legales cualesquiera otras remuneraciones que se convengan con imputación expresa a las utilidades de la empresa.

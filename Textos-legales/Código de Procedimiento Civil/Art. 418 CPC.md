@@ -1,0 +1,1 @@
+Cuando sean varios los peritos procederán unidos a practicar el reconocimiento, salvo que el tribunal los autorice para obrar de otra manera.

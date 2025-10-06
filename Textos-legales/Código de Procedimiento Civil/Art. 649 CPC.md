@@ -1,0 +1,1 @@
+Las materias sometidas al conocimiento del partidor se ventilarán en audiencias verbales, consignándose en las respectivas actas sus resultados; o por medio de solicitudes escritas, cuando la naturaleza e importancia de las cuestiones debatidas así lo exijan. Las resoluciones que se dicten con tal objeto serán inapelables. ■

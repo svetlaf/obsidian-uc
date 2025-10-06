@@ -1,0 +1,3 @@
+Si se contratare a un niño, niña o adolescente sin sujeción a lo dispuesto en los artículos precedentes, el empleador estará sujeto a todas las obligaciones inherentes al contrato mientras se aplicare; pero el inspector del trabajo, de oficio o a petición de parte, deberá ordenar la cesación de la relación y aplicar al empleador las sanciones que correspondan.
+
+Cualquier persona podrá denunciar ante los organismos competentes las infracciones relativas al trabajo de niños, niñas y adolescentes de que tuviere conocimiento.

@@ -1,0 +1,1 @@
+La implicancia y la recusación de los auxiliares de la Administración de Justicia se reclamarán ante el tribunal que conozca del negocio en que aquéllos deban intervenir, y se admitirán sin más trámite cuando no necesiten fundarse en causa legal.

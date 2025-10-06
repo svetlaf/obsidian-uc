@@ -1,0 +1,1 @@
+Sin perjuicio de lo dispuesto en el artículo 1703 del Código Civil, la fecha de un instrumento privado se contará respecto de terceros desde su anotación en el repertorio con arreglo al presente Código.

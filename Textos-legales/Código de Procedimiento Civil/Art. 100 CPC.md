@@ -1,0 +1,1 @@
+De las resoluciones que nieguen la acumulación o den lugar a ella sólo se concederá apelación en el efecto devolutivo.

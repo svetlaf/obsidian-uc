@@ -1,0 +1,7 @@
+Trabajadores impedidos de ejercer el derecho a negociar colectivamente, forma y reclamo de esta condición. No podrán negociar colectivamente los trabajadores que tengan facultades de representación del empleador y que estén dotados de facultades generales de administración, tales como gerentes y subgerentes. En la micro y pequeña empresa esta prohibición se aplicará también al personal de confianza que ejerza cargos superiores de mando.
+
+De la circunstancia a que se refiere el inciso anterior deberá además dejarse constancia escrita en el contrato de trabajo y, a falta de esta estipulación, se entenderá que el trabajador está habilitado para negociar colectivamente.
+
+El trabajador o el sindicato al que se encuentre afiliado podrán reclamar a la Inspección del Trabajo de la circunstancia hecha constar en su contrato, de no poder negociar colectivamente. La resolución de la Inspección del Trabajo podrá reclamarse judicialmente a través del procedimiento establecido en el artículo 504, dentro del plazo de quince días contado desde su notificación.
+
+Las micro, pequeñas y medianas empresas podrán excusarse de negociar colectivamente con los trabajadores sujetos a contrato de aprendizaje.

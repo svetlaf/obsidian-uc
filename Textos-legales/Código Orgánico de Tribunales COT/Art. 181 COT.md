@@ -1,0 +1,1 @@
+Un tribunal que no es naturalmente competente para conocer de un determinado asunto, puede llegar a serlo si para ello las partes, expresa o tácitamente, convienen en prorrogarle la competencia para este negocio.

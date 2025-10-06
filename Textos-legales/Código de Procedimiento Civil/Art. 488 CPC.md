@@ -1,0 +1,1 @@
+Aprobada la tasación, se señalará día y hora para la subasta.

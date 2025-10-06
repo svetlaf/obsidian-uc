@@ -1,0 +1,7 @@
+Las empresas, establecimientos, faenas o unidades económicas que ocupen normalmente diez o más trabajadores permanentes, contados todos los que presten servicios en las distintas fábricas o secciones, aunque estén situad as en localidades diferentes, estarán obligadas L. 18.620 a confeccionar un reglamento interno de orden, higiene y seguridad que contenga las obligaciones y prohibiciones a que deben sujetarse los trabajadores, en relación con sus labores, permanencia y vida en las dependencias de la respectiva empresa o establecimiento.
+
+Especialmente, se deberán estipular las normas que se deben observar para garantizar un ambiente laboral digno y de mutuo respeto entre los trabajadores.
+
+Una copia del reglamento deberá remitirse al Ministerio de Salud y a la Dirección del Trabajo dentro de los cinco días siguientes a la vigencia del mismo.
+
+Cualquier trabajador o las organizaciones sindicales de la empresa respectiva podrán impugnar las disposiciones del L. 19.759 reglamento interno que estimaren ilegales, mediante presentación efectuada ante la autoridad de salud o ante la Dirección del Trabajo, según corresponda. De igual modo, esa autoridad o esa Dirección podrán, de oficio, exigir modificaciones al referido reglamento en razón de ilegalidad. Asimismo, podrán exigir que se incorporen las disposiciones que le son obligatorias de conformidad al artículo siguiente.

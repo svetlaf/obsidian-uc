@@ -1,0 +1,1 @@
+La vista y conocimiento en cuenta de las causas y asuntos incidentales de las Cortes de Apelaciones, se regirán por las reglas de los Códigos de Procedimiento Civil y de Procedimiento Penal o Procesal Penal, según corresponda.

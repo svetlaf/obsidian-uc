@@ -1,0 +1,1 @@
+El contrato a que se refiere este capítulo tendrá vigencia hasta la terminación del plan de aprendizaje, el que no podrá exceder de dos años.

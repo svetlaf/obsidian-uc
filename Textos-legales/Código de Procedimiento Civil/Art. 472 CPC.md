@@ -1,0 +1,1 @@
+Si no se oponen excepciones, se omitirá la sentencia y bastará el mandamiento de ejecución para que el acreedor pueda perseguir la realización de los bienes embargados y el pago, de conformidad a las disposiciones del procedimiento de apremio.

@@ -1,0 +1,1 @@
+Una vez firme la sentencia, lo que deberá certificar de oficio el tribunal, y siempre que no se acredite su cumplimiento dentro del término de cinco días, se dará inicio a su ejecución de oficio por el tribunal, de conformidad a lo dispuesto en los artículos siguientes.

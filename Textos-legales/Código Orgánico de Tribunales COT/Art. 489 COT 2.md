@@ -1,0 +1,1 @@
+Los receptores y los funcionarios llamados a subrogarlos podrán ser inhabilitados sin expresión de causa por una vez, por cada parte, en un mismo juicio. Pasado este número se deberá expresar y probar alguna de las causas de implicancia o recusación determinadas para los jueces en cuanto les sean aplicables.

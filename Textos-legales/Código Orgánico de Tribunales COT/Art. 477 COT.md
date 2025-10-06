@@ -1,0 +1,1 @@
+Las obligaciones de residencia y asistencia cesan durante los días feriados que señala el artículo 313.

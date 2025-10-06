@@ -1,0 +1,1 @@
+En los asuntos de jurisdicción no contenciosa, el tribunal resolverá con sólo la audiencia del fiscal judicial.

@@ -1,0 +1,1 @@
+Es aplicable a la Corte Suprema lo dispuesto para los acuerdos de los tribunales de juicio oral en lo penal en los artículos 19 y 20, y de las Cortes de Apelaciones en los artículos 72, 74 y siguientes, hasta el 89 inclusive.

@@ -1,0 +1,5 @@
+Los consejos técnicos son organismos auxiliares de la administración de justicia, compuestos por profesionales en el número y con los requisitos que establece la ley. Su función es asesorar individual o colectivamente a los jueces con competencia en asuntos de familia, en el análisis y mayor comprensión de los asuntos sometidos a su conocimiento en el ámbito de su especialidad.
+
+Cuando por implicancia o recusación, un miembro del consejo técnico no pudiere intervenir en una determinada causa, o se imposibilitare para el ejercicio de su cargo, será subrogado por los demás miembros del consejo técnico del tribunal a que perteneciere, según el orden de sus nombramientos y la especialidad requerida.
+
+Si todos los miembros del consejo técnico de un tribunal estuvieren afectados por una implicancia o recusación, el juez designará un profesional que cumpla con los requisitos para integrar un consejo técnico de cualquier servicio público, el que estará obligado a desempeñar el cargo.

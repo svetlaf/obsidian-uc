@@ -1,0 +1,3 @@
+Cuando se dictaren distintas sentencias condenatorias en contra de un mismo imputado, los tribunales que dictaren los fallos posteriores al primero no podrán considerar circunstancias modificatorias que de haberse acumulado los procesos no se hubieren podido tomar en cuenta. Deberán, asimismo, regular la pena de modo tal que el conjunto de penas no pueda exceder de aquella que hubiere correspondido de haberse juzgado conjuntamente los delitos.
+
+En los casos del inciso anterior, el tribunal que dictare el fallo posterior deberá modificarlo, de oficio o a petición del afectado, a objeto de adecuarlo a lo allí dispuesto.

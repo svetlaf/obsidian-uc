@@ -1,0 +1,1 @@
+Lo dispuesto en los artículos 567, 578, 580 y 581 será aplicable a los recintos en que se ejecuten las medidas de internación provisoria y de internación en régimen cerrado establecidas en la ley que regula la responsabilidad penal de los adolescentes.

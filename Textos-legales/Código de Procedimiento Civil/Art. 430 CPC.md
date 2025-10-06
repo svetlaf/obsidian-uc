@@ -1,0 +1,1 @@
+Vencido el término de prueba, y dentro de los diez días siguientes, las partes podrán hacer por escrito las observaciones que el examen de la prueba les sugiera.

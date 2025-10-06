@@ -1,0 +1,1 @@
+La infracción a lo dispuesto en el artículo 136 se sancionará con una multa a beneficio fiscal de cinco a veinticinco unidades tributarias mensuales, que se duplicará en caso de reincidencia.

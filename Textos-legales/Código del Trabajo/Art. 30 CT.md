@@ -1,0 +1,1 @@
+Se entiende por jornada extraordinaria la que excede del máximo legal o de la pactada contractualmente, si fuese menor.

@@ -1,0 +1,1 @@
+Las notificaciones en esta gestión se harán en la forma que establece el artículo 48.

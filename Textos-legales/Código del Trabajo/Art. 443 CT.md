@@ -1,0 +1,1 @@
+Los incidentes de cualquier naturaleza deberán promoverse preferentemente en la audiencia respectiva y resolverse de inmediato. Excepcionalmente, el tribunal podrá dejar su resolución para la sentencia definitiva.

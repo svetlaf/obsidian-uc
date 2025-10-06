@@ -1,0 +1,1 @@
+En los casos de pérdida, robo o inutilización de los protocolos o documentos pertenecientes a la notaría, el notario dará cuenta inmediatamente al ministerio público para que inicie la correspondiente investigación.

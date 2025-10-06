@@ -1,0 +1,1 @@
+Toda persona que deba comparecer en juicio a su propio nombre o como representante legal de otra, deberá hacerlo en la forma que determine la ley.

@@ -1,0 +1,1 @@
+El mantenimiento de las salas cunas será de costo exclusivo del o los empleadores, quienes deberán tener una persona competente a cargo de la atención y cuidado de los niños, en los términos establecidos en las normas sobre autorización de funcionamiento o reconocimiento oficial, según corresponda.

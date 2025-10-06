@@ -1,0 +1,1 @@
+El armador, directamente o por intermedio del capitán, hará la distribución de las jornadas de que trata el artículo anterior.

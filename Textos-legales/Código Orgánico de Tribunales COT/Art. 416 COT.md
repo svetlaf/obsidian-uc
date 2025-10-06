@@ -1,0 +1,1 @@
+No pueden protocolizarse, ni su protocolización producirá efecto alguno, los documentos en que se consignen actos o contratos con causa u objeto ilícitos, salvo que lo pidan personas distintas de los otorgantes o beneficiarios de ellos.

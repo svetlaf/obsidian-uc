@@ -1,0 +1,1 @@
+No están dispensados de la fianza los curadores interinos que hayan de durar o hayan durado tres meses o más en el ejercicio de su cargo.

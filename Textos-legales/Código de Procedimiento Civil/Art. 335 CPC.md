@@ -1,0 +1,1 @@
+Vencido el término ordinario, sólo podrá rendirse prueba en aquellos lugares para los cuales se haya otorgado aumento extraordinario del término.

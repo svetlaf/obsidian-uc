@@ -1,0 +1,5 @@
+La adhesión a la apelación puede efectuarse en segunda instancia dentro del plazo de cinco días desde la fecha de la certificación a la que se refiere el artículo 200. El escrito de adhesión a la apelación deberá cumplir con los requisitos que establece el artículo 189. Se aplicará a la adhesión a la apelación lo dispuesto en el artículo 201.
+
+No será, sin embargo, admisible desde el momento en que el apelante haya presentado escrito para desistirse de la apelación.
+
+La hora de presentación de las solicitudes de adhesión y de desistimiento se registrará por el sistema de tramitación electrónica del Poder Judicial, o por el tribunal a través del timbre disponible ante el buzón dispuesto al efecto o mediante la anotación del correspondiente ministro de fe en los casos excepcionales en que se permite la presentación de los escritos en soporte papel.

@@ -1,0 +1,1 @@
+Consumidores o usuarios: las personas naturales o jurídicas que, en virtud de cualquier acto jurídico oneroso, adquieren, utilizan, o disfrutan, como destinatarios finales, bienes o servicios. En ningún caso podrán ser considerados consumidores los que de acuerdo al número siguiente deban entenderse como proveedores.

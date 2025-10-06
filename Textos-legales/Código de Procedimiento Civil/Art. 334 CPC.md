@@ -1,0 +1,1 @@
+Se puede, durante el término ordinario, rendir prueba en cualquier parte de la República y fuera de ella.

@@ -1,0 +1,1 @@
+En los juicios arbitrales se harán las notificaciones personalmente o por cédula, salvo que las partes unánimemente acuerden otra forma de notificación.

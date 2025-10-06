@@ -1,0 +1,1 @@
+Cuando la parte que promueve un incidente dilatorio no obtenga resolución favorable, será precisamente condenada en las costas.

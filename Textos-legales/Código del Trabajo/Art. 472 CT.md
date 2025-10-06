@@ -1,0 +1,1 @@
+Las resoluciones que se dicten en los procedimientos regulados por este Párrafo serán inapelables, salvo lo dispuesto en el artículo 470.

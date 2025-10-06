@@ -1,0 +1,1 @@
+Los delegados presidenciales provinciales, en los casos y forma que determine la ley, podrán designar encargados para el ejercicio de sus facultades en una o más localidades.

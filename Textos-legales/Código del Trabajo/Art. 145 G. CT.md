@@ -1,0 +1,1 @@
+En los contratos de trabajo de duración inferior a treinta días, las remuneraciones se pagarán con la periodicidad estipulada en el contrato de trabajo, pero los períodos que se convengan no podrán exceder de su fecha de término.

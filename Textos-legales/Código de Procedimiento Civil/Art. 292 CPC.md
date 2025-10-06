@@ -1,0 +1,1 @@
+Son aplicables al secuestro las disposiciones que el Párrafo 2° del Título I del Libro III establece respecto del depositario de los bienes embargados.

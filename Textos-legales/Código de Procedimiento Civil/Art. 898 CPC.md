@@ -1,0 +1,1 @@
+De la impugnación de una de las partes se dará traslado a la otra, por el término de tres días.

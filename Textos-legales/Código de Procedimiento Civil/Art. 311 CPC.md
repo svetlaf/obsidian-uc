@@ -1,0 +1,1 @@
+De la contestación se comunicará traslado al actor por el término de seis días, y de la réplica al demandado por igual término.

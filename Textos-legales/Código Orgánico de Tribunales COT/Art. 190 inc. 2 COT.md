@@ -1,0 +1,1 @@
+Si los tribunales fueren de distinta jerarquía, será competente para resolver la contienda el superior de aquel que tenga jerarquía más alta.

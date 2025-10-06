@@ -1,0 +1,1 @@
+Si se rechaza la conciliación, o no se efectúa el comparendo, el secretario certificará este hecho de inmediato, y quedará la carpeta electrónica a disposición del juez para que éste, examinándolos por sí mismo, proceda enseguida a dar cumplimiento a lo señalado en el artículo 318.

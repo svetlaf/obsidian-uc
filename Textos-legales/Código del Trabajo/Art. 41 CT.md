@@ -1,0 +1,3 @@
+Se entiende por remuneración las contraprestaciones en dinero y las adicionales en especie avaluables en dinero que debe percibir el trabajador del empleador por causa del contrato de trabajo.
+
+No constituyen remuneración las asignaciones de movilización, de pérdida de caja, de desgaste de herramientas y de colación, los viáticos, las prestaciones familiares otorgadas en conformidad a la ley, las indemnizaciones establecidas en el artículo 163 y las demás que proceda pagar al extinguirse la relación contractual ni, en general, las devoluciones de gastos en que se incurra por causa del trabajo.

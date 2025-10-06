@@ -1,0 +1,1 @@
+Los jueces jubilados gozarán de los mismos honores y prerrogativas que los que se hallan en actual servicio.

@@ -1,0 +1,1 @@
+Competencia. Será competente para conocer de las cuestiones a que dé origen la aplicación de este Libro el Juzgado de Letras del Trabajo del domicilio del demandado o el del lugar donde se presten o se hayan prestado los servicios, a elección del demandante.

@@ -1,0 +1,1 @@
+La sentencia definitiva se pronunciará sobre las acciones y excepciones deducidas que no se hubieren resuelto con anterioridad y sobre los incidentes, en su caso, o sólo sobre éstos cuando sean previos e incompatibles con aquéllas.

@@ -1,0 +1,1 @@
+Para ser elegido o desempeñarse como director sindical o delegado sindical de acuerdo a lo dispuesto en el artículo 229, se requiere cumplir con los requisitos que señalen los respectivos estatutos.

@@ -1,0 +1,1 @@
+Informe de mediación. Si no se produce acuerdo dentro del plazo, el mediador pondrá término a su gestión, presentando a las partes un informe sobre lo realizado.

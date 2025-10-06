@@ -1,0 +1,5 @@
+El director se desempeñará como secretario del Consejo Superior y tendrá derecho a voz en sus reuniones.
+
+Sin perjuicio de las demás atribuciones y deberes que le fije el Consejo Superior, con el acuerdo de éste corresponderá al director organizar y determinar las diversas tareas y responsabilidades específicas tanto del personal y de las unidades con que se estructurará la Corporación, como de las oficinas de ésta que el Consejo Superior estime necesario establecer en las Cortes de Apelaciones, debiendo velar por su debida coordinación para una administración eficiente de los recursos.
+
+Compete al director impartir instrucciones al subdirector y demás personal de la Corporación; supervigilar y fiscalizar el cumplimiento de las mismas y, en general, realizar todos los actos y gestiones necesarias para dar cumplimiento y eficacia a los acuerdos del Consejo Superior así como para instar por el cumplimiento de los fines de la Corporación conforme a las decisiones generales del referido Consejo.

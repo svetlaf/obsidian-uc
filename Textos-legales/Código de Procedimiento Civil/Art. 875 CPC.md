@@ -1,0 +1,1 @@
+Decretada la guarda y aposición de sellos, se pueden practicar estas diligencias aun cuando no esté presente ninguno de los interesados.

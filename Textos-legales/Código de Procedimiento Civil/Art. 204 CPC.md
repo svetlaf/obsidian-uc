@@ -1,0 +1,5 @@
+El tribunal superior pedirá al inferior informe sobre el asunto en que haya recaído la negativa, y con el mérito de lo informado resolverá si es o no admisible el recurso.
+
+Podrá el tribunal superior ordenar al inferior poner a su disposición la carpeta electrónica correspondiente, siempre que, a su juicio, ello sea necesario para dictar una resolución acertada.
+
+Podrá, asimismo, ordenar que no se innove cuando haya antecedentes que justifiquen esta medida.

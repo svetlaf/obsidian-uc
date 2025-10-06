@@ -1,0 +1,1 @@
+En las diligencias judiciales a que se refieren los artículos que preceden, actuará el secretario del tribunal a quien corresponda por la ley el conocimiento del negocio.

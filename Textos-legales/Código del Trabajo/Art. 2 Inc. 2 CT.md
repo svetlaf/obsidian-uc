@@ -1,0 +1,7 @@
+Las relaciones laborales deberán siempre fundarse en un trato libre de violencia, compatible con la dignidad de la persona y con perspectiva de género, lo que, para efectos de este Código, implica la adopción de medidas tendientes a promover la igualdad y a erradicar la discriminación basada en dicho motivo. Son contrarias a lo anterior, entre otras conductas, las siguientes:
+
+a) El acoso sexual, entendiéndose por tal el que una persona realice, en forma indebida, por cualquier medio, requerimientos de carácter sexual, no consentidos por quien los recibe y que amenacen o perjudiquen su situación laboral o sus oportunidades en el empleo.
+
+b) El acoso laboral, entendiéndose por tal toda conducta que constituya agresión u hostigamiento ejercida por el empleador o por uno o más trabajadores, en contra de otro u otros trabajadores, por cualquier medio, ya sea que se manifieste una sola vez o de manera reiterada, y que tenga como resultado para el o los afectados su menoscabo, maltrato o humillación, o bien que amenace o perjudique su situación laboral o sus oportunidades en el empleo.
+
+c) La violencia en el trabajo ejercida por terceros ajenos a la relación laboral, entendiéndose por tal aquellas conductas que afecten a las trabajadoras y a los trabajadores, con ocasión de la prestación de servicios, por parte de clientes, proveedores o usuarios, entre otros.

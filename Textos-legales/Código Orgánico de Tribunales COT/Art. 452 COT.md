@@ -1,0 +1,1 @@
+Se extiende a los conservadores, en cuanto es adaptable a ellos, todo lo dicho en este Código respecto de los notarios.

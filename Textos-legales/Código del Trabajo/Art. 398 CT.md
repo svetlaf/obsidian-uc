@@ -1,0 +1,1 @@
+Características del Registro Nacional de Árbitros Laborales. El Registro Nacional de Árbitros Laborales será de carácter público. Contendrá el nombre del árbitro, región o regiones de desempeño, los casos asignados y terminados y el monto de los honorarios percibidos.

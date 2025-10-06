@@ -1,0 +1,1 @@
+Las horas de comida no serán consideradas para los efectos de la jornada ordinaria de trabajo.

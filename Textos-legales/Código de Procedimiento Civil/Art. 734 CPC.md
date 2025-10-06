@@ -1,0 +1,1 @@
+Los bienes embargados serán tasados por el juez, quien podrá, si lo estima necesario, oír peritos designados en conformidad al artículo 720.

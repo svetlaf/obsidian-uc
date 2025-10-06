@@ -1,0 +1,1 @@
+Son emblemas nacionales la bandera nacional, el escudo de armas de la República y el himno nacional.

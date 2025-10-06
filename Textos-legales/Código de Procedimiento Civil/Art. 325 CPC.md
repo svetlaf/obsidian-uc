@@ -1,0 +1,1 @@
+En los tribunales colegiados podrán practicarse las diligencias probatorias ante uno solo de sus miembros comisionado al efecto por el tribunal.

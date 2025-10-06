@@ -1,0 +1,1 @@
+Para ser relator, secretario de la Corte Suprema o de las Cortes de Apelaciones y notario se requieren las mismas condiciones que para ser juez de letras de comuna o agrupación de comunas.

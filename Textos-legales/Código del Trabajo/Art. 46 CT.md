@@ -1,0 +1,1 @@
+Si las partes convinieren un sistema de gratificaciones, éstas no podrán ser inferiores a las que resulten de la aplicación de las normas siguientes.

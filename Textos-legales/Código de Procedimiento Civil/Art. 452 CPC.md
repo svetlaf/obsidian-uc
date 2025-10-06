@@ -1,0 +1,1 @@
+Si el deudor no concurre a la diligencia de embargo o si se niega a hacer la entrega al depositario, procederá a efectuarla el ministro de fe.

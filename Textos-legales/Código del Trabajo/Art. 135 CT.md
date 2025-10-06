@@ -1,0 +1,1 @@
+Para los efectos de este contrato, será aplicable la presunción de derecho que establece el artículo 4º, respecto de la persona que haya concurrido a su celebración o ejecución, por mandato del empleador, aun cuando no reúna el requisito de habitualidad exigido por dicho precepto.

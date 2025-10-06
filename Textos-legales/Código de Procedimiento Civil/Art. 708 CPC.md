@@ -1,0 +1,1 @@
+Para practicar notificaciones en estos juicios serán hábiles las horas comprendidas entre las seis y las veinte horas de todos los días del año. ■

@@ -1,0 +1,1 @@
+Corresponderá al jefe de la unidad administrativa que tenga a su cargo la administración de causas del respectivo juzgado o tribunal autorizar el mandato judicial y efectuar las certificaciones que la ley señale expresamente.

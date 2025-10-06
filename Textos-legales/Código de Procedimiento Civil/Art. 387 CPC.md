@@ -1,0 +1,1 @@
+Mientras la confesión no sea prestada, se mantendrán en reserva las interrogaciones sobre que debe recaer.

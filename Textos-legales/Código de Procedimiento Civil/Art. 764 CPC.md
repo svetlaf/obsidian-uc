@@ -1,0 +1,1 @@
+El recurso de casación se concede para invalidar una sentencia en los casos expresamente señalados por la ley.

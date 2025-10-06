@@ -1,0 +1,1 @@
+Los tribunales señalarán en cada caso el término dentro del cual deben los peritos evacuar su encargo; y podrán, en caso de desobediencia, apremiarlos con multas, prescindir del informe o decretar el nombramiento de nuevos peritos, según los casos.

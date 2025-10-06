@@ -1,0 +1,1 @@
+Cada juez ejercerá unipersonalmente la potestad jurisdiccional respecto de los asuntos que las leyes encomiendan a los Juzgados de Letras del Trabajo o de Cobranza Laboral y Previsional.

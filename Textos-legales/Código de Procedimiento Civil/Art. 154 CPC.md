@@ -1,0 +1,1 @@
+Podrá alegarse el abandono por vía de acción o de excepción, y se tramitará como incidente.

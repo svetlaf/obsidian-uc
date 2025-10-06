@@ -1,0 +1,1 @@
+Será juez competente para conocer de los juicios de distribución de aguas el de la comuna o agrupación de comunas en que se encuentra el predio del demandado. Si el predio estuviere ubicado en comunas o agrupaciones de comunas cuyo territorio correspondiere a distintos juzgados, será competente el de cualquiera de ellas.

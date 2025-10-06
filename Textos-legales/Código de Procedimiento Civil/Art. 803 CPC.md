@@ -1,0 +1,1 @@
+El recurrente, hasta antes de la vista del recurso, podrá designar un abogado para que lo defienda ante el tribunal ad-quem, que podrá ser o no el mismo que patrocinó el recurso.

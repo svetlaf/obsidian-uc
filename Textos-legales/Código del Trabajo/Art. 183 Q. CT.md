@@ -1,0 +1,1 @@
+Será nula la cláusula del contrato de puesta a disposición de trabajadores de servicios transitorios que prohíba la contratación del trabajador por la usuaria a la finalización de dicho contrato.

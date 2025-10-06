@@ -1,0 +1,1 @@
+Los terceros acreedores que tengan derechos que hacer valer sobre los bienes comprendidos en la partición, podrán ocurrir al partidor o a la justicia ordinaria, a su elección.

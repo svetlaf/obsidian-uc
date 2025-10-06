@@ -1,0 +1,1 @@
+Fuera de los casos determinados en el artículo precedente, la apelación deberá otorgarse en ambos efectos.

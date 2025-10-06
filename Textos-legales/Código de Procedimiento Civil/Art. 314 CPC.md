@@ -1,0 +1,1 @@
+Si el demandado reconviene al actor, deberá hacerlo en el escrito de contestación, sujetándose a las disposiciones de los artículos 254 y 261; y se considerará, para este efecto, como demandada la parte contra quien se deduzca la reconvención.

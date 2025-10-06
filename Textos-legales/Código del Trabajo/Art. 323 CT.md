@@ -1,0 +1,5 @@
+Derecho a la libre afiliación y vinculación del trabajador con el instrumento colectivo. El trabajador podrá afiliarse y desafiliarse libremente de cualquier sindicato.
+
+No obstante el cambio de afiliación sindical o desafiliación, el trabajador se mantendrá afecto al instrumento colectivo negociado por el sindicato al que pertenecía y que estuviere vigente, debiendo pagar el total de la cuota mensual ordinaria de ese sindicato durante toda la vigencia de dicho instrumento colectivo. Al término de la vigencia del instrumento colectivo del sindicato al que estaba afiliado, el trabajador pasará a estar afecto al instrumento colectivo del sindicato al que se hubiere afiliado, de existir este.
+
+Una vez iniciada la negociación colectiva, los trabajadores involucrados permanecerán afectos a esta, así como al instrumento colectivo a que dicha negociación diere lugar.

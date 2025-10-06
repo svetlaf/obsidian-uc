@@ -1,0 +1,1 @@
+Pueden ser defensores públicos los que pueden ser jueces de letras del respectivo territorio jurisdiccional.

@@ -1,0 +1,1 @@
+Pactos sobre condiciones especiales de trabajo. Los convenios colectivos suscritos de acuerdo a las reglas precedentes podrán incluir pactos sobre condiciones especiales de trabajo de conformidad a lo dispuesto en el Título VI de este Libro.

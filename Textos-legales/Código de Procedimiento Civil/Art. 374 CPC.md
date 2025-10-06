@@ -1,0 +1,1 @@
+Opuesta la tacha y antes de declarar el testigo, podrá la parte que lo presenta pedir que se omita su declaración y que se reemplace por la de otro testigo hábil de los que figuran en la nómina respectiva.

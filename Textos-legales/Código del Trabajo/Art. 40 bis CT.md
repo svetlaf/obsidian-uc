@@ -1,0 +1,1 @@
+Se podrán pactar contratos de trabajo con jornada a tiempo parcial, considerándose afectos a la normativa del presente párrafo, aquéllos en que se ha convenido una jornada de trabajo no superior a treinta horas semanales.

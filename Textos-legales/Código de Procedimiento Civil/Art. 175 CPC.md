@@ -1,0 +1,1 @@
+Las sentencias definitivas o interlocutorias firmes producen la acción o la excepción de cosa juzgada.

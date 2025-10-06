@@ -1,0 +1,1 @@
+Los informes en derecho, con las firmas del abogado y de la parte o de su procurador, y el certificado a que se refiere el número 6º del artículo 372 del Código Orgánico de Tribunales se agregarán a la carpeta electrónica para conocimiento de los ministros.

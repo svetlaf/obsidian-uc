@@ -1,0 +1,1 @@
+La tramitación de los títulos ejecutivos laborales se desarrollará de oficio y por escrito por el tribunal, dictándose al efecto las resoluciones y ordenándose las diligencias que sean necesarias para ello.

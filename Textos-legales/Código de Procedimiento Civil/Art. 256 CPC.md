@@ -1,0 +1,1 @@
+Puede el juez de oficio no dar curso a la demanda que no contenga las indicaciones ordenadas en los tres primeros números del artículo 254, expresando el defecto de que adolece.

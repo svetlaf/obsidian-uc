@@ -1,0 +1,1 @@
+El juez de oficio ordenará agregar aquellos antecedentes y medios probatorios que estime pertinentes.

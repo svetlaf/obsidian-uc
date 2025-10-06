@@ -1,0 +1,1 @@
+Si del título aparece una obligación en parte líquida e ilíquida en otra, podrá procederse ejecutivamente por la primera, reservándose al acreedor su derecho para reclamar el resto en vía ordinaria.

@@ -1,0 +1,38 @@
+{
+	"nodes":[
+		{"id":"fd7b855d63a3c808","type":"group","x":-140,"y":-180,"width":440,"height":6115,"label":"PPTX"},
+		{"id":"f5f50f5be0d980b0","type":"file","file":"clases/laboral/ilovepdf_pages-to-jpg/6. Jornada Laboral 2025_page-0006.jpg","x":-120,"y":965,"width":400,"height":225},
+		{"id":"09b5d2d100ada061","type":"file","file":"clases/laboral/ilovepdf_pages-to-jpg/6. Jornada Laboral 2025_page-0007.jpg","x":-120,"y":1190,"width":400,"height":225},
+		{"id":"89694156dac86af6","type":"file","file":"clases/laboral/ilovepdf_pages-to-jpg/6. Jornada Laboral 2025_page-0008.jpg","x":-120,"y":1415,"width":400,"height":225},
+		{"id":"6b7e5987e1c68ff1","type":"file","file":"clases/laboral/ilovepdf_pages-to-jpg/6. Jornada Laboral 2025_page-0009.jpg","x":-120,"y":1640,"width":400,"height":225},
+		{"id":"4afe9bfe566e6496","type":"file","file":"clases/laboral/ilovepdf_pages-to-jpg/6. Jornada Laboral 2025_page-0010.jpg","x":-120,"y":1865,"width":400,"height":225},
+		{"id":"69ed2c293ba5af4a","type":"file","file":"clases/laboral/ilovepdf_pages-to-jpg/6. Jornada Laboral 2025_page-0011.jpg","x":-120,"y":2090,"width":400,"height":225},
+		{"id":"1a4ce5163c15cb8b","type":"file","file":"clases/laboral/ilovepdf_pages-to-jpg/6. Jornada Laboral 2025_page-0012.jpg","x":-120,"y":2315,"width":400,"height":225},
+		{"id":"243f72b0b9b53816","type":"file","file":"clases/laboral/ilovepdf_pages-to-jpg/6. Jornada Laboral 2025_page-0013.jpg","x":-120,"y":2540,"width":400,"height":225},
+		{"id":"17d214ea9d1f3652","type":"file","file":"clases/laboral/ilovepdf_pages-to-jpg/6. Jornada Laboral 2025_page-0014.jpg","x":-120,"y":2765,"width":400,"height":225},
+		{"id":"8633cf15b5f1ec8e","type":"file","file":"clases/laboral/ilovepdf_pages-to-jpg/6. Jornada Laboral 2025_page-0015.jpg","x":-120,"y":2990,"width":400,"height":225},
+		{"id":"a98eb2bd54f26fa3","type":"file","file":"clases/laboral/ilovepdf_pages-to-jpg/6. Jornada Laboral 2025_page-0016.jpg","x":-120,"y":3215,"width":400,"height":225},
+		{"id":"49e092b7a033560b","type":"file","file":"clases/laboral/ilovepdf_pages-to-jpg/6. Jornada Laboral 2025_page-0017.jpg","x":-120,"y":3440,"width":400,"height":225},
+		{"id":"543eadea22dbf0d0","type":"file","file":"clases/laboral/ilovepdf_pages-to-jpg/6. Jornada Laboral 2025_page-0018.jpg","x":-120,"y":3665,"width":400,"height":225},
+		{"id":"9bfe2790f3fdfde7","type":"file","file":"clases/laboral/ilovepdf_pages-to-jpg/6. Jornada Laboral 2025_page-0019.jpg","x":-120,"y":3890,"width":400,"height":225},
+		{"id":"de2e07ea9a13cb60","type":"file","file":"clases/laboral/ilovepdf_pages-to-jpg/6. Jornada Laboral 2025_page-0020.jpg","x":-120,"y":4115,"width":400,"height":225},
+		{"id":"276c598adb6870f4","type":"file","file":"clases/laboral/ilovepdf_pages-to-jpg/6. Jornada Laboral 2025_page-0021.jpg","x":-120,"y":4340,"width":400,"height":225},
+		{"id":"85c0b5e57edd20d8","type":"file","file":"clases/laboral/ilovepdf_pages-to-jpg/6. Jornada Laboral 2025_page-0022.jpg","x":-120,"y":4565,"width":400,"height":225},
+		{"id":"989f2c4521a1c22e","type":"file","file":"clases/laboral/ilovepdf_pages-to-jpg/6. Jornada Laboral 2025_page-0023.jpg","x":-120,"y":4790,"width":400,"height":225},
+		{"id":"3ea79a4e0e8ecf61","type":"file","file":"clases/laboral/ilovepdf_pages-to-jpg/6. Jornada Laboral 2025_page-0024.jpg","x":-120,"y":5015,"width":400,"height":225},
+		{"id":"880d4f2be449cc5d","type":"file","file":"clases/laboral/ilovepdf_pages-to-jpg/6. Jornada Laboral 2025_page-0025.jpg","x":-120,"y":5240,"width":400,"height":225},
+		{"id":"4c245c3444509323","type":"file","file":"clases/laboral/ilovepdf_pages-to-jpg/6. Jornada Laboral 2025_page-0026.jpg","x":-120,"y":5465,"width":400,"height":225},
+		{"id":"6efc8bb8be471ca2","type":"file","file":"clases/laboral/ilovepdf_pages-to-jpg/6. Jornada Laboral 2025_page-0027.jpg","x":-120,"y":5690,"width":400,"height":225},
+		{"id":"b8330a4008ec550f","type":"file","file":"clases/laboral/ilovepdf_pages-to-jpg/6. Jornada Laboral 2025_page-0004.jpg","x":-120,"y":515,"width":400,"height":225},
+		{"id":"df16151789398c9e","type":"file","file":"clases/laboral/ilovepdf_pages-to-jpg/6. Jornada Laboral 2025_page-0005.jpg","x":-120,"y":740,"width":400,"height":225},
+		{"id":"577e480204eebe1c","type":"file","file":"clases/laboral/ilovepdf_pages-to-jpg/6. Jornada Laboral 2025_page-0001.jpg","x":-120,"y":-160,"width":400,"height":225},
+		{"id":"e364eb11b234f4d9","type":"file","file":"clases/laboral/ilovepdf_pages-to-jpg/6. Jornada Laboral 2025_page-0002.jpg","x":-120,"y":65,"width":400,"height":225},
+		{"id":"b97e15503d65b454","type":"file","file":"clases/laboral/ilovepdf_pages-to-jpg/6. Jornada Laboral 2025_page-0003.jpg","x":-120,"y":290,"width":400,"height":225}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{},
+		"startNode":"001eb312e274b03c"
+	}
+}

@@ -1,0 +1,1 @@
+Si el embargo se ha trabado sobre la especie misma que se demanda, una vez ejecutoriada la sentencia de pago, se ordenará su entrega al ejecutante.

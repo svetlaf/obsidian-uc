@@ -1,0 +1,1 @@
+Las apelaciones que se interpongan se concederán sólo en el efecto devolutivo.

@@ -1,0 +1,3 @@
+Declaración de cierre temporal o lock-out. El cierre temporal, sea total o parcial, sólo podrá ser declarado por el empleador si la huelga afectare a más del 50% del total de trabajadores de la empresa o del establecimiento en su caso, o significare la paralización de actividades imprescindibles para su funcionamiento, cualquiera fuere en este caso el porcentaje de trabajadores en huelga.
+
+En caso de reclamo, la calificación de las circunstancias de hecho señaladas en el inciso anterior la efectuará la Inspección del Trabajo, dentro de los tres días siguientes de formulada la reclamación. La resolución de la Inspección del Trabajo será reclamable judicialmente en los términos del artículo 504.

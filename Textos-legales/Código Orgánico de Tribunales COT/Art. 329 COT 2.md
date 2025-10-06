@@ -1,0 +1,1 @@
+No podrá hacerse efectiva la responsabilidad criminal o civil en contra de un juez mientras no haya terminado por sentencia firme la causa o pleito en que se supone causado el agravio.

@@ -1,0 +1,1 @@
+Beneficios y afiliación sindical. Los trabajadores se regirán por el instrumento colectivo suscrito entre su empleador y la organización sindical a la que se encuentren afiliados mientras este se encuentre vigente, accediendo a los beneficios en él contemplados.

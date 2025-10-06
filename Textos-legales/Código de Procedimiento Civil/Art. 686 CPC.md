@@ -1,0 +1,1 @@
+La prueba, cuando haya lugar a ella, se rendirá en el plazo y en la forma establecida para los incidentes.

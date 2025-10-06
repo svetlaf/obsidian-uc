@@ -1,0 +1,1 @@
+La libertad de conciencia, la manifesta ción de todas las creencias y el ejercicio libre de todos los cultos 6° que no se opongan a la moral, a las buenas costumbres o al orden público.

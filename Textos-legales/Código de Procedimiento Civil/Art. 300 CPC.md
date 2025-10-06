@@ -1,0 +1,1 @@
+Estas providencias no excluyen las demás que autorizan las leyes.

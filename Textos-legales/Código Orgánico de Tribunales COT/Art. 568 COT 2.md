@@ -1,0 +1,1 @@
+Tendrán derecho de asistir a estas visitas los fiscales del ministerio público, cualquiera que sea su categoría, los abogados y procuradores de los procesados y los padres o guardadores de los procesados menores de edad.

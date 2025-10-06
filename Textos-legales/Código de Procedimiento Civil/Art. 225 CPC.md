@@ -1,0 +1,1 @@
+En la vista de la causa sólo podrá alegar un abogado por cada parte, y no podrán hacerlo la parte y su abogado.

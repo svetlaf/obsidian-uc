@@ -1,0 +1,1 @@
+Los efectos de comercio realizables en el acto, se venderán sin previa tasación, por un corredor nombrado en la forma que establece el artículo 414.

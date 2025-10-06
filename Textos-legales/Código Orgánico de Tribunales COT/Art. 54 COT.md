@@ -1,0 +1,1 @@
+Habrá en la República diecisiete Cortes de Apelaciones, las que tendrán su asiento en las siguientes comunas: Arica, Iquique, Antofagasta, Copiapó, La Serena, Valparaíso, Santiago, San Miguel, Rancagua, Talca, Chillán, Concepción, Temuco, Valdivia, Puerto Montt, Coihaique y Punta Arenas.

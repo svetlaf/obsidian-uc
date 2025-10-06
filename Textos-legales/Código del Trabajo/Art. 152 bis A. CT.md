@@ -1,0 +1,1 @@
+El presente Capítulo regula la relación de trabajo, bajo dependencia o subordinación, entre los trabajadores y las trabajadoras que se dedican a la práctica del fútbol profesional y aquellos que desempeñan actividades conexas, con su empleador.

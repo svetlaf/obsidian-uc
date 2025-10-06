@@ -1,0 +1,1 @@
+No se podrá condicionar el empleo de un trabajador a la afiliación o desafiliación a una organización sindical. Del mismo modo, se prohíbe impedir o dificultar su afiliación, despedirlo o perjudicarlo, en cualquier forma por causa de su afiliación sindical o de su participación en actividades sindicales.

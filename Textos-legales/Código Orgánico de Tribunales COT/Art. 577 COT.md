@@ -1,0 +1,1 @@
+Todo jefe de establecimiento en que se encuentren individuos detenidos o presos dará cuenta inmediata al fiscal del ministerio público y al juzgado o tribunal respectivo, de la muerte o fuga de alguno de ellos y de cualquier enfermedad que exija la traslación de un enfermo a un hospital u otro establecimiento.

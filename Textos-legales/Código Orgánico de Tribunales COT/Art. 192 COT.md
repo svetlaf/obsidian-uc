@@ -1,0 +1,1 @@
+Las contiendas de competencia serán falladas en única instancia.

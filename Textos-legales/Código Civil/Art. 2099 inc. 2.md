@@ -1,0 +1,13 @@
+---
+fileClass: articulo, vigencia, historia-y-fuentes, codigo-civil
+tags:
+- derecho-civil
+- derecho-privado
+estado: vigente
+tipo: inciso
+libro:
+titulo:
+parrafo:
+corriente-juridica:
+---
+Pero si se ha prefijado un día cierto para que termine la sociedad, y llegado ese día antes de finalizarse el negocio no se prorroga, se disuelve la sociedad.

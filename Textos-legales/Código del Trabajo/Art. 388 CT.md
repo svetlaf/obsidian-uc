@@ -1,0 +1,7 @@
+Notificación de los árbitros, audiencia de constitución y procedimientos de arbitraje. Los árbitros designados serán notificados por la Dirección Regional del Trabajo al correo electrónico que tengan registrado, quedando citados a una audiencia de constitución del tribunal arbitral dentro de quinto día. A esta audiencia también serán convocadas las partes.
+
+En la audiencia de constitución, el Director Regional del Trabajo tomará juramento o promesa a los árbitros designados, partiendo por los titulares y siguiendo por los suplentes. En caso de ausencia de un árbitro titular, tomará su lugar uno de los suplentes. Los árbitros deberán jurar o prometer dar fiel e íntegro cumplimiento a su cometido. En esta audiencia el tribunal arbitral definirá el procedimiento que seguirá para su funcionamiento.
+
+Una vez verificada la audiencia de constitución, el tribunal arbitral convocará a las partes a una audiencia dentro de los cinco días siguientes. En esta oportunidad las partes presentarán su última propuesta y realizarán las observaciones que estimen pertinentes. El tribunal levantará acta resumida de lo obrado.
+
+Al tribunal arbitral les serán aplicables los artículos 75, 76, 77, 78, 79, 80, 83, 85 y 89, inciso primero, del Código Orgánico de Tribunales, en todo aquello que no sea incompatible con las normas de este Capítulo.

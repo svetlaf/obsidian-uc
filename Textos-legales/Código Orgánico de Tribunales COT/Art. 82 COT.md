@@ -1,0 +1,1 @@
+Cuando alguno de los miembros del tribunal necesite estudiar con más detenimiento el asunto que va a fallarse, se suspenderá el debate y se señalará, para volver a la discusión y al acuerdo, un plazo que no exceda de treinta días, si varios ministros hicieren la petición, y de quince días cuando la hiciere uno solo.

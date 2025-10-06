@@ -1,0 +1,1 @@
+En las comunas o agrupaciones de comunas que no sean territorio jurisdiccional de los Juzgados de Letras del Trabajo, conocerán de las materias señaladas en los artículos 420 y 421, los Juzgados de Letras con competencia en lo Civil.

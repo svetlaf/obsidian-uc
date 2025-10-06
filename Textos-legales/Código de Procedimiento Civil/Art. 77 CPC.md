@@ -1,0 +1,1 @@
+Sin perjuicio de lo señalado en el artículo precedente, toda comunicación dirigida por un tribunal a otro deberá ser conducida a su destino por vía del sistema de tramitación electrónica del Poder Judicial, y no siendo posible lo anterior, por el medio de comunicación idóneo más expedito.

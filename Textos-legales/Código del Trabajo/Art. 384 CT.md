@@ -1,0 +1,1 @@
+Informe de mediación. En caso de no prosperar la mediación, la Inspección del Trabajo levantará un informe que detallará las características del conflicto, la posición de las partes, las fórmulas de mediación analizadas y las posturas de las partes respecto de aquellas. Este informe será público.

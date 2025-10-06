@@ -1,0 +1,1 @@
+Todo juez delincuente será, además, civilmente responsable de los daños estimables en dinero que con su delito hubiere irrogado a cualesquiera personas o corporaciones.

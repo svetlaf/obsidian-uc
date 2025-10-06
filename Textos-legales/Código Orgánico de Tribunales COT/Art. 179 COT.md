@@ -1,0 +1,1 @@
+Estarán sujetos a lo dispuesto en los artículos 175 y 176, según el caso, el ejercicio de las facultades que corresponden a los jueces para el conocimiento de los asuntos que tienen por objeto dar cumplimiento a resoluciones o decretos de otros juzgados o tribunales y los asuntos de jurisdicción voluntaria.

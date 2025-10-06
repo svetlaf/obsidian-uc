@@ -1,0 +1,1 @@
+Lo dispuesto en el artículo 492 se aplicará también al caso en que se persiga la finca hipotecada contra terceros poseedores.

@@ -1,0 +1,3 @@
+La parte ejecutada sólo podrá oponer, dentro del mismo plazo a que se refiere el artículo anterior, acompañando antecedentes escritos de debida consistencia, alguna de las siguientes excepciones: pago de la deuda, remisión, novación y transacción.
+
+De la oposición se dará un traslado por tres días a la contraria y con o sin su contestación se resolverá sin más trámites, siendo la sentencia apelable en el solo efecto devolutivo.

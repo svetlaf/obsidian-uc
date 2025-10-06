@@ -1,0 +1,1 @@
+Para el examen de testigos y para cualquiera otra diligencia fuera del lugar del juicio, se procederá en la forma dispuesta por el inciso 2° del artículo precedente, dirigiéndose por el árbitro la comunicación que corresponda al tribunal que deba entender en dichas diligencias.

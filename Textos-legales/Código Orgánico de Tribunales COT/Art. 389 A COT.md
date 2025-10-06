@@ -1,0 +1,1 @@
+Los administradores de tribunales con competencia en lo criminal son funcionarios auxiliares de la administración de justicia encargados de organizar y controlar la gestión administrativa de los tribunales de juicio oral en lo penal y de los juzgados de garantía.

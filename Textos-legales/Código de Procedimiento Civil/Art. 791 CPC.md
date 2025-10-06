@@ -1,0 +1,1 @@
+El recurso de casación se interpondrá en el plazo fatal de cinco días.

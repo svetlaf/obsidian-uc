@@ -1,0 +1,1 @@
+Al adoptar las medidas urgentes que fueren necesarias o al efectuar las correcciones pertinentes, podrá usar el ministro visitador de las facultades que correspondan a las Cortes de Apelaciones por los artículos 537 y 539.

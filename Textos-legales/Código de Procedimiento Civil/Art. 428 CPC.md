@@ -1,0 +1,1 @@
+Entre dos o más pruebas contradictorias, y a falta de ley que resuelva el conflicto, los tribunales preferirán la que crean más conforme con la verdad.

@@ -1,0 +1,1 @@
+La aceptación tácita produce los mismos efectos y está sujeta a las mismas reglas que la expresa.

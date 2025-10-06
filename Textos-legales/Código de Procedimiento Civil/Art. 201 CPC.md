@@ -1,0 +1,3 @@
+Si la apelación se ha interpuesto fuera de plazo o respecto de resolución inapelable o no es fundada o no contiene peticiones concretas, el tribunal correspondiente deberá declararla inadmisible de oficio. La parte apelada, en todo caso, podrá solicitar la declaración pertinente, verbalmente o por escrito.
+
+Del fallo que, en estas materias, dicte el tribunal de alzada podrá pedirse reposición dentro de tercero día.

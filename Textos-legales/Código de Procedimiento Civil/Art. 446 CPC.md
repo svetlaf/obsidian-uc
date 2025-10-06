@@ -1,0 +1,1 @@
+Aunque pague el deudor antes del requerimiento, serán de su cargo las costas causadas en el juicio.

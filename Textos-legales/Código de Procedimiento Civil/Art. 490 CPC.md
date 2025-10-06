@@ -1,0 +1,1 @@
+Antes de verificarse el remate, puede el deudor libertar sus bienes pagando la deuda y las costas.

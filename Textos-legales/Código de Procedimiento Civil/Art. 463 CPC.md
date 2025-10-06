@@ -1,0 +1,1 @@
+Los términos que se expresan en los cuatro artículos anteriores son fatales.

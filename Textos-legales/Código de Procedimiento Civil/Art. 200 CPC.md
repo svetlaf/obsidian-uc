@@ -1,0 +1,1 @@
+El tribunal de alzada deberá certificar en la carpeta electrónica la recepción de la comunicación a que se refiere el artículo 197 y su fecha.

@@ -1,0 +1,1 @@
+Las referencias que las leyes o reglamentos hagan a las Cortes del Trabajo o a los Juzgados del Trabajo, se entenderán efectuadas a las Cortes de Apelaciones o a los Juzgados de Letras del Trabajo o de Cobranza Laboral y Previsional.

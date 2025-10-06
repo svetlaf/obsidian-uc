@@ -1,0 +1,1 @@
+Relación del trabajador con el contrato colectivo. Ningún trabajador podrá estar afecto a más de un contrato colectivo de trabajo celebrado con el mismo empleador de conformidad a las normas de este Código.

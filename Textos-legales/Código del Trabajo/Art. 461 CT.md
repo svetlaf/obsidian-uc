@@ -1,0 +1,1 @@
+En caso de ser procedente, la sentencia de término será notificada a los entes administradores de los respectivos sistemas de seguridad social, con el objeto de que éstos hagan efectivas las acciones contempladas en la ley Nº 17.322 o en el decreto ley Nº 3.500, de 1980, según corresponda.

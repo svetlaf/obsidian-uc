@@ -1,0 +1,1 @@
+Vencidos los plazos indicados, la propuesta se tendrá por no hecha, aun cuando hubiere sido aceptada.

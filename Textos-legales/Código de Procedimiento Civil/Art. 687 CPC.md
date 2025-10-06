@@ -1,0 +1,1 @@
+Vencido el término probatorio, el tribunal, de inmediato, citará a las partes para oír sentencia.

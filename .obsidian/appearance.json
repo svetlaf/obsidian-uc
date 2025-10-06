@@ -1,0 +1,13 @@
+{
+  "cssTheme": "Minimal",
+  "theme": "moonstone",
+  "baseFontSize": 21,
+  "accentColor": "",
+  "enabledCssSnippets": [
+    "cpr-style",
+    "ct-style",
+    "callouts",
+    "legal-backgrounds",
+    "canvas-colors"
+  ]
+}

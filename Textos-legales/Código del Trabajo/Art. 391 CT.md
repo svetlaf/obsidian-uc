@@ -1,0 +1,1 @@
+Plazo para fallar. El tribunal arbitral deberá fallar dentro de los treinta días hábiles siguientes a la celebración de la audiencia constitutiva, plazo que podrá prorrogarse fundadamente hasta por otros diez días hábiles. El fallo deberá resolver los asuntos sometidos a su decisión y no será objeto de recurso alguno.

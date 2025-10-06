@@ -1,0 +1,1 @@
+Se aplicará el procedimiento de que trata este párrafo a los juicios cuya cuantía no exceda de diez unidades tributarias mensuales, y que por su naturaleza no tengan señalado en la ley un procedimiento especial.

@@ -1,0 +1,4 @@
+La trabajadora o el trabajador que tenga a su cuidado un menor de edad, por habérsele otorgado judicialmente la tuición o el cuidado personal como medida de protección, o en virtud de lo previsto en los artículos 19 o 24 de la ley Nº 19.620, tendrá derecho al permiso postnatal parental establecido en el artículo 197 bis.
+Además, cuando el menor tuviere menos de seis meses, previamente tendrá derecho a un permiso y subsidio por doce semanas.
+
+A la correspondiente solicitud de permiso, el trabajador o la trabajadora, según corresponda, deberá acompañar necesariamente una declaración jurada de tener bajo su tuición o cuidado personal al causante del beneficio, así como un certificado del tribunal que haya otorgado la tuición o cuidado personal del menor como medida de protección, o en virtud de lo previsto en los artículos 19 o 24 de la ley Nº19.620.

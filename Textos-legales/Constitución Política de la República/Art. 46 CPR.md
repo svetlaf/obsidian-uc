@@ -1,0 +1,1 @@
+El Congreso Nacional se compone de dos ramas: la Cámara de Diputados y el Senado. Ambas concurren a la formación de las leyes en conformidad a esta Constitución y tienen las demás atribuciones que ella establece.

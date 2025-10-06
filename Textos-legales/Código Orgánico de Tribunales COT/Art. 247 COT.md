@@ -1,0 +1,1 @@
+La inamovilidad de que habla el artículo 77 de la Constitución del Estado rige no sólo respecto de los jueces propietarios sino también respecto de los interinos y suplentes. La inamovilidad de los interinos durará hasta el nombramiento del respectivo propietario, y la de los suplentes hasta que expire el tiempo por el cual hubieren sido nombrados.

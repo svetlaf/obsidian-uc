@@ -1,0 +1,1 @@
+En caso de ausencia o impedimento por cualquier causa y sin necesidad de previo acuerdo del Consejo Superior, el director será subrogado por el subdirector. A falta de éste, lo subrogará del mismo modo el jefe de finanzas y presupuestos.

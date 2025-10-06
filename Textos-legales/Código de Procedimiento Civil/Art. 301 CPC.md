@@ -1,0 +1,1 @@
+Todas estas medidas son esencialmente provisionales. En consecuencia, deberán hacerse cesar siempre que desaparezca el peligro que se ha procurado evitar o se otorguen cauciones suficientes.

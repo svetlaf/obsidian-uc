@@ -1,0 +1,1 @@
+Los tribunales apreciarán la fuerza probatoria del dictamen de peritos en conformidad a las reglas de la sana crítica.

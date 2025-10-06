@@ -1,0 +1,1 @@
+En los casos de los artículos 1989 y 2009 del Código Civil, la terminación del arrendamiento se someterá a las disposiciones del artículo 604.

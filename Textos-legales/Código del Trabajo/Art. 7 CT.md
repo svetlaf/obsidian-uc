@@ -1,0 +1,1 @@
+Contrato individual de trabajo es una convención por la cual el empleador y el trabajador se obligan recíprocamente, éste a prestar servicios personales bajo dependencia y subordinación del primero, y aquél a pagar por estos servicios una remuneración determinada.

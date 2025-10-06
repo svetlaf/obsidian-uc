@@ -1,0 +1,1 @@
+El término para informar en derecho será el que señale el tribunal y no podrá exceder de sesenta días, salvo acuerdo de las partes.

@@ -1,0 +1,19 @@
+body { 
+    /* 1. Deep Blue */ 
+    --canvas-color-1: 7, 42, 108; /* RGB values */ 
+
+    /* 2. Dark Orange */ 
+    --canvas-color-2: 255, 140, 0; /* RGB values */ 
+
+    /* 3. Dark Brown/Nearly Black */ 
+    --canvas-color-3: 52, 28, 2; /* RGB values */ 
+
+    /* 4. Light Blue */ 
+    --canvas-color-4: 173, 216, 230; /* RGB values */ 
+
+    /* 5. Light Orange/Yellow */ 
+    --canvas-color-5: 255, 213, 128; /* RGB values */ 
+
+    /* 6. Light Brown */ 
+    --canvas-color-6: 200, 157, 124; /* RGB values */ 
+} 

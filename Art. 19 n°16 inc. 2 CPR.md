@@ -1,0 +1,1 @@
+Se prohíbe cualquiera discriminación que no se base en la capacidad o idoneidad personal, sin perjuicio de que la ley pueda exigir la nacionalidad chilena o límites de edad para determinados casos.  

@@ -1,0 +1,3 @@
+Cuando se iniciare el funcionamiento extraordinario, se entenderá, para todos los efectos legales, que el juez falta en su despacho. En esa oportunidad, el secretario del mismo tribunal asumirá las demás funciones que le corresponden al juez titular, en calidad de suplente, y por el solo ministerio de la ley.
+
+Quien debiere cumplir las funciones del secretario del tribunal, de acuerdo a las reglas generales, las llevará a efecto respecto del juez titular y de quien lo supliere o reemplazare.

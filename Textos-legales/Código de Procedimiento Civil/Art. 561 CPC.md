@@ -1,0 +1,1 @@
+Concluida la audiencia de prueba, el tribunal en el mismo acto citará a las partes para oír sentencia, la que deberá dictar de inmediato o, a lo más, en el plazo de los tres días subsiguientes.

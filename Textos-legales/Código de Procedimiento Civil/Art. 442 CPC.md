@@ -1,0 +1,1 @@
+El tribunal denegará la ejecución cuando la acción ejecutiva se encuentre prescrita; salvo que se compruebe su subsistencia por alguno de los medios que sirven para deducir esta acción en conformidad al artículo 434.

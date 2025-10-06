@@ -1,0 +1,1 @@
+Para ser elegido director de una federación o confederación se requiere estar en posesión del cargo de director de alguna de las organizaciones afiliadas.

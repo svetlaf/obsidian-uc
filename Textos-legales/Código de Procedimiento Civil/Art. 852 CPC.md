@@ -1,0 +1,1 @@
+Los curadores especiales serán nombrados por el tribunal, con audiencia del defensor respectivo, sin perjuicio de la designación que corresponda al menor en conformidad a la ley.

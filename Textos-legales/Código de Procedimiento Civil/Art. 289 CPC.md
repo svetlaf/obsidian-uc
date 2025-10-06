@@ -1,0 +1,1 @@
+Las diligencias expresadas en este Título pueden decretarse sin audiencia de la persona contra quien se piden, salvo los casos en que expresamente se exige su intervención.

@@ -1,0 +1,1 @@
+Si con ocasión de conocer alguna causa en materia criminal, se produce una dispersión de votos entre los miembros de la Corte, se seguirá las reglas señaladas para los tribunales de juicio oral en lo penal.

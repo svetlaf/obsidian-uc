@@ -1,0 +1,1 @@
+En estos juicios sólo se considerarán diligencias o trámites esenciales, el emplazamiento del demandado en la forma prescrita por la ley para que conteste la demanda y el acta en que deben consignarse las peticiones de las partes y el llamado a conciliación.

@@ -1,0 +1,1 @@
+La inviolabilidad del hogar y de toda f orma de comunicación privada. El hogar sólo puede allanarse y las comunicaciones y documentos privados interceptarse, abrirse o registrarse en los casos y formas determinados por la ley;

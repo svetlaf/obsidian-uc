@@ -1,0 +1,5 @@
+Los procedimientos del trabajo serán orales, públicos y concentrados. Primarán en ellos los principios de la inmediación, impulso procesal de oficio, celeridad, buena fe, bilateralidad de la audiencia y gratuidad.
+
+Todas las actuaciones procesales serán orales, salvo las excepciones expresamente contenidas en esta ley.
+
+Las actuaciones realizadas oralmente, por o ante el juez de la causa, serán registradas por cualquier medio apto para producir fe y que permita garantizar la fidelidad, conservación y reproducción de su contenido. Se considerarán válidos, para estos efectos, la grabación en medios de reproducción fonográfica, audiovisual o electrónica. La audiencia deberá ser registrada íntegramente, como asimismo todas las resoluciones, incluyendo la sentencia que dicte el juez fuera de ella.

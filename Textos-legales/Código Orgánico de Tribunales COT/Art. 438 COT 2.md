@@ -1,0 +1,3 @@
+La reposición, en cuanto sea posible, se efectuará con las copias autorizadas expedidas por el notario, declaraciones de testigos y demás pruebas que el tribunal estime convenientes.
+
+Las personas que tengan copias autorizadas de las originales estarán obligadas a presentarlas al tribunal, y en caso de negarse a ello, se aplicará el procedimiento de apremio establecido en el artículo 276 del Código de Procedimiento Civil.

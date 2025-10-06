@@ -1,0 +1,1 @@
+De todo lo obrado en la audiencia se levantará acta, expresándose con claridad y precisión lo expuesto por las partes y las pruebas presentadas.

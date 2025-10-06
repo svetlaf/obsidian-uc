@@ -1,0 +1,1 @@
+Iniciada la visita, un funcionario del juzgado o tribunal dará lectura al estado que llevará preparado para ese efecto y en que se expresará el nombre de cada uno de los presos y detenidos, el delito que se les imputa, el estado en que se encuentra y la fecha de inicio de la privación de libertad.

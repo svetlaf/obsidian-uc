@@ -1,0 +1,1 @@
+Sobre el ámbito de aplicación del procedimiento de tutela laboral, 30/10/2020. Extiende este procedimiento pero aplica sólo la sanción indemnizatoria propiamente relativa a la tutela.
