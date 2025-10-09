@@ -1,3 +1,3 @@
-Sólo las partes mayores de edad y libres administradoras de sus bienes podrán dar a los árbitros el carácter de arbitradores.
+Sólo las partes mayores de edad y libres administradoras de sus bienes podrán dar a los árbitros el carácter de arbitradores. [[Art. 224 inc. 1 COT| ]]
 
-Por motivos de manifiesta conveniencia podrán los tribunales autorizar la concesión al árbitro de derecho de las facultades de que trata el inciso 4° del artículo anterior, aun cuando uno o más de los interesados en el juicio sean incapaces.
+Por motivos de manifiesta conveniencia podrán los tribunales autorizar la concesión al árbitro de derecho de las facultades de que trata el inciso 4° del artículo anterior, aun cuando uno o más de los interesados en el juicio sean incapaces. [[Art. 224 inc. 2 COT| ]]

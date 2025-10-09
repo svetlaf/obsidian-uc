@@ -1,3 +1,3 @@
-Salvo estipulación en contrario, podrá el deudor, en cualquier tiempo, pedir los bienes dados en prenda pretoria pagando la deuda y las costas, incluso todo lo que el acreedor tenga derecho a percibir de conformidad a lo dispuesto en el último inciso del artículo precedente.
+Salvo estipulación en contrario, podrá el deudor, en cualquier tiempo, pedir los bienes dados en prenda pretoria pagando la deuda y las costas, incluso todo lo que el acreedor tenga derecho a percibir de conformidad a lo dispuesto en el último inciso del artículo precedente. [[Art. 505 inc. 1 CPC| ]]
 
-Podrá también el acreedor, en cualquier tiempo, poner fin a la prenda pretoria y solicitar su enajenación o el embargo de otros bienes del deudor, de conformidad a las reglas de este Título.
+Podrá también el acreedor, en cualquier tiempo, poner fin a la prenda pretoria y solicitar su enajenación o el embargo de otros bienes del deudor, de conformidad a las reglas de este Título. [[Art. 505 inc. 2 CPC| ]]

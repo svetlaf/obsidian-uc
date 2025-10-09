@@ -1,10 +1,9 @@
-Comisión negociadora sindical.
-La representación del sindicato en la negociación colectiva corresponderá a la comisión negociadora sindical, integrada por el directorio sindical respectivo. Si se trata de una negociación colectiva iniciada por más de un sindicato, la comisión negociadora sindical estará integrada por los directores que sean designados en el proyecto de contrato colectivo.
+La representación del sindicato en la negociación colectiva corresponderá a la comisión negociadora sindical, integrada por el directorio sindical respectivo. Si se trata de una negociación colectiva iniciada por más de un sindicato, la comisión negociadora sindical estará integrada por los directores que sean designados en el proyecto de contrato colectivo. [[Art. 330 inc. 1 CT| ]]
 
-Además de los miembros de la comisión negociadora sindical, podrán asistir al desarrollo de las negociaciones los asesores que designen la o las organizaciones sindicales, los que no podrán exceder de tres.
+Además de los miembros de la comisión negociadora sindical, podrán asistir al desarrollo de las negociaciones los asesores que designen la o las organizaciones sindicales, los que no podrán exceder de tres. [[Art. 330 inc. 2 CT| ]]
 
-En caso que el o los sindicatos que negocien tengan afiliación femenina y la respectiva comisión negociadora sindical no esté integrada por ninguna trabajadora, se deberá integrar a una representante elegida por el o los sindicatos de conformidad a sus estatutos. En el evento que los estatutos nada establecieran, esta trabajadora deberá ser elegida en asamblea convocada al efecto, en votación universal.
+En caso que el o los sindicatos que negocien tengan afiliación femenina y la respectiva comisión negociadora sindical no esté integrada por ninguna trabajadora, se deberá integrar a una representante elegida por el o los sindicatos de conformidad a sus estatutos. En el evento que los estatutos nada establecieran, esta trabajadora deberá ser elegida en asamblea convocada al efecto, en votación universal. [[Art. 330 inc. 4 CT| ]]
 
-En la micro y pequeña empresa, la trabajadora que deba integrar la comisión negociadora de conformidad a lo dispuesto en el inciso anterior sustituirá a uno de los miembros que deban integrarla por derecho propio.
+En la micro y pequeña empresa, la trabajadora que deba integrar la comisión negociadora de conformidad a lo dispuesto en el inciso anterior sustituirá a uno de los miembros que deban integrarla por derecho propio. [[Art. 330 inc. 3 CT| ]]
 
 Respecto de la trabajadora que integre la comisión negociadora sindical de conformidad a lo dispuesto en el inciso tercero, el fuero señalado en el artículo 309 se extenderá hasta noventa días, contados desde la suscripción del contrato colectivo o, en su caso, desde la fecha de notificación a las partes del fallo arbitral que se hubiere dictado.

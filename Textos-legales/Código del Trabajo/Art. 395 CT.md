@@ -1,5 +1,5 @@
 Reglas generales. Corresponderá a la Dirección del Trabajo:
 
-1. La revisión del cumplimiento y mantención de los requisitos de quienes postulen a incorporarse en el Registro Nacional de Árbitros Laborales.
+1. La revisión del cumplimiento y mantención de los requisitos de quienes postulen a incorporarse en el Registro Nacional de Árbitros Laborales. [[Art. 395 n°1 CT| ]]
 
-2. El pago de los honorarios correspondientes a las remuneraciones de los integrantes del tribunal arbitral, cuando proceda.
+2. El pago de los honorarios correspondientes a las remuneraciones de los integrantes del tribunal arbitral, cuando proceda. [[Art. 395 n°2 CT| ]]

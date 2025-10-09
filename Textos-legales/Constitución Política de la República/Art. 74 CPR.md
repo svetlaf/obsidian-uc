@@ -1,3 +1,3 @@
-El Presidente de la República podrá hacer presente la urgencia en el despacho de un proyecto, en uno o en todos sus trámites, y en tal caso, la Cámara respectiva deberá pronunciarse dentro del plazo máximo de treinta días.
+El Presidente de la República podrá hacer presente la urgencia en el despacho de un proyecto, en uno o en todos sus trámites, y en tal caso, la Cámara respectiva deberá pronunciarse dentro del plazo máximo de treinta días. [[Art. 74 inc. 1 CPR| ]]
 
-La calificación de la urgencia corresponderá hacerla al Presidente de la República de acuerdo a la ley orgánica constitucional relativa al Congreso, la que establecerá también todo lo relacionado con la tramitación interna de la ley.
+La calificación de la urgencia corresponderá hacerla al Presidente de la República de acuerdo a la ley orgánica constitucional relativa al Congreso, la que establecerá también todo lo relacionado con la tramitación interna de la ley. [[Art. 74 inc. 2 CPR| ]]

@@ -1,7 +1,7 @@
-Dentro de los quince días siguientes a que las partes acuerden la modalidad de trabajo a distancia o teletrabajo, el empleador deberá registrar dicho pacto de manera electrónica en la Dirección del Trabajo. A su vez, la Dirección del Trabajo remitirá copia de dicho registro a la Superintendencia de Seguridad Social y al organismo administrador del seguro de la ley N° 16.744 al que se encuentre adherido la entidad empleadora.
+Dentro de los quince días siguientes a que las partes acuerden la modalidad de trabajo a distancia o teletrabajo, el empleador deberá registrar dicho pacto de manera electrónica en la Dirección del Trabajo. A su vez, la Dirección del Trabajo remitirá copia de dicho registro a la Superintendencia de Seguridad Social y al organismo administrador del seguro de la ley N° 16.744 al que se encuentre adherido la entidad empleadora. [[Art. 152 quáter O. inc. 1 CT| ]]
 
-El Director del Trabajo determinará la forma, condiciones y características del registro de dichos acuerdos y las demás normas necesarias para verificar el cumplimiento de los requisitos contemplados en los artículos anteriores.
+El Director del Trabajo determinará la forma, condiciones y características del registro de dichos acuerdos y las demás normas necesarias para verificar el cumplimiento de los requisitos contemplados en los artículos anteriores. [[Art. 152 quáter O. inc. 2 CT| ]]
 
-La fiscalización del cumplimiento de los acuerdos de trabajo a distancia o teletrabajo corresponderá a la Dirección del Trabajo, sin perjuicio de las facultades conferidas a otros servicios del Estado en virtud de las leyes que los rijan.
+La fiscalización del cumplimiento de los acuerdos de trabajo a distancia o teletrabajo corresponderá a la Dirección del Trabajo, sin perjuicio de las facultades conferidas a otros servicios del Estado en virtud de las leyes que los rijan. [[Art. 152 quáter O. inc. 3 CT| ]]
 
-Del derecho al trabajo a distancia o teletrabajo de las personas trabajadoras que desempeñan labores de cuidado no remunerado
+Del derecho al trabajo a distancia o teletrabajo de las personas trabajadoras que desempeñan labores de cuidado no remunerado [[Art. 152 quáter O. inc. 4 CT| ]]

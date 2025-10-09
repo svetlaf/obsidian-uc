@@ -1,3 +1,3 @@
-Si un auxiliar de la Administración de Justicia de los indicados en el artículo 469 y un ministro de la Corte de Apelaciones de que aquéllos dependan contrajeren, después que hayan sido nombrados tales, alguno de los parentescos designados en el artículo 258, aquél por cuyo matrimonio se haya contraído el parentesco, cesará inmediatamente en el ejercicio de sus funciones y deberá ser separado de su destino.
+Si un auxiliar de la Administración de Justicia de los indicados en el artículo 469 y un ministro de la Corte de Apelaciones de que aquéllos dependan contrajeren, después que hayan sido nombrados tales, alguno de los parentescos designados en el artículo 258, aquél por cuyo matrimonio se haya contraído el parentesco, cesará inmediatamente en el ejercicio de sus funciones y deberá ser separado de su destino. [[Art. 495 inc. 1 COT| ]]
 
-Lo dispuesto en el inciso anterior es aplicable al fiscal judicial de la Corte Suprema con respecto a los miembros de dicho tribunal.
+Lo dispuesto en el inciso anterior es aplicable al fiscal judicial de la Corte Suprema con respecto a los miembros de dicho tribunal. [[Art. 495 inc. 2 COT| ]]

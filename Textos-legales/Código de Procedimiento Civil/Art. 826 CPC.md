@@ -1,3 +1,3 @@
-Las sentencias definitivas en los negocios no contenciosos expresarán el nombre, profesión u oficio y domicilio de los solicitantes, las peticiones deducidas y la resolución del tribunal. Cuando éste deba proceder con conocimiento de causa, se establecerán además las razones que motiven la resolución.
+Las sentencias definitivas en los negocios no contenciosos expresarán el nombre, profesión u oficio y domicilio de los solicitantes, las peticiones deducidas y la resolución del tribunal. Cuando éste deba proceder con conocimiento de causa, se establecerán además las razones que motiven la resolución. [[Art. 826 inc. 1 CPC| ]]
 
-Estas sentencias, como las que se expiden en las causas entre partes, se copiarán en el libro respectivo que llevará el secretario del tribunal. ■
+Estas sentencias, como las que se expiden en las causas entre partes, se copiarán en el libro respectivo que llevará el secretario del tribunal. [[Art. 826 inc. 2 CPC| ]]

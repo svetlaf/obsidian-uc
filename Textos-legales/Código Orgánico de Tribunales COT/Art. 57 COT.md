@@ -1,3 +1,3 @@
-Las Cortes de Apelaciones serán regidas por un Presidente. Sus funciones durarán un año contado del 1° de marzo y serán desempeñadas por los miembros del tribunal, turnándose cada uno por orden de antigüedad en la categoría correspondiente del escalafón.
+Las Cortes de Apelaciones serán regidas por un Presidente. Sus funciones durarán un año contado del 1° de marzo y serán desempeñadas por los miembros del tribunal, turnándose cada uno por orden de antigüedad en la categoría correspondiente del escalafón. [[Art. 57 inc.1 COT| ]]
 
-Los demás miembros de las Cortes de Apelaciones se llamarán Ministros y tendrán el rango y precedencia correspondientes a su antigüedad en la categoría correspondiente del escalafón.
+Los demás miembros de las Cortes de Apelaciones se llamarán Ministros y tendrán el rango y precedencia correspondientes a su antigüedad en la categoría correspondiente del escalafón. [[Art. 57 inc.2 COT| ]]

@@ -1,3 +1,3 @@
-Si el arrendatario pretendiera burlar el derecho de retención que concede al arrendador el artículo 1942 del Código Civil extrayendo los objetos a que dicho artículo se refiere, podrá el arrendador solicitar el auxilio de cualquier funcionario de policía para impedir que se saquen esos objetos de la propiedad arrendada.
+Si el arrendatario pretendiera burlar el derecho de retención que concede al arrendador el artículo 1942 del Código Civil extrayendo los objetos a que dicho artículo se refiere, podrá el arrendador solicitar el auxilio de cualquier funcionario de policía para impedir que se saquen esos objetos de la propiedad arrendada. [[Art. 598 inc. 1 CPC| ]]
 
-El funcionario de policía prestará este auxilio sólo por el término de dos días, salvo que transcurrido este plazo le exhiba el arrendador copia autorizada de la orden de retención expedida por el tribunal competente.
+El funcionario de policía prestará este auxilio sólo por el término de dos días, salvo que transcurrido este plazo le exhiba el arrendador copia autorizada de la orden de retención expedida por el tribunal competente. [[Art. 598 inc. 2 CPC| ]]

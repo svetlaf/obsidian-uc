@@ -1,3 +1,3 @@
-Los nombramientos, ascensos y retiros de los oficiales de las Fuerzas Armadas y Carabineros, se efectuarán por decreto supremo, en conformidad a la ley orgánica constitucional correspondiente, la que determinará las normas básicas respectivas, así como las normas básicas referidas a la carrera profesional, incorporación a sus plantas, previsión, antigüedad, mando, sucesión de mando y presupuesto de las Fuerzas Armadas y Carabineros.
+Los nombramientos, ascensos y retiros de los oficiales de las Fuerzas Armadas y Carabineros, se efectuarán por decreto supremo, en conformidad a la ley orgánica constitucional correspondiente, la que determinará las normas básicas respectivas, así como las normas básicas referidas a la carrera profesional, incorporación a sus plantas, previsión, antigüedad, mando, sucesión de mando y presupuesto de las Fuerzas Armadas y Carabineros. [[Art. 105 inc. 1 CPR| ]]
 
-El ingreso, los nombramientos, ascensos y retiros en Investigaciones se efectuarán en conformidad a su ley orgánica.
+El ingreso, los nombramientos, ascensos y retiros en Investigaciones se efectuarán en conformidad a su ley orgánica. [[Art. 105 inc. 2 CPR| ]]

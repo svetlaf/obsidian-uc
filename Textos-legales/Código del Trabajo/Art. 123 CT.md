@@ -1,3 +1,3 @@
-Si una nave se perdiere por naufragio, incendio u otros siniestros semejantes, el empleador deberá pagar a la gente de mar una indemnización equivalente a dos meses de remuneración. Esta indemnización se imputará a cualquier otra de naturaleza semejante que pudiera estar estipulada en los contratos de trabajo.
+Si una nave se perdiere por naufragio, incendio u otros siniestros semejantes, el empleador deberá pagar a la gente de mar una indemnización equivalente a dos meses de remuneración. Esta indemnización se imputará a cualquier otra de naturaleza semejante que pudiera estar estipulada en los contratos de trabajo. [[Art. 123 inc. 1 CT| ]]
 
-Además, el hombre de mar tendrá derecho a que se le indemnice la pérdida de sus efectos personales.
+Además, el hombre de mar tendrá derecho a que se le indemnice la pérdida de sus efectos personales. [[Art. 123 inc. 2 CT| ]]

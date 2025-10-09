@@ -1,7 +1,7 @@
-Las partes podrán pactar, al inicio o durante la vigencia de la relación laboral, en el contrato de trabajo o en documento anexo al mismo, la modalidad de trabajo a distancia o teletrabajo, la que se sujetará a las normas del presente Capítulo. En ningún caso dichos pactos podrán implicar un menoscabo de los derechos que este Código reconoce al trabajador, en especial, en su remuneración.
+Las partes podrán pactar, al inicio o durante la vigencia de la relación laboral, en el contrato de trabajo o en documento anexo al mismo, la modalidad de trabajo a distancia o teletrabajo, la que se sujetará a las normas del presente Capítulo. En ningún caso dichos pactos podrán implicar un menoscabo de los derechos que este Código reconoce al trabajador, en especial, en su remuneración. [[Art. 152 quáter G. inc. 1 CT| ]]
 
-Es trabajo a distancia aquel en el que el trabajador presta sus servicios, total o parcialmente, desde su domicilio u otro lugar o lugares distintos de los establecimientos, instalaciones o faenas de la empresa.
+Es trabajo a distancia aquel en el que el trabajador presta sus servicios, total o parcialmente, desde su domicilio u otro lugar o lugares distintos de los establecimientos, instalaciones o faenas de la empresa. [[Art. 152 quáter G. inc. 2 CT| ]]
 
-Se denominará teletrabajo si los servicios son prestados mediante la utilización de medios tecnológicos, informáticos o de telecomunicaciones o si tales servicios deben reportarse mediante estos medios.
+Se denominará teletrabajo si los servicios son prestados mediante la utilización de medios tecnológicos, informáticos o de telecomunicaciones o si tales servicios deben reportarse mediante estos medios. [[Art. 152 quáter G. inc. 3 CT| ]]
 
-Los trabajadores que prestan servicios a distancia o teletrabajo gozarán de todos los derechos individuales y colectivos contenidos en este Código, cuyas normas les serán aplicables en tanto no sean incompatibles con las contenidas en el presente Capítulo.
+Los trabajadores que prestan servicios a distancia o teletrabajo gozarán de todos los derechos individuales y colectivos contenidos en este Código, cuyas normas les serán aplicables en tanto no sean incompatibles con las contenidas en el presente Capítulo. [[Art. 152 quáter G. inc. 4 CT| ]]

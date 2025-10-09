@@ -1,3 +1,3 @@
-Si las partes desean rendir prueba testimonial, deberán, en la audiencia de contestación o dentro de los tres días siguientes a la notificación de la resolución que reciba la causa a prueba, hacer anotar en el proceso el nombre, profesión u oficio y domicilio de los testigos que ofrezcan presentar y si los testigos deben o no ser citados por el tribunal. En la audiencia indicada el juez hará saber a las partes estas circunstancias.
+Si las partes desean rendir prueba testimonial, deberán, en la audiencia de contestación o dentro de los tres días siguientes a la notificación de la resolución que reciba la causa a prueba, hacer anotar en el proceso el nombre, profesión u oficio y domicilio de los testigos que ofrezcan presentar y si los testigos deben o no ser citados por el tribunal. En la audiencia indicada el juez hará saber a las partes estas circunstancias. [[Art. 716 inc. 1 CPC| ]]
 
-Sólo podrán declarar cuatro testigos por cada parte sobre cada uno de los puntos de prueba que fije el juez.
+Sólo podrán declarar cuatro testigos por cada parte sobre cada uno de los puntos de prueba que fije el juez. [[Art. 716 inc. 2 CPC| ]]

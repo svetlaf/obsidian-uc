@@ -1,3 +1,3 @@
-En los casos de jurisdicción contenciosa, se dará conocimiento de la solicitud a la parte contra quien se pide la ejecución, la cual tendrá para exponer lo que estime conveniente un término igual al de emplazamiento para contestar demandas.
+En los casos de jurisdicción contenciosa, se dará conocimiento de la solicitud a la parte contra quien se pide la ejecución, la cual tendrá para exponer lo que estime conveniente un término igual al de emplazamiento para contestar demandas. [[Art. 248 inc. 1 CPC| ]]
 
-Con la contestación de la parte o en su rebeldía, y con previa audiencia del fiscal judicial, el tribunal declarará si debe o no darse cumplimiento a la resolución.
+Con la contestación de la parte o en su rebeldía, y con previa audiencia del fiscal judicial, el tribunal declarará si debe o no darse cumplimiento a la resolución. [[Art. 248 inc. 2 CPC| ]]

@@ -1,7 +1,7 @@
-Los bibliotecarios judiciales son auxiliares de la Administración de Justicia cuya función es la custodia, mantenimiento y atención de la Biblioteca de la Corte en que desempeñen sus funciones, así como las que el tribunal o su Presidente le encomienden en relación a las estadísticas del tribunal.
+Los bibliotecarios judiciales son auxiliares de la Administración de Justicia cuya función es la custodia, mantenimiento y atención de la Biblioteca de la Corte en que desempeñen sus funciones, así como las que el tribunal o su Presidente le encomienden en relación a las estadísticas del tribunal. [[Art. 457 bis inc. 1 COT| ]]
 
-El bibliotecario de la Corte Suprema tendrá a su cargo la custodia de todos los documentos originales de calificación de los funcionarios y empleados del Poder Judicial, los que le deberán ser remitidos una vez ejecutoriado el proceso anual de calificación. Estará facultado para dar a las partes interesadas los testimonios que de ellos pidieren.
+El bibliotecario de la Corte Suprema tendrá a su cargo la custodia de todos los documentos originales de calificación de los funcionarios y empleados del Poder Judicial, los que le deberán ser remitidos una vez ejecutoriado el proceso anual de calificación. Estará facultado para dar a las partes interesadas los testimonios que de ellos pidieren. [[Art. 457 bis inc. 2 COT| ]]
 
-Este bibliotecario desempeñará, además, las funciones que la Corte Suprema le encomiende respecto a la formación del Escalafón Judicial.
+Este bibliotecario desempeñará, además, las funciones que la Corte Suprema le encomiende respecto a la formación del Escalafón Judicial. [[Art. 457 bis inc. 3 COT| ]]
 
-Habrá un bibliotecario en la Corte Suprema y en aquellas Cortes de Apelaciones que determine el Presidente de la República, con previo informe de la misma.
+Habrá un bibliotecario en la Corte Suprema y en aquellas Cortes de Apelaciones que determine el Presidente de la República, con previo informe de la misma. [[Art. 457 bis inc. 4 COT| ]]

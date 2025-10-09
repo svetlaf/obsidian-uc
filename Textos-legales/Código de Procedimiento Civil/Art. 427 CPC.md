@@ -1,3 +1,3 @@
-Sin perjuicio de las demás circunstancias que, en concepto del tribunal o por disposición de la ley, deban estimarse como base de una presunción, se reputarán verdaderos los hechos certificados en el proceso por un ministro de fe, a virtud de orden de tribunal competente, salvo prueba en contrario.
+Sin perjuicio de las demás circunstancias que, en concepto del tribunal o por disposición de la ley, deban estimarse como base de una presunción, se reputarán verdaderos los hechos certificados en el proceso por un ministro de fe, a virtud de orden de tribunal competente, salvo prueba en contrario. [[Art. 427 inc. 1 CPC| ]]
 
-Igual presunción existirá a favor de los hechos declarados verdaderos en otro juicio entre las mismas partes.
+Igual presunción existirá a favor de los hechos declarados verdaderos en otro juicio entre las mismas partes. [[Art. 427 inc. 2 CPC| ]]

@@ -1,3 +1,3 @@
-El actor podrá acumular en su demanda todas las acciones que le competan en contra de un mismo demandado.
+El actor podrá acumular en su demanda todas las acciones que le competan en contra de un mismo demandado. [[Art. 448 inc. 1 CT| ]]
 
-En el caso de aquellas acciones que corresponda tramitar de acuerdo a procedimientos distintos, se deberán deducir de conformidad a las normas respectivas, y si una dependiere de la otra, no correrá el plazo para ejercer aquella hasta ejecutoriado que sea el fallo de ésta.
+En el caso de aquellas acciones que corresponda tramitar de acuerdo a procedimientos distintos, se deberán deducir de conformidad a las normas respectivas, y si una dependiere de la otra, no correrá el plazo para ejercer aquella hasta ejecutoriado que sea el fallo de ésta. [[Art. 448 inc. 2 CT| ]]

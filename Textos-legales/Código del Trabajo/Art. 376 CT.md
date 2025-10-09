@@ -4,13 +4,13 @@ Para acogerse a este pacto, el trabajador deberá solicitarlo por escrito al emp
 
 Aceptada la solicitud del trabajador, deberá suscribirse un anexo al contrato individual de trabajo que deberá contener las siguientes menciones:
 
-1. El lugar o lugares alternativos a la empresa en que el trabajador prestará los servicios, pudiendo ser el hogar del trabajador u otro lugar convenido con el empleador.
+1. El lugar o lugares alternativos a la empresa en que el trabajador prestará los servicios, pudiendo ser el hogar del trabajador u otro lugar convenido con el empleador. [[Art. 376 n°1 CT| ]]
 
-2. Las adecuaciones a la jornada de trabajo, si fuere necesario.
+2. Las adecuaciones a la jornada de trabajo, si fuere necesario. [[Art. 376 n°2 CT| ]]
 
-3. Los sistemas de control y gestión que utilizará el empleador respecto de los servicios convenidos con el trabajador.
+3. Los sistemas de control y gestión que utilizará el empleador respecto de los servicios convenidos con el trabajador. [[Art. 376 n°3 CT| ]]
 
-4. El tiempo de duración del acuerdo.
+4. El tiempo de duración del acuerdo. [[Art. 376 n°4 CT| ]]
 
 El trabajador podrá unilateralmente volver a las condiciones originalmente pactadas en su contrato de trabajo, previo aviso por escrito al empleador con una anticipación mínima de treinta días.
 

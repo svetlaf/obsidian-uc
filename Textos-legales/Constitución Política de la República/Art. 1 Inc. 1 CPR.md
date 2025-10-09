@@ -1,1 +1,1 @@
-Las personas nacen libres e iguales en dignidad y derechos
+Las personas nacen libres e iguales en dignidad y derechos.

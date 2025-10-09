@@ -1,5 +1,5 @@
-Los trabajadores cuyos contratos se rigen por el presente Capítulo, gozarán del derecho a descanso dominical, bajo la modalidad que se señala en el inciso siguiente.
+Los trabajadores cuyos contratos se rigen por el presente Capítulo, gozarán del derecho a descanso dominical, bajo la modalidad que se señala en el inciso siguiente. [[Art. 152 ter K. inc. 1 CT| ]]
 
-El trabajador tendrá derecho, a lo menos por una vez en cada mes calendario, a un descanso de 106 horas, las que deben comprender cuatro días íntegros y consecutivos e incluir días sábado y domingo, en la base de su residencia habitual. Dichos descansos no podrán iniciarse después de las cero horas del primer día.
+El trabajador tendrá derecho, a lo menos por una vez en cada mes calendario, a un descanso de 106 horas, las que deben comprender cuatro días íntegros y consecutivos e incluir días sábado y domingo, en la base de su residencia habitual. Dichos descansos no podrán iniciarse después de las cero horas del primer día. [[Art. 152 ter K. inc. 2 CT| ]]
 
-Excepcionalmente, no será aplicable lo dispuesto en el inciso anterior, a los trabajadores que tengan pactadas en sus contratos de trabajo cláusulas que determinen su libertad de elegir mensualmente la distribución de sus Roles de Vuelo y con ello la distribución de días de trabajo y de descanso.
+Excepcionalmente, no será aplicable lo dispuesto en el inciso anterior, a los trabajadores que tengan pactadas en sus contratos de trabajo cláusulas que determinen su libertad de elegir mensualmente la distribución de sus Roles de Vuelo y con ello la distribución de días de trabajo y de descanso. [[Art. 152 ter K. inc. 3 CT| ]]

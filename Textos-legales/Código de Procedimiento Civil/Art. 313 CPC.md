@@ -1,3 +1,3 @@
-Si el demandado acepta llanamente las peticiones del demandante, o si en sus escritos no contradice en materia substancial y pertinente los hechos sobre que versa el juicio, el tribunal mandará citar a las partes para oír sentencia definitiva, una vez evacuado el traslado de la réplica.
+Si el demandado acepta llanamente las peticiones del demandante, o si en sus escritos no contradice en materia substancial y pertinente los hechos sobre que versa el juicio, el tribunal mandará citar a las partes para oír sentencia definitiva, una vez evacuado el traslado de la réplica. [[Art. 313 inc. 1 CPC| ]]
 
-Igual citación se dispondrá cuando las partes pidan que se falle el pleito sin más trámite.
+Igual citación se dispondrá cuando las partes pidan que se falle el pleito sin más trámite. [[Art. 313 inc. 2 CPC| ]]

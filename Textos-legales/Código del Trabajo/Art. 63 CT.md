@@ -1,5 +1,5 @@
-Las sumas que los empleadores adeudaren a los trabajadores por concepto de remuneraciones, indemnizaciones o cualquier otro, devengadas con motivo de la prestación de servicios, se pagarán reajustadas en el mismo porcentaje en que haya variado el Indice de Precios al Consumidor determinado por el Instituto Nacional de Estadísticas, entre el mes anterior a aquel en que debió efectuarse el pago y el precedente a aquel en que efectivamente se realice.
+Las sumas que los empleadores adeudaren a los trabajadores por concepto de remuneraciones, indemnizaciones o cualquier otro, devengadas con motivo de la prestación de servicios, se pagarán reajustadas en el mismo porcentaje en que haya variado el Indice de Precios al Consumidor determinado por el Instituto Nacional de Estadísticas, entre el mes anterior a aquel en que debió efectuarse el pago y el precedente a aquel en que efectivamente se realice. [[Art. 63 inc. 1 CT| ]]
 
-Idéntico reajuste experimentarán los anticipos, abonos o pagos parciales que hubiera hecho el empleador.
+Idéntico reajuste experimentarán los anticipos, abonos o pagos parciales que hubiera hecho el empleador. [[Art. 63 inc. 2 CT| ]]
 
-Las sumas a que se refiere el inciso primero de este artículo, reajustadas en la forma allí indicada, devengarán el máximo interés permitido para operaciones reajustables a partir de la fecha en que se hizo exigible la obligación.
+Las sumas a que se refiere el inciso primero de este artículo, reajustadas en la forma allí indicada, devengarán el máximo interés permitido para operaciones reajustables a partir de la fecha en que se hizo exigible la obligación. [[Art. 63 inc. 3 CT| ]]

@@ -1,3 +1,3 @@
-El uso y explotación comercial de la imagen de los o las deportistas profesionales y de los trabajadores y trabajadoras que desempeñan actividades conexas, por parte de sus empleadores, para fines distintos al objeto principal de la prestación de servicios, y en cada caso en que ésta deba ser utilizada, requerirá de su autorización expresa.
+El uso y explotación comercial de la imagen de los o las deportistas profesionales y de los trabajadores y trabajadoras que desempeñan actividades conexas, por parte de sus empleadores, para fines distintos al objeto principal de la prestación de servicios, y en cada caso en que ésta deba ser utilizada, requerirá de su autorización expresa. [[Art. 152 bis F. inc. 1 CT| ]]
 
-En cuanto a los beneficios pecuniarios para el trabajador o trabajadora, se estará a lo que se determine en el contrato individual o instrumento colectivo, según corresponda.
+En cuanto a los beneficios pecuniarios para el trabajador o trabajadora, se estará a lo que se determine en el contrato individual o instrumento colectivo, según corresponda. [[Art. 152 bis F. inc. 2 CT| ]]

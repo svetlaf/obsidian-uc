@@ -1,3 +1,3 @@
-La cotización a las organizaciones sindicales será obligatoria respecto de los afiliados a éstas, en conformidad a sus estatutos.
+La cotización a las organizaciones sindicales será obligatoria respecto de los afiliados a éstas, en conformidad a sus estatutos. [[Art. 260 inc. 1 CT| ]]
 
-Las cuotas extraordinarias se destinarán a financiar proyectos o actividades previamente determinadas y serán aprobadas por la asamblea mediante voto secreto con la voluntad conforme de la mayoría absoluta de sus afiliados.
+Las cuotas extraordinarias se destinarán a financiar proyectos o actividades previamente determinadas y serán aprobadas por la asamblea mediante voto secreto con la voluntad conforme de la mayoría absoluta de sus afiliados. [[Art. 260 inc. 2 CT| ]]

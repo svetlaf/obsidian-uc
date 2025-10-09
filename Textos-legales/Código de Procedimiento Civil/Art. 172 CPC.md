@@ -1,3 +1,3 @@
-Cuando en un mismo juicio se ventilen dos o más cuestiones que puedan ser resueltas separada o parcialmente, sin que ello ofrezca dificultad para la marcha del proceso, y alguna o algunas de dichas cuestiones o parte de ellas, lleguen al estado de sentencia antes de que termine el procedimiento en las restantes, podrá el tribunal fallar desde luego las primeras.
+Cuando en un mismo juicio se ventilen dos o más cuestiones que puedan ser resueltas separada o parcialmente, sin que ello ofrezca dificultad para la marcha del proceso, y alguna o algunas de dichas cuestiones o parte de ellas, lleguen al estado de sentencia antes de que termine el procedimiento en las restantes, podrá el tribunal fallar desde luego las primeras. [[Art. 172 inc. 1 CPC| ]]
 
-En este caso se formará cuaderno electrónico separado con las piezas necesarias para dictar fallo y ejecutarlo.
+En este caso se formará cuaderno electrónico separado con las piezas necesarias para dictar fallo y ejecutarlo. [[Art. 172 inc. 2 CPC| ]]

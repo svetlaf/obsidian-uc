@@ -1,3 +1,3 @@
-El término para deducir la oposición comienza a correr desde el día del requerimiento de pago.
+El término para deducir la oposición comienza a correr desde el día del requerimiento de pago. [[Art. 462 inc. 1 CPC| ]]
 
-Si el requerimiento se verifica dentro de la República, el ministro de fe hará saber al deudor, en el mismo acto, el término que la ley concede para deducir la oposición y dejará testimonio de este aviso en la diligencia. La omisión del ministro de fe le hará responsable de los perjuicios que puedan resultar, pero no invalidará el requerimiento.
+Si el requerimiento se verifica dentro de la República, el ministro de fe hará saber al deudor, en el mismo acto, el término que la ley concede para deducir la oposición y dejará testimonio de este aviso en la diligencia. La omisión del ministro de fe le hará responsable de los perjuicios que puedan resultar, pero no invalidará el requerimiento. [[Art. 462 inc. 2 CPC| ]]

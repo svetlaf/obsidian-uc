@@ -1,3 +1,3 @@
-Concluídos los trámites que deben preceder a la prueba, ya se proceda con la contestación expresa del demandado o en su rebeldía, el tribunal examinará por sí mismo los autos y si estima que hay o puede haber controversia sobre algún hecho substancial y pertinente en el juicio, recibirá la causa a prueba y fijará en la misma resolución los hechos substanciales controvertidos sobre los cuales deberá recaer.
+Concluídos los trámites que deben preceder a la prueba, ya se proceda con la contestación expresa del demandado o en su rebeldía, el tribunal examinará por sí mismo los autos y si estima que hay o puede haber controversia sobre algún hecho substancial y pertinente en el juicio, recibirá la causa a prueba y fijará en la misma resolución los hechos substanciales controvertidos sobre los cuales deberá recaer. [[Art. 318 inc. 1 CPC| ]]
 
-Sólo podrán fijarse como puntos de pruebas los hechos substanciales controvertidos en los escritos anteriores a la resolución que ordena recibirla.
+Sólo podrán fijarse como puntos de pruebas los hechos substanciales controvertidos en los escritos anteriores a la resolución que ordena recibirla. [[Art. 318 inc. 2 CPC| ]]

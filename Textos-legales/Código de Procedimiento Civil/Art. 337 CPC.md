@@ -1,3 +1,3 @@
-La parte que haya obtenido aumento extraordinario del término para rendir prueba dentro o fuera de la República, y no la rinda, o sólo rinda una impertinente, será obligada a pagar a la otra parte los gastos que ésta haya hecho para presenciar las diligencias pedidas, sea personalmente, sea por medio de mandatarios.
+La parte que haya obtenido aumento extraordinario del término para rendir prueba dentro o fuera de la República, y no la rinda, o sólo rinda una impertinente, será obligada a pagar a la otra parte los gastos que ésta haya hecho para presenciar las diligencias pedidas, sea personalmente, sea por medio de mandatarios. [[Art. 337 inc. 1 CPC| ]]
 
-Esta condenación se impondrá en la sentencia definitiva y podrá el tribunal exonerar de ella a la parte que acredite no haberla rendido por motivos justificados.
+Esta condenación se impondrá en la sentencia definitiva y podrá el tribunal exonerar de ella a la parte que acredite no haberla rendido por motivos justificados. [[Art. 337 inc. 2 CPC| ]]

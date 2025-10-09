@@ -1,3 +1,3 @@
-En caso que el reclamante no se presentare al comparendo, estando legalmente citado, se pondrá término a dicha instancia, archivándose los antecedentes.
+En caso que el reclamante no se presentare al comparendo, estando legalmente citado, se pondrá término a dicha instancia, archivándose los antecedentes. [[Art. 498 inc. 1 CT| ]]
 
-Sin perjuicio de lo señalado en el inciso anterior, el trabajador podrá accionar judicialmente conforme a las reglas del procedimiento de aplicación general regulado en el Párrafo 3° del presente Título.
+Sin perjuicio de lo señalado en el inciso anterior, el trabajador podrá accionar judicialmente conforme a las reglas del procedimiento de aplicación general regulado en el Párrafo 3° del presente Título. [[Art. 498 inc. 2 CT| ]]

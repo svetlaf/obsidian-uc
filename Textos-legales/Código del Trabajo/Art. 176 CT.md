@@ -1,3 +1,3 @@
-La indemnización que deba pagarse en conformidad al artículo 163, será incompatible con toda otra indemnización que, por concepto de término del contrato o de los años de servicio pudiere corresponder al trabajador, cualquiera sea su origen, y a cuyo pago concurra el empleador total o parcialmente en la parte que es de cargo de este último, con excepción de las establecidas en los artículos 164 y siguientes.
+La indemnización que deba pagarse en conformidad al artículo 163, será incompatible con toda otra indemnización que, por concepto de término del contrato o de los años de servicio pudiere corresponder al trabajador, cualquiera sea su origen, y a cuyo pago concurra el empleador total o parcialmente en la parte que es de cargo de este último, con excepción de las establecidas en los artículos 164 y siguientes. [[Art. 176 inc. 1 CT| ]]
 
-En caso de incompatibilidad, deberá pagarse al trabajador la indemnización por la que opte.
+En caso de incompatibilidad, deberá pagarse al trabajador la indemnización por la que opte. [[Art. 176 inc. 2 CT| ]]

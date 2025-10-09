@@ -1,3 +1,3 @@
-En caso de no resultar mayoría en el pronunciamiento de la sentencia definitiva o de otra clase de resoluciones, siempre que ellas no sean apelables, quedará sin efecto el compromiso, si éste es voluntario. Si es forzoso, se procederá a nombrar nuevos árbitros.
+En caso de no resultar mayoría en el pronunciamiento de la sentencia definitiva o de otra clase de resoluciones, siempre que ellas no sean apelables, quedará sin efecto el compromiso, si éste es voluntario. Si es forzoso, se procederá a nombrar nuevos árbitros. [[Art. 238 inc. 1 COT| ]]
 
-Cuando pueda deducirse el recurso, se elevarán los antecedentes al tribunal de alzada para que resuelva la cuestión que motiva el desacuerdo conforme a derecho o equidad, según corresponda.
+Cuando pueda deducirse el recurso, se elevarán los antecedentes al tribunal de alzada para que resuelva la cuestión que motiva el desacuerdo conforme a derecho o equidad, según corresponda. [[Art. 238 inc. 2 COT| ]]

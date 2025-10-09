@@ -1,3 +1,3 @@
-Facultades de la Inspección del Trabajo. La Inspección del Trabajo estará facultada para disponer la celebración de las audiencias que estime necesarias para llegar a un acuerdo.
+Facultades de la Inspección del Trabajo. La Inspección del Trabajo estará facultada para disponer la celebración de las audiencias que estime necesarias para llegar a un acuerdo. [[Art. 383 inc. 1 CT| ]]
 
-Para el logro del objeto de la mediación, la Inspección del Trabajo podrá solicitar asesoramiento e información a entidades públicas y privadas y ordenar medidas destinadas a contar con la mayor información necesaria para contribuir a resolver el conflicto.
+Para el logro del objeto de la mediación, la Inspección del Trabajo podrá solicitar asesoramiento e información a entidades públicas y privadas y ordenar medidas destinadas a contar con la mayor información necesaria para contribuir a resolver el conflicto. [[Art. 383 inc. 2 CT| ]]

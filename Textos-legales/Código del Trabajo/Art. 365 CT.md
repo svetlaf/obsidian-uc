@@ -1,3 +1,3 @@
-Procedimiento especial de negociación. Los trabajadores eventuales, de temporada y de obra o faena transitoria, sólo podrán negociar colectivamente conforme a lo dispuesto en el artículo 314 o a las disposiciones previstas en este Capítulo.
+Procedimiento especial de negociación. Los trabajadores eventuales, de temporada y de obra o faena transitoria, sólo podrán negociar colectivamente conforme a lo dispuesto en el artículo 314 o a las disposiciones previstas en este Capítulo. [[Art. 365 inc. 1 CT| ]]
 
-Las empresas estarán obligadas a negociar conforme al procedimiento regulado en este Capítulo sólo en el caso que la obra o faena transitoria tenga una duración superior a doce meses. Con todo, los trabajadores sujetos a esta negociación no gozarán de las prerrogativas de los artículos 309 y 345.
+Las empresas estarán obligadas a negociar conforme al procedimiento regulado en este Capítulo sólo en el caso que la obra o faena transitoria tenga una duración superior a doce meses. Con todo, los trabajadores sujetos a esta negociación no gozarán de las prerrogativas de los artículos 309 y 345. [[Art. 365 inc. 2 CT| ]]

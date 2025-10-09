@@ -1,9 +1,9 @@
 En la Novena Región, de la Araucanía, existirán los siguientes juzgados de letras:
 
-A.- JUZGADOS CIVILES:
+A.- JUZGADOS CIVILES: [[Art. 36 A. COT| ]]
 Tres juzgados en lo civil con asiento en la comuna de Temuco, con competencia sobre las comunas de Temuco, Vilcún, Melipeuco, Cunco, Freire y Padre Las Casas.
 
-B.- JUZGADOS CON COMPETENCIA COMUN:
+B.- JUZGADOS CON COMPETENCIA COMUN: [[Art. 36 B. COT| ]]
 Un juzgado con asiento en la comuna de Angol, con competencia sobre las comunas de Angol y Renaico;
 Un juzgado con asiento en la comuna de Purén, con competencia sobre las comunas de Purén y Los Sauces;
 Un juzgado con asiento en la comuna de Collipulli, con dos jueces, con competencia sobre las comunas de Collipulli y Ercilla;

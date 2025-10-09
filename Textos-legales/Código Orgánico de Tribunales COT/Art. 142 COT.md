@@ -1,2 +1,3 @@
-Cuando el demandado fuere una persona jurídica, se reputará por domicilio, para el objeto de fijar la competencia del juez, el lugar donde tenga su asiento la respectiva corporación o fundación.
-Y si la persona jurídica demandada tuviere establecimientos, comisiones u oficinas que la representen en diversos lugares, como sucede con las sociedades comerciales, deberá ser demandada ante el juez del lugar donde exista el establecimiento, comisión u oficina que celebró el contrato o que intervino en el hecho que da origen al juicio.
+Cuando el demandado fuere una persona jurídica, se reputará por domicilio, para el objeto de fijar la competencia del juez, el lugar donde tenga su asiento la respectiva corporación o fundación. [[Art. 142 inc. 1 COT| ]]
+
+Y si la persona jurídica demandada tuviere establecimientos, comisiones u oficinas que la representen en diversos lugares, como sucede con las sociedades comerciales, deberá ser demandada ante el juez del lugar donde exista el establecimiento, comisión u oficina que celebró el contrato o que intervino en el hecho que da origen al juicio. [[Art. 142 inc. 2 COT| ]]

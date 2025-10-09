@@ -1,3 +1,3 @@
-Los fondos que resulten de la realización de los bienes embargados se consignarán directamente por los compradores, o por los arrendatarios en el caso del artículo anterior, a la orden del tribunal que conozca de la ejecución, en la forma dispuesta en el artículo 507 del Código Orgánico de Tribunales.
+Los fondos que resulten de la realización de los bienes embargados se consignarán directamente por los compradores, o por los arrendatarios en el caso del artículo anterior, a la orden del tribunal que conozca de la ejecución, en la forma dispuesta en el artículo 507 del Código Orgánico de Tribunales. [[Art. 509 inc. 1 CPC| ]]
 
-Si se ha interpuesto apelación de la sentencia, no podrá procederse al pago al ejecutante, pendiente el recurso, sino en caso de que caucione las resultas del mismo.
+Si se ha interpuesto apelación de la sentencia, no podrá procederse al pago al ejecutante, pendiente el recurso, sino en caso de que caucione las resultas del mismo. [[Art. 509 inc. 2 CPC| ]]

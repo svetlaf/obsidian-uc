@@ -1,2 +1,3 @@
-Vista la causa, queda cerrado el debate y el juicio en estado de dictarse resolución.
-Si, vista la causa, se decreta para mejor resolver, alguna de las diligencias mencionadas en el artículo 159, no por esto dejarán de intervenir en la decisión del asunto los mismos miembros del tribunal que asistieron a la vista en que se ordenó la diligencia.
+Vista la causa, queda cerrado el debate y el juicio en estado de dictarse resolución. [[Art. 227 inc. 1 CPC| ]]
+
+Si, vista la causa, se decreta para mejor resolver, alguna de las diligencias mencionadas en el artículo 159, no por esto dejarán de intervenir en la decisión del asunto los mismos miembros del tribunal que asistieron a la vista en que se ordenó la diligencia. [[Art. 227 inc. 2 CPC| ]]

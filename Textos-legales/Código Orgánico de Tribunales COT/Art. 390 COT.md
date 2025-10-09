@@ -1,3 +1,3 @@
-Los receptores son ministros de fe pública encargados de hacer saber a las partes, fuera de las oficinas de los secretarios, los decretos y resoluciones de los Tribunales de Justicia, y de evacuar todas aquellas diligencias que los mismos tribunales les cometieren.
+Los receptores son ministros de fe pública encargados de hacer saber a las partes, fuera de las oficinas de los secretarios, los decretos y resoluciones de los Tribunales de Justicia, y de evacuar todas aquellas diligencias que los mismos tribunales les cometieren. [[Art. 390 inc. 1 COT| ]]
 
-Deben recibir, además, las informaciones sumarias de testigos en actos de jurisdicción voluntaria o en juicios civiles y actuar en estos últimos como ministros de fe en la recepción de la prueba testimonial y en la diligencia de absolución de posiciones.
+Deben recibir, además, las informaciones sumarias de testigos en actos de jurisdicción voluntaria o en juicios civiles y actuar en estos últimos como ministros de fe en la recepción de la prueba testimonial y en la diligencia de absolución de posiciones. [[Art. 390 inc. 2 COT| ]]

@@ -1,3 +1,3 @@
-La reforma de los estatutos deberá aprobarse en sesión extraordinaria y se regirá, en cuanto le sean aplicables, por las normas de los artículos 221, 222 y 223. El apercibimiento del inciso quinto del artículo 223 será el de dejar sin efecto la reforma de los estatutos.
+La reforma de los estatutos deberá aprobarse en sesión extraordinaria y se regirá, en cuanto le sean aplicables, por las normas de los artículos 221, 222 y 223. El apercibimiento del inciso quinto del artículo 223 será el de dejar sin efecto la reforma de los estatutos. [[Art. 233 inc. 1 CT| ]]
 
-La aprobación de la reforma de los estatutos deberá acordarse por la mayoría absoluta de los afiliados que se encuentren al día en el pago de sus cuotas sindicales, en votación secreta y unipersonal.
+La aprobación de la reforma de los estatutos deberá acordarse por la mayoría absoluta de los afiliados que se encuentren al día en el pago de sus cuotas sindicales, en votación secreta y unipersonal. [[Art. 233 inc. 2 CT| ]]

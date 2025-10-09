@@ -1,3 +1,3 @@
-El nombramiento de árbitros deberá hacerse con el consentimiento unánime de todas las partes interesadas en el litigio sometido a su decisión.
+El nombramiento de árbitros deberá hacerse con el consentimiento unánime de todas las partes interesadas en el litigio sometido a su decisión. [[Art. 232 inc. 1 COT| ]]
 
-En los casos en que no hubiere avenimiento entre las partes respecto de la persona en quien haya de recaer el encargo, el nombramiento se hará por la justicia ordinaria, debiendo en tal caso recaer dicho nombramiento en un solo individuo y diverso de los dos primeros indicados por cada parte; se procederá, en lo demás, en la forma establecida en el Código de Procedimiento Civil para el nombramiento de peritos.
+En los casos en que no hubiere avenimiento entre las partes respecto de la persona en quien haya de recaer el encargo, el nombramiento se hará por la justicia ordinaria, debiendo en tal caso recaer dicho nombramiento en un solo individuo y diverso de los dos primeros indicados por cada parte; se procederá, en lo demás, en la forma establecida en el Código de Procedimiento Civil para el nombramiento de peritos. [[Art. 232 inc. 2 COT| ]]

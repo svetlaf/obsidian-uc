@@ -1,2 +1,3 @@
-La disposición del artículo 106 no es aplicable al capitán, o a quien lo reemplazare, debiendo considerarse sus funciones como de labor continua y sostenida mientras permanezca a bordo.
-Tampoco se aplicará dicha disposición al ingeniero jefe, al comisario, al médico, al telegrafista a cargo de la estación de radio y a cualquier otro oficial que, de acuerdo con el reglamento de trabajo a bordo, se desempeñe como jefe de un departamento o servicio de la nave y que, en tal carácter, deba fiscalizar los trabajos ordinarios y extraordinarios de sus subordinados.
+La disposición del artículo 106 no es aplicable al capitán, o a quien lo reemplazare, debiendo considerarse sus funciones como de labor continua y sostenida mientras permanezca a bordo. [[Art. 108 inc. 1 CT| ]]
+
+Tampoco se aplicará dicha disposición al ingeniero jefe, al comisario, al médico, al telegrafista a cargo de la estación de radio y a cualquier otro oficial que, de acuerdo con el reglamento de trabajo a bordo, se desempeñe como jefe de un departamento o servicio de la nave y que, en tal carácter, deba fiscalizar los trabajos ordinarios y extraordinarios de sus subordinados. [[Art. 108 inc. 2 CT| ]]

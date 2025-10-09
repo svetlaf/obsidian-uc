@@ -1,3 +1,3 @@
-La Corte Suprema tiene la superintendencia directiva, correccional y económica de todos los tribunales de la Nación. Se exceptúan de esta norma el Tribunal Constitucional, el Tribunal Calificador de Elecciones y los tribunales electorales regionales.
+La Corte Suprema tiene la superintendencia directiva, correccional y económica de todos los tribunales de la Nación. Se exceptúan de esta norma el Tribunal Constitucional, el Tribunal Calificador de Elecciones y los tribunales electorales regionales. [[Art. 82 inc. 1 CPR| ]]
 
-Los tribunales superiores de justicia, en uso de sus facultades disciplinarias, sólo podrán invalidar resoluciones jurisdiccionales en los casos y forma que establezca la ley orgánica constitucional respectiva.
+Los tribunales superiores de justicia, en uso de sus facultades disciplinarias, sólo podrán invalidar resoluciones jurisdiccionales en los casos y forma que establezca la ley orgánica constitucional respectiva. [[Art. 82 inc. 2 CPR| ]]

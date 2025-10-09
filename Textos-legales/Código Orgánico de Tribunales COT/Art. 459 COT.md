@@ -1,3 +1,3 @@
-Los fiscales judiciales, los defensores, los relatores y los demás auxiliares de la Administración de Justicia, serán nombrados por el Presidente de la República previa propuesta de la Corte Suprema o de la Corte de Apelaciones respectiva, en conformidad a las disposiciones contenidas en el párrafo tercero del Título X del presente Código.
+Los fiscales judiciales, los defensores, los relatores y los demás auxiliares de la Administración de Justicia, serán nombrados por el Presidente de la República previa propuesta de la Corte Suprema o de la Corte de Apelaciones respectiva, en conformidad a las disposiciones contenidas en el párrafo tercero del Título X del presente Código. [[Art. 459 inc. 1 COT| ]]
 
-Para la designación de los funcionarios a que se refiere el inciso anterior deberán cumplirse, además, los requisitos que se indican en los artículos siguientes.
+Para la designación de los funcionarios a que se refiere el inciso anterior deberán cumplirse, además, los requisitos que se indican en los artículos siguientes. [[Art. 459 inc. 2 COT| ]]

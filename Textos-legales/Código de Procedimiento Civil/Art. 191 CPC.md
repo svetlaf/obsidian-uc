@@ -1,3 +1,3 @@
-Cuando la apelación comprenda los efectos suspensivo y devolutivo a la vez, se suspenderá la jurisdicción del tribunal inferior para seguir conociendo de la causa.
+Cuando la apelación comprenda los efectos suspensivo y devolutivo a la vez, se suspenderá la jurisdicción del tribunal inferior para seguir conociendo de la causa. [[Art. 191 inc. 1 CPC| ]]
 
-Podrá, sin embargo, entender en todos los asuntos en que por disposición expresa de la ley conserve jurisdicción, especialmente en las gestiones a que dé origen la interposición del recurso hasta que se eleven los autos al superior, y en las que se hagan para declarar desierta o prescrita la apelación antes de la remisión del expediente.
+Podrá, sin embargo, entender en todos los asuntos en que por disposición expresa de la ley conserve jurisdicción, especialmente en las gestiones a que dé origen la interposición del recurso hasta que se eleven los autos al superior, y en las que se hagan para declarar desierta o prescrita la apelación antes de la remisión del expediente. [[Art. 191 inc. 2 CPC| ]]

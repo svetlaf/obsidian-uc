@@ -1,3 +1,3 @@
-Serán admitidos a declarar solamente hasta seis testigos, por cada parte, sobre cada uno de los hechos que deban acreditarse.
+Serán admitidos a declarar solamente hasta seis testigos, por cada parte, sobre cada uno de los hechos que deban acreditarse. [[Art. 372 inc. 1 CPC| ]]
 
-Sólo se examinarán testigos que figuren en la nómina a que se refiere el inciso final del artículo 320. Podrá, con todo, el tribunal admitir otros testigos en casos muy calificados, y jurando la parte que no tuvo conocimiento de ellos al tiempo de formar la nómina de que trata el inciso anterior.
+Sólo se examinarán testigos que figuren en la nómina a que se refiere el inciso final del artículo 320. Podrá, con todo, el tribunal admitir otros testigos en casos muy calificados, y jurando la parte que no tuvo conocimiento de ellos al tiempo de formar la nómina de que trata el inciso anterior. [[Art. 372 inc. 2 CPC| ]]

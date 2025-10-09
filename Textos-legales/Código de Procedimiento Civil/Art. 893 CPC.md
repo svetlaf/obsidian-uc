@@ -1,3 +1,3 @@
-Si no se hacen posturas admisibles, podrán los interesados pedir que se señale otro día para la subasta, manteniendo el valor asignado a los bienes, o reduciéndolo, o modificando como se estime conveniente la forma o condiciones del pago.
+Si no se hacen posturas admisibles, podrán los interesados pedir que se señale otro día para la subasta, manteniendo el valor asignado a los bienes, o reduciéndolo, o modificando como se estime conveniente la forma o condiciones del pago. [[Art. 893 inc. 1 CPC| ]]
 
-Si para autorizar la venta ha debido oírse a alguno de los defensores públicos, se le oirá también para aprobar la reducción o modificación indicada.
+Si para autorizar la venta ha debido oírse a alguno de los defensores públicos, se le oirá también para aprobar la reducción o modificación indicada. [[Art. 893 inc. 2 CPC| ]]

@@ -1,3 +1,3 @@
-Puede todo litigante presenciar la declaración del contendor y hacer al tribunal las observaciones que estime conducentes para aclarar, explicar o ampliar las preguntas que han de dirigírsele.
+Puede todo litigante presenciar la declaración del contendor y hacer al tribunal las observaciones que estime conducentes para aclarar, explicar o ampliar las preguntas que han de dirigírsele. [[Art. 392 inc. 1 CPC| ]]
 
-Puede también, antes que termine la diligencia y después de prestada la declaración, pedir que se repita si hay en las respuestas dadas algún punto obscuro o dudoso que aclarar.
+Puede también, antes que termine la diligencia y después de prestada la declaración, pedir que se repita si hay en las respuestas dadas algún punto obscuro o dudoso que aclarar. [[Art. 392 inc. 2 CPC| ]]

@@ -1,3 +1,3 @@
-Si son distintas entre sí las acciones de los demandantes o las defensas de los demandados, cada uno de ellos podrá obrar separadamente en el juicio, salvo las excepciones legales.
+Si son distintas entre sí las acciones de los demandantes o las defensas de los demandados, cada uno de ellos podrá obrar separadamente en el juicio, salvo las excepciones legales. [[Art. 20 inc. 1 CPC| ]]
 
-Se concederá la facultad de gestionar por separado en los casos del artículo anterior desde que aparezca haber incompatibilidad de intereses entre las partes que litigan conjuntamente.
+Se concederá la facultad de gestionar por separado en los casos del artículo anterior desde que aparezca haber incompatibilidad de intereses entre las partes que litigan conjuntamente. [[Art. 20 inc. 2 CPC| ]]

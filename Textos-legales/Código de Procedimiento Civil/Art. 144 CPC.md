@@ -1,3 +1,3 @@
-La parte que sea vencida totalmente en un juicio o en un incidente, será condenada al pago de las costas. Podrá con todo el tribunal eximirla de ellas, cuando aparezca que ha tenido motivos plausibles para litigar, sobre lo cual hará declaración expresa en la resolución.
+La parte que sea vencida totalmente en un juicio o en un incidente, será condenada al pago de las costas. Podrá con todo el tribunal eximirla de ellas, cuando aparezca que ha tenido motivos plausibles para litigar, sobre lo cual hará declaración expresa en la resolución. [[Art. 144 inc. 1 CPC| ]]
 
-Lo dispuesto en este artículo se entiende sin perjuicio de lo establecido en otras disposiciones de este Código.
+Lo dispuesto en este artículo se entiende sin perjuicio de lo establecido en otras disposiciones de este Código. [[Art. 144 inc. 2 CPC| ]]

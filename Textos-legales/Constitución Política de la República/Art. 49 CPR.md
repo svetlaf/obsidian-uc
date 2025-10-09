@@ -1,3 +1,3 @@
-El Senado se compone de miembros elegidos en votación directa por circunscripciones senatoriales, en consideración a las regiones del país, cada una de las cuales constituirá, a lo menos, una circunscripción. La ley orgánica constitucional respectiva determinará el número de Senadores, las circunscripciones senatoriales y la forma de su elección.
+El Senado se compone de miembros elegidos en votación directa por circunscripciones senatoriales, en consideración a las regiones del país, cada una de las cuales constituirá, a lo menos, una circunscripción. La ley orgánica constitucional respectiva determinará el número de Senadores, las circunscripciones senatoriales y la forma de su elección. [[Art. 49 inc. 1 CPR| ]]
 
-Los senadores durarán ocho años en su cargo y se renovarán alternadamente cada cuatro años, en la forma que determine la ley orgánica constitucional respectiva.
+Los senadores durarán ocho años en su cargo y se renovarán alternadamente cada cuatro años, en la forma que determine la ley orgánica constitucional respectiva. [[Art. 49 inc. 2 CPR| ]]

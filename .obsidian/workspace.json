@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Argumentos de las partes.md",
-                "mode": "preview",
+                "file": "Untitled 7.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Argumentos de las partes"
+              "title": "Untitled 7"
             }
           },
           {
@@ -34,8 +34,23 @@
               "icon": "lucide-file",
               "title": "Art. 2, 4 UN Charter"
             }
+          },
+          {
+            "id": "77662e72a43e2182",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "clases/laboral/remuneraciones.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "remuneraciones"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -92,8 +107,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "593ee9eaaf0b2fef",
@@ -188,37 +202,39 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0621665fc36ad805",
+  "active": "77662e72a43e2182",
   "lastOpenFiles": [
+    "Textos-legales/Código Orgánico de Tribunales COT/Art. 27 quáter COT 2.md",
+    "Textos-legales/Código Orgánico de Tribunales COT/Art. 171 COT 2.md",
+    "Textos-legales/Código Orgánico de Tribunales COT/Art. 5 COT 2.md",
+    "Textos-legales/Código Orgánico de Tribunales COT/Art. 79 COT 2.md",
+    "Textos-legales/Código Orgánico de Tribunales COT/Art. final COT 2.md",
+    "Textos-legales/Código Orgánico de Tribunales COT/Art. 373 COT 2.md",
+    "Textos-legales/Código Orgánico de Tribunales COT/Art. 39 quáter COT 2.md",
+    "Textos-legales/Código Orgánico de Tribunales COT/Art. 303 COT 2.md",
+    "Textos-legales/Código Orgánico de Tribunales COT/Art. 6 COT 2.md",
+    "Textos-legales/Código Orgánico de Tribunales COT/Art. 271 COT 2.md",
+    "Textos-legales/Código Orgánico de Tribunales COT/Art. 7 COT 3.md",
+    "Textos-legales/Código Orgánico de Tribunales COT/Art. 11 COT 3.md",
+    "Textos-legales/Código Orgánico de Tribunales COT/Art. 517 COT 2.md",
+    "Textos-legales/Código Orgánico de Tribunales COT/Art. 47 A COT 2.md",
+    "Textos-legales/Código Orgánico de Tribunales COT/Art. 98 COT 2.md",
+    "Textos-legales/Código Orgánico de Tribunales COT/Art. 50 COT 2.md",
+    "Textos-legales/Código Orgánico de Tribunales COT/Art. 602 COT 2.md",
+    "Textos-legales/Código Orgánico de Tribunales COT/Art. 271 D COT 2.md",
+    "Textos-legales/Código Orgánico de Tribunales COT/Artículo 171 COT 2.md",
+    "Textos-legales/Código Orgánico de Tribunales COT/Art. 479 COT 2.md",
+    "Textos-legales/Código Orgánico de Tribunales COT/Art. 224 COT 2.md",
+    "Textos-legales/Código Orgánico de Tribunales COT/Art. 515 COT 2.md",
+    "Textos-legales/Código Orgánico de Tribunales COT/Art. 389 F COT 2.md",
+    "Textos-legales/Código Orgánico de Tribunales COT/Art. 561 COT 2.md",
+    "Textos-legales/Código Orgánico de Tribunales COT/Art. 408 COT 2.md",
+    "Textos-legales/Código Orgánico de Tribunales COT/Art. 551 COT 2.md",
+    "Textos-legales/Constitución Política de la República/Art. 57 inc. 2 CPR",
     "Argumentos de las partes.pdf",
-    "Textos-legales/UN Charter/Art. 2, 4 UN Charter.md",
-    "Argumentos de las partes.md",
-    "Textos-legales/UN Charter/Art. 51 UN Charter.md",
     "Textos-legales/UN Charter",
-    "Textos-legales/ICJ statutes/Art. 36, 2. ICJ Statute.md",
     "Textos-legales/ICJ statutes",
     "Textos-legales/Untitled.canvas",
-    "Textos-legales/Código Orgánico de Tribunales COT/Art. 191 inc. 4 COT.md",
-    "checkpoint-git.md",
-    "fuero maternal.md",
-    "clases/civil2/requisitos de la posesión regular.md",
-    "sucesión por causa de muerte.md",
-    "procesal.md",
-    "causales de incompetencia accidental.md",
-    "Textos-legales/Código Orgánico de Tribunales COT/Art. 191 COT.md",
-    "Textos-legales/Constitución Política de la República/Art. 93 n°12 CPR.md",
-    "Art. 93 n°12 CPR.md",
-    "Excalidraw/Drawing 2025-09-24 11.00.07.excalidraw.md",
-    "Textos-legales/Constitución Política de la República/Art. 96 n°12 CPR.md",
-    "Textos-legales/Constitución Política de la República/Art. 160 CPR.md",
-    "Art. 19 N°3 CPR.md",
-    "Textos-legales/Constitución Política de la República/Art. 93 CPR.md",
-    "Textos-legales/Código de Procedimiento Civil/Art. 180 CPC 2.md",
-    "Textos-legales/Código de Procedimiento Civil/Art. 290 CPC 2.md",
-    "Textos-legales/Código de Procedimiento Civil/Art. 176 CPC 2.md",
-    "Textos-legales/Código de Procedimiento Civil/Art. 858 CPC 2.md",
-    "Textos-legales/Código de Procedimiento Civil/Art. 296 CPC 2.md",
-    "Textos-legales/Código de Procedimiento Civil/Art. final CPC.md",
     "Untitled 6.canvas",
     "clases/laboral/7. Jornada Laboral 2025.pdf",
     "Untitled 4.canvas",
@@ -230,7 +246,6 @@
     "clases/laboral/Minuta+Derechos+fundamentales.[82] 1.pdf",
     "clases/laboral/Minuta+Derechos+fundamentales.[82].pdf",
     "clases/laboral/AHUMADA+CON+FONASA+PRIMERA.pdf",
-    "instituciones procesales I - Introducción al Derecho Procesal - pptx.pdf",
     "Untitled 5.canvas",
     "clases/laboral/ilovepdf_pages-to-jpg/6. Jornada Laboral 2025_page-0003.jpg",
     "clases/laboral/ilovepdf_pages-to-jpg/6. Jornada Laboral 2025_page-0001.jpg",
@@ -241,7 +256,6 @@
     "clases/laboral/ilovepdf_pages-to-jpg/6. Jornada Laboral 2025_page-0024.jpg",
     "clases/laboral/ilovepdf_pages-to-jpg/6. Jornada Laboral 2025_page-0023.jpg",
     "clases/laboral/ilovepdf_pages-to-jpg/6. Jornada Laboral 2025_page-0022.jpg",
-    "clases/laboral/ilovepdf_pages-to-jpg",
     "Untitled 3.canvas",
     "Untitled 2.canvas",
     "Untitled 1.canvas",

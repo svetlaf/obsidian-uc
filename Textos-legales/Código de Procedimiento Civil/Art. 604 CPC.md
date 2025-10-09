@@ -1,5 +1,5 @@
-El procedimiento establecido en este párrafo se observará también cuando se exija la restitución de la cosa arrendada por la expiración del tiempo estipulado para la duración del arrendamiento, o por la extinción del derecho del arrendador.
+El procedimiento establecido en este párrafo se observará también cuando se exija la restitución de la cosa arrendada por la expiración del tiempo estipulado para la duración del arrendamiento, o por la extinción del derecho del arrendador. [[Art. 604 inc. 1 CPC| ]]
 
-El plazo para oponerse a la restitución o para hacer valer el derecho de retención por indemnizaciones debidas, correrá desde que el que pide la terminación del arrendamiento haga saber a la otra parte su intención de exigirla.
+El plazo para oponerse a la restitución o para hacer valer el derecho de retención por indemnizaciones debidas, correrá desde que el que pide la terminación del arrendamiento haga saber a la otra parte su intención de exigirla. [[Art. 604 inc. 2 CPC| ]]
 
-Cuando se trate de bienes inmuebles, la misma sentencia que deseche la reclamación, ordenará además el lanzamiento, si está vencido el plazo del contrato; salvo que existan retenciones decretadas a favor del arrendatario por no haberse otorgado las cauciones a que se refiere el artículo 600.■
+Cuando se trate de bienes inmuebles, la misma sentencia que deseche la reclamación, ordenará además el lanzamiento, si está vencido el plazo del contrato; salvo que existan retenciones decretadas a favor del arrendatario por no haberse otorgado las cauciones a que se refiere el artículo 600. [[Art. 604 inc. 3 CPC| ]]

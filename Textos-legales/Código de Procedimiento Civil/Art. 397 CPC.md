@@ -1,3 +1,3 @@
-El procurador es obligado a hacer comparecer a su mandante para absolver posiciones en el término razonable que el tribunal designe y bajo el apercibimiento indicado en el artículo 394.
+El procurador es obligado a hacer comparecer a su mandante para absolver posiciones en el término razonable que el tribunal designe y bajo el apercibimiento indicado en el artículo 394. [[Art. 397 inc. 1 CPC| ]]
 
-La comparecencia se verificará ante el tribunal de la causa si la parte se encuentra en el lugar del juicio; en el caso contrario, ante el juez competente del territorio jurisdiccional en que resida o ante el respectivo agente diplomático o consular chileno, si ha salido del territorio de la República.
+La comparecencia se verificará ante el tribunal de la causa si la parte se encuentra en el lugar del juicio; en el caso contrario, ante el juez competente del territorio jurisdiccional en que resida o ante el respectivo agente diplomático o consular chileno, si ha salido del territorio de la República. [[Art. 397 inc. 2 CPC| ]]

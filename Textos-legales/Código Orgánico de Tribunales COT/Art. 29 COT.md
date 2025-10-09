@@ -1,5 +1,5 @@
 En la Segunda Región, de Antofagasta, existirán los siguientes juzgados de letras:
 
-A.- JUZGADOS CIVILES: Cuatro juzgados de letras en lo civil en la comuna de Antofagasta, con competencia sobre las comunas de Antofagasta y Sierra Gorda.
+A.- JUZGADOS CIVILES: Cuatro juzgados de letras en lo civil en la comuna de Antofagasta, con competencia sobre las comunas de Antofagasta y Sierra Gorda. [[Art. 29 A. COT| ]]
 
-B.- JUZGADOS DE COMPETENCIA COMUN: Un juzgado con asiento en la comuna de Tocopilla, con dos jueces, con competencia sobre la misma comuna; Un juzgado con asiento en la comuna de María Elena, con competencia sobre la misma comuna. Un juzgado con asiento en la comuna de Mejillones, con dos jueces, con competencia sobre la misma comuna; Tres juzgados con asiento en la comuna de Calama, con competencia sobre las comunas de la provincia de El Loa, y Un juzgado con asiento en la comuna de Taltal, con dos jueces, con competencia sobre la misma comuna.
+B.- JUZGADOS DE COMPETENCIA COMUN: Un juzgado con asiento en la comuna de Tocopilla, con dos jueces, con competencia sobre la misma comuna; Un juzgado con asiento en la comuna de María Elena, con competencia sobre la misma comuna. Un juzgado con asiento en la comuna de Mejillones, con dos jueces, con competencia sobre la misma comuna; Tres juzgados con asiento en la comuna de Calama, con competencia sobre las comunas de la provincia de El Loa, y Un juzgado con asiento en la comuna de Taltal, con dos jueces, con competencia sobre la misma comuna. [[Art. 29 B. COT| ]]

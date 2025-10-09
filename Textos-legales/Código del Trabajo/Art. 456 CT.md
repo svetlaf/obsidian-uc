@@ -1,3 +1,3 @@
-El tribunal apreciará la prueba conforme a las reglas de la sana crítica.
+El tribunal apreciará la prueba conforme a las reglas de la sana crítica. [[Art. 456 inc. 1 CT| ]]
 
-Al hacerlo, el tribunal deberá expresar las razones jurídicas y las simplemente lógicas, científicas, técnicas o de experiencia, en cuya virtud les asigne valor o las desestime. En general, tomará en especial consideración la multiplicidad, gravedad, precisión, concordancia y conexión de las pruebas o antecedentes del proceso que utilice, de manera que el examen conduzca lógicamente a la conclusión que convence al sentenciador.
+Al hacerlo, el tribunal deberá expresar las razones jurídicas y las simplemente lógicas, científicas, técnicas o de experiencia, en cuya virtud les asigne valor o las desestime. En general, tomará en especial consideración la multiplicidad, gravedad, precisión, concordancia y conexión de las pruebas o antecedentes del proceso que utilice, de manera que el examen conduzca lógicamente a la conclusión que convence al sentenciador. [[Art. 456 inc. 2 CT| ]]

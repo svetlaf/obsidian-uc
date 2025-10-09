@@ -1,5 +1,5 @@
-Las entidades deportivas estarán obligadas a confeccionar un reglamento interno de orden, higiene y seguridad que contenga las obligaciones y prohibiciones a que deben sujetarse los y las deportistas profesionales y los trabajadores y trabajadoras que desempeñan actividades conexas, en los términos establecidos en el Título III, del Libro I.
+Las entidades deportivas estarán obligadas a confeccionar un reglamento interno de orden, higiene y seguridad que contenga las obligaciones y prohibiciones a que deben sujetarse los y las deportistas profesionales y los trabajadores y trabajadoras que desempeñan actividades conexas, en los términos establecidos en el Título III, del Libro I. [[Art. 152 bis K. inc. 1 CT| ]]
 
-En ningún caso podrán imponerse sanciones por situaciones o conductas extradeportivas. Tampoco podrán imponerse sanciones que consistan en la reducción de las vacaciones o cualquier descanso, así como la exclusión de los entrenamientos con el plantel profesional.
+En ningún caso podrán imponerse sanciones por situaciones o conductas extradeportivas. Tampoco podrán imponerse sanciones que consistan en la reducción de las vacaciones o cualquier descanso, así como la exclusión de los entrenamientos con el plantel profesional. [[Art. 152 bis K. inc. 2 CT| ]]
 
-Los y las deportistas profesionales y trabajadores y trabajadoras que desempeñan actividades conexas tendrán derecho a manifestar libremente sus opiniones sobre temas relacionados con su profesión.
+Los y las deportistas profesionales y trabajadores y trabajadoras que desempeñan actividades conexas tendrán derecho a manifestar libremente sus opiniones sobre temas relacionados con su profesión. [[Art. 152 bis K. inc. 3 CT| ]]

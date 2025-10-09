@@ -1,3 +1,3 @@
-La Corte Suprema hará en el Escalafón las modificaciones que sean necesarias en virtud de las reclamaciones, vacancias y nombramientos que se produzcan en el curso del año. Estas modificaciones deberán comunicarse a las Cortes de Apelaciones y a los funcionarios que, en razón de sus cargos, deban formar ternas judiciales.
+La Corte Suprema hará en el Escalafón las modificaciones que sean necesarias en virtud de las reclamaciones, vacancias y nombramientos que se produzcan en el curso del año. Estas modificaciones deberán comunicarse a las Cortes de Apelaciones y a los funcionarios que, en razón de sus cargos, deban formar ternas judiciales. [[Art. 272 inc. 1 COT| ]]
 
-Las reformas que incidan en las reclamaciones se comunicarán también al Ministerio de Justicia.
+Las reformas que incidan en las reclamaciones se comunicarán también al Ministerio de Justicia. [[Art. 272 inc. 2 COT| ]]

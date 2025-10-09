@@ -1,3 +1,3 @@
-Presentado el recurso, el tribunal ordenará que se traigan a la vista todos los antecedentes del juicio en que recayó la sentencia impugnada y citará a las partes a quienes afecte dicha sentencia para que comparezcan en el término de emplazamiento a hacer valer su derecho.
+Presentado el recurso, el tribunal ordenará que se traigan a la vista todos los antecedentes del juicio en que recayó la sentencia impugnada y citará a las partes a quienes afecte dicha sentencia para que comparezcan en el término de emplazamiento a hacer valer su derecho. [[Art. 813 inc. 1 CPC| ]]
 
-Los trámites posteriores al vencimiento de este término se seguirán conforme a lo establecido para la substanciación de los incidentes, oyéndose al fiscal judicial antes de la vista de la causa.
+Los trámites posteriores al vencimiento de este término se seguirán conforme a lo establecido para la substanciación de los incidentes, oyéndose al fiscal judicial antes de la vista de la causa. [[Art. 813 inc. 2 CPC| ]]

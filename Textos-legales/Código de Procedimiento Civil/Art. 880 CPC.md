@@ -1,3 +1,3 @@
-Los herederos que no estén obligados a practicar inventario solemne o no lo exijan al tiempo de pedir la posesión efectiva, deberán presentar inventario simple en los términos de los artículos 382 y 384 del Código Civil. Dicho inventario, que se acompañará a la solicitud de posesión efectiva, llevará la firma de todos los que la hayan pedido.
+Los herederos que no estén obligados a practicar inventario solemne o no lo exijan al tiempo de pedir la posesión efectiva, deberán presentar inventario simple en los términos de los artículos 382 y 384 del Código Civil. Dicho inventario, que se acompañará a la solicitud de posesión efectiva, llevará la firma de todos los que la hayan pedido. [[Art. 880 inc. 1 CPC| ]]
 
-En todo caso, los inventarios deberán incluir una valoración de los bienes de acuerdo a lo previsto en el artículo 46 de la ley Nº16.271.
+En todo caso, los inventarios deberán incluir una valoración de los bienes de acuerdo a lo previsto en el artículo 46 de la ley Nº16.271. [[Art. 880 inc. 2 CPC| ]]

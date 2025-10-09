@@ -1,3 +1,3 @@
-El contrato de trabajo de los o las deportistas profesionales y trabajadores o trabajadoras que desempeñen actividades conexas se celebrará por tiempo determinado. La duración del primer contrato de trabajo que se celebre con una entidad deportiva no podrá ser inferior a una temporada, o lo que reste de ésta, si se ha iniciado, ni superior a cinco años.
+El contrato de trabajo de los o las deportistas profesionales y trabajadores o trabajadoras que desempeñen actividades conexas se celebrará por tiempo determinado. La duración del primer contrato de trabajo que se celebre con una entidad deportiva no podrá ser inferior a una temporada, o lo que reste de ésta, si se ha iniciado, ni superior a cinco años. [[Art. 152 bis D. inc. 1 CT| ]]
 
-La renovación de dicho contrato deberá contar con el acuerdo expreso y por escrito del trabajador o trabajadora, en cada oportunidad, y tendrá una duración mínima de seis meses.
+La renovación de dicho contrato deberá contar con el acuerdo expreso y por escrito del trabajador o trabajadora, en cada oportunidad, y tendrá una duración mínima de seis meses. [[Art. 152 bis D. inc. 2 CT| ]]

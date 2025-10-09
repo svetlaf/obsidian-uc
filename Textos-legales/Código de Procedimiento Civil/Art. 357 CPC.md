@@ -1,19 +1,19 @@
 No son hábiles para declarar como testigos:
 
-1° . Los menores de catorce años. Podrán, sin embargo, aceptarse las declaraciones sin previo juramento y estimarse como base para una presunción judicial, cuando tengan discernimiento suficiente;
+1° . Los menores de catorce años. Podrán, sin embargo, aceptarse las declaraciones sin previo juramento y estimarse como base para una presunción judicial, cuando tengan discernimiento suficiente; [[Art. 357 n°1 CPC| ]]
 
-2° . Los que se hallen en interdicción por causa de demencia;
+2° . Los que se hallen en interdicción por causa de demencia; [[Art. 357 n°2 CPC| ]]
 
-3° . Los que al tiempo de declarar, o al de verificarse los hechos sobre que declaran, se hallen privados de la razón, por ebriedad u otra causa;
+3° . Los que al tiempo de declarar, o al de verificarse los hechos sobre que declaran, se hallen privados de la razón, por ebriedad u otra causa; [[Art. 357 n°3 CPC| ]]
 
-4° . Los que carezcan del sentido necesario para percibir los hechos declarados al tiempo de verificarse éstos;
+4° . Los que carezcan del sentido necesario para percibir los hechos declarados al tiempo de verificarse éstos; [[Art. 357 n°4 CPC| ]]
 
-5° . Los sordos o sordomudos que no puedan darse a entender claramente;
+5° . Los sordos o sordomudos que no puedan darse a entender claramente; [[Art. 357 n°5 CPC| ]]
 
-6° . Los que en el mismo juicio hayan sido cohechados, o hayan cohechado o intentado cohechar a otros, aun cuando no se les haya procesado criminalmente;
+6° . Los que en el mismo juicio hayan sido cohechados, o hayan cohechado o intentado cohechar a otros, aun cuando no se les haya procesado criminalmente; [[Art. 357 n°6 CPC| ]]
 
-7° . Los vagos sin ocupación u oficio conocido;
+7° . Los vagos sin ocupación u oficio conocido; [[Art. 357 n°7 CPC| ]]
 
-8° . Los que en concepto del tribunal sean indignos de fe por haber sido condenados por delito; y
+8° . Los que en concepto del tribunal sean indignos de fe por haber sido condenados por delito; y [[Art. 357 n°8 CPC| ]]
 
-9° . Los que hagan profesión de testificar en juicio.
+9° . Los que hagan profesión de testificar en juicio. [[Art. 357 n°9 CPC| ]]

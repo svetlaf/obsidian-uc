@@ -1,1 +1,1 @@
-Si dependieren de diversos superiores, iguales en jerarquía, resolverá la contienda el que sea superior del tribunal que hubiere prevenido en el conocimiento del asunto.
+**Si dependieren de diversos superiores, iguales en jerarquía, resolverá la contienda el que sea superior del tribunal que hubiere prevenido en el conocimiento del asunto.**

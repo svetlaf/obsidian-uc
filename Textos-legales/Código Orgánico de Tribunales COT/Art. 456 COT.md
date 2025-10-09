@@ -1,3 +1,3 @@
-Las funciones de los archiveros, en cuanto ministros de fe, se limitan a dar conforme a derecho, los testimonios y certificados que se les pidan; y a poner, a petición de parte, las respectivas notas marginales en las escrituras públicas.
+Las funciones de los archiveros, en cuanto ministros de fe, se limitan a dar conforme a derecho, los testimonios y certificados que se les pidan; y a poner, a petición de parte, las respectivas notas marginales en las escrituras públicas. [[Art. 456 inc. 1 COT| ]]
 
-Los archiveros judiciales podrán dar copia autorizada de las escrituras contenidas en los protocolos de su archivo, en todos aquellos casos en que el notario que haya intervenido en su otorgamiento habría podido darlas.
+Los archiveros judiciales podrán dar copia autorizada de las escrituras contenidas en los protocolos de su archivo, en todos aquellos casos en que el notario que haya intervenido en su otorgamiento habría podido darlas. [[Art. 456 inc. 2 COT| ]]

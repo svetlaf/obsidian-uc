@@ -1,3 +1,3 @@
-Los conservadores de bienes raíces deberán inscribir los títulos en los registros de propiedad, de hipotecas y gravámenes y de interdicciones y prohibiciones de enajenar, así como las anotaciones marginales, dentro del plazo máximo de veinte días desde la presentación de los requerimientos.
+Los conservadores de bienes raíces deberán inscribir los títulos en los registros de propiedad, de hipotecas y gravámenes y de interdicciones y prohibiciones de enajenar, así como las anotaciones marginales, dentro del plazo máximo de veinte días desde la presentación de los requerimientos. [[Art. 451 inc. 1 COT| ]]
 
-En caso de reparos a las solicitudes señaladas en el inciso precedente, el plazo para inscribir será de diez días, contado desde el reingreso.
+En caso de reparos a las solicitudes señaladas en el inciso precedente, el plazo para inscribir será de diez días, contado desde el reingreso. [[Art. 451 inc. 2 COT| ]]

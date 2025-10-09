@@ -1,3 +1,3 @@
-Los instrumentos extendidos en lengua extranjera se mandarán traducir por el perito que el tribunal designe, a costa del que los presente, sin perjuicio de lo que se resuelva sobre costas en la sentencia.
+Los instrumentos extendidos en lengua extranjera se mandarán traducir por el perito que el tribunal designe, a costa del que los presente, sin perjuicio de lo que se resuelva sobre costas en la sentencia. [[Art. 347 inc. 1 CPC| ]]
 
-Si al tiempo de acompañarse se agrega su traducción, valdrá ésta; salvo que la parte contraria exija, dentro de seis días, que sea revisada por un perito, procediéndose en tal caso como lo dispone el inciso anterior.
+Si al tiempo de acompañarse se agrega su traducción, valdrá ésta; salvo que la parte contraria exija, dentro de seis días, que sea revisada por un perito, procediéndose en tal caso como lo dispone el inciso anterior. [[Art. 347 inc. 2 CPC| ]]

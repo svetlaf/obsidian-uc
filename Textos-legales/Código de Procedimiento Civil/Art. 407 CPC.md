@@ -1,3 +1,3 @@
-De la diligencia de inspección se levantará acta, en la cual se expresarán las circunstancias o hechos materiales que el tribunal observe, sin que puedan dichas observaciones reputarse como una opinión anticipada sobre los puntos que se debaten.
+De la diligencia de inspección se levantará acta, en la cual se expresarán las circunstancias o hechos materiales que el tribunal observe, sin que puedan dichas observaciones reputarse como una opinión anticipada sobre los puntos que se debaten. [[Art. 407 inc. 1 CPC| ]]
 
-Podrán también las partes pedir, durante la diligencia, que se consignen en el acta las circunstancias o hechos materiales que consideren pertinentes.
+Podrán también las partes pedir, durante la diligencia, que se consignen en el acta las circunstancias o hechos materiales que consideren pertinentes. [[Art. 407 inc. 2 CPC| ]]

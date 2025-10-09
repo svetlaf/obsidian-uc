@@ -1,3 +1,3 @@
-La posesión efectiva de una herencia deberá solicitarse para todos los herederos indicándolos por sus nombres, apellidos, domicilios y calidades con que heredan.
+La posesión efectiva de una herencia deberá solicitarse para todos los herederos indicándolos por sus nombres, apellidos, domicilios y calidades con que heredan. [[Art. 879 inc. 1 CPC| ]]
 
-En la solicitud se expresará, además, el nombre, apellido, profesión u oficio, estado civil, lugar y fecha de la muerte y último domicilio del causante, si la herencia es o no testamentaria, acompañándose en el primer caso copia del testamento.
+En la solicitud se expresará, además, el nombre, apellido, profesión u oficio, estado civil, lugar y fecha de la muerte y último domicilio del causante, si la herencia es o no testamentaria, acompañándose en el primer caso copia del testamento. [[Art. 879 inc. 2 CPC| ]]

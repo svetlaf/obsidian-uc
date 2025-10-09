@@ -1,3 +1,3 @@
-Los jueces están obligados a residir constantemente en la ciudad o población donde tenga asiento el tribunal en que deban prestar sus servicios.
+Los jueces están obligados a residir constantemente en la ciudad o población donde tenga asiento el tribunal en que deban prestar sus servicios. [[Art. 311 inc. 1 COT| ]]
 
-Sin embargo, las Cortes de Apelaciones podrán, en casos calificados, autorizar transitoriamente a los jueces de su territorio jurisdiccional para que residan en un lugar distinto al de asiento del tribunal.
+Sin embargo, las Cortes de Apelaciones podrán, en casos calificados, autorizar transitoriamente a los jueces de su territorio jurisdiccional para que residan en un lugar distinto al de asiento del tribunal. [[Art. 311 inc. 2 COT| ]]

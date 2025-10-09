@@ -1,3 +1,3 @@
-Se extenderán a los partidores las reglas establecidas respecto de los árbitros en el Título precedente, en cuanto no aparezcan modificadas por las del presente Título y sean aplicables a las cuestiones que aquéllos deben resolver. Sin embargo, las partes mayores de edad y libres administradores de sus bienes, podrán darles el carácter de arbitradores.
+Se extenderán a los partidores las reglas establecidas respecto de los árbitros en el Título precedente, en cuanto no aparezcan modificadas por las del presente Título y sean aplicables a las cuestiones que aquéllos deben resolver. Sin embargo, las partes mayores de edad y libres administradores de sus bienes, podrán darles el carácter de arbitradores. [[Art. 648 inc. 1 CPC| ]]
 
-Los actos de los partidores serán en todo caso autorizados por un secretario de los Tribunales Superiores de Justicia, o por un notario o secretario de un juzgado de letras.
+Los actos de los partidores serán en todo caso autorizados por un secretario de los Tribunales Superiores de Justicia, o por un notario o secretario de un juzgado de letras. [[Art. 648 inc. 2 CPC| ]]

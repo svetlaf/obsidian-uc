@@ -1,3 +1,3 @@
-Se entenderá haber jactancia siempre que la manifestación del jactancioso conste por escrito, o se haya hecho de viva voz, a lo menos, delante de dos personas hábiles para dar testimonio en juicio civil.
+Se entenderá haber jactancia siempre que la manifestación del jactancioso conste por escrito, o se haya hecho de viva voz, a lo menos, delante de dos personas hábiles para dar testimonio en juicio civil. [[Art. 270 inc. 1 CPC| ]]
 
-Habrá también lugar a deducir demanda de jactancia contra el que haya gestionado como parte en un proceso criminal de que puedan emanar acciones civiles contra el acusado, para el ejercicio de estas acciones.
+Habrá también lugar a deducir demanda de jactancia contra el que haya gestionado como parte en un proceso criminal de que puedan emanar acciones civiles contra el acusado, para el ejercicio de estas acciones. [[Art. 270 inc. 2 CPC| ]]

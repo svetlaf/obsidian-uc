@@ -1,3 +1,3 @@
-Notificada una sentencia definitiva o interlocutoria a alguna de las partes, no podrá el tribunal que la dictó alterarla o modificarla en manera alguna. Podrá, sin embargo, a solicitud de parte, aclarar los puntos obscuros o dudosos, salvar las omisiones y rectificar los errores de copia, de referencia o de cálculos numéricos que aparezcan de manifiesto en la misma sentencia.
+Notificada una sentencia definitiva o interlocutoria a alguna de las partes, no podrá el tribunal que la dictó alterarla o modificarla en manera alguna. Podrá, sin embargo, a solicitud de parte, aclarar los puntos obscuros o dudosos, salvar las omisiones y rectificar los errores de copia, de referencia o de cálculos numéricos que aparezcan de manifiesto en la misma sentencia. [[Art. 182 inc. 1 CPC| ]]
 
-Lo dispuesto en este artículo no obsta para que el rebelde haga uso del derecho que le confiere el artículo 80.
+Lo dispuesto en este artículo no obsta para que el rebelde haga uso del derecho que le confiere el artículo 80. [[Art. 182 inc. 2 CPC| ]]

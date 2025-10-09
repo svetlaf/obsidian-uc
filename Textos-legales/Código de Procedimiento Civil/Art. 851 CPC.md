@@ -1,3 +1,3 @@
-El nombramiento de curador adjunto se hará como el de curador dativo.
+El nombramiento de curador adjunto se hará como el de curador dativo. [[Art. 851 inc. 1 CPC| ]]
 
-El nombramiento recaerá en la persona designada por el donante o testador, con tal que sea idónea, siempre que haya de nombrarse curador para la administración particular de bienes donados o asignados por testamento con la condición de que no los administre el padre, marido o guardador general del donatario o asignatario.
+El nombramiento recaerá en la persona designada por el donante o testador, con tal que sea idónea, siempre que haya de nombrarse curador para la administración particular de bienes donados o asignados por testamento con la condición de que no los administre el padre, marido o guardador general del donatario o asignatario. [[Art. 851 inc. 2 CPC| ]]

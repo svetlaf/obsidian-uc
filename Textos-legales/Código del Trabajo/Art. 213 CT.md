@@ -1,3 +1,3 @@
-Las organizaciones sindicales tienen el derecho de constituir federaciones, confederaciones y centrales y afiliarse y desafiliarse de ellas.
+Las organizaciones sindicales tienen el derecho de constituir federaciones, confederaciones y centrales y afiliarse y desafiliarse de ellas. [[Art. 213 inc. 1 CT| ]]
 
-Asimismo, todas las organizaciones sindicales indicadas en el inciso precedente, tienen el derecho de constituir organizaciones internacionales de trabajadores, afiliarse y desafiliarse de ellas en la forma que prescriban los respectivos estatutos y las normas, usos y prácticas del derecho internacional.
+Asimismo, todas las organizaciones sindicales indicadas en el inciso precedente, tienen el derecho de constituir organizaciones internacionales de trabajadores, afiliarse y desafiliarse de ellas en la forma que prescriban los respectivos estatutos y las normas, usos y prácticas del derecho internacional. [[Art. 213 inc. 2 CT| ]]

@@ -1,5 +1,5 @@
-Se formará la carpeta electrónica con los escritos, documentos, resoluciones, actas de audiencias y actuaciones de toda especie que se presenten o verifiquen en el juicio. Estos antecedentes serán registrados y conservados íntegramente en orden sucesivo conforme a su fecha de presentación o verificación a través de cualquier medio que garantice la fidelidad, preservación y reproducción de su contenido, lo que se regulará mediante auto acordado de la Corte Suprema.
+Se formará la carpeta electrónica con los escritos, documentos, resoluciones, actas de audiencias y actuaciones de toda especie que se presenten o verifiquen en el juicio. Estos antecedentes serán registrados y conservados íntegramente en orden sucesivo conforme a su fecha de presentación o verificación a través de cualquier medio que garantice la fidelidad, preservación y reproducción de su contenido, lo que se regulará mediante auto acordado de la Corte Suprema. [[Art. 29 inc. 1 CPC| ]]
 
-La carpeta electrónica estará disponible en el portal de internet del Poder Judicial, salvo que la ley establezca lo contrario o habilite al tribunal para restringir su publicidad, o la de alguna parte de ella.
+La carpeta electrónica estará disponible en el portal de internet del Poder Judicial, salvo que la ley establezca lo contrario o habilite al tribunal para restringir su publicidad, o la de alguna parte de ella. [[Art. 29 inc. 2 CPC| ]]
 
-Ninguna pieza de la carpeta electrónica podrá eliminarse sin que previamente lo decrete el tribunal que conoce de la causa.
+Ninguna pieza de la carpeta electrónica podrá eliminarse sin que previamente lo decrete el tribunal que conoce de la causa. [[Art. 29 inc. 3 CPC| ]]

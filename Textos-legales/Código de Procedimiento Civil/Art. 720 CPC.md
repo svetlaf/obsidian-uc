@@ -1,3 +1,3 @@
-Siempre que el tribunal decrete informe de peritos, designará preferentemente para el cargo al empleado público, municipal o de institución semifiscal que estime competente, quien estará obligado a desempeñarlo gratuitamente.
+Siempre que el tribunal decrete informe de peritos, designará preferentemente para el cargo al empleado público, municipal o de institución semifiscal que estime competente, quien estará obligado a desempeñarlo gratuitamente. [[Art. 720 inc. 1 CPC| ]]
 
-Los informes periciales se presentarán por escrito, pero el juez podrá pedir informes verbales que se consignarán en los autos con las firmas de quienes los emitan. De ellos deberá darse cuenta en la audiencia de prueba siempre que sea posible.
+Los informes periciales se presentarán por escrito, pero el juez podrá pedir informes verbales que se consignarán en los autos con las firmas de quienes los emitan. De ellos deberá darse cuenta en la audiencia de prueba siempre que sea posible. [[Art. 720 inc. 2 CPC| ]]

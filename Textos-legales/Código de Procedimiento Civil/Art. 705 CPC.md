@@ -1,3 +1,3 @@
-La demanda y la primera resolución de cualquiera gestión anterior a ésta se notificará personalmente al demandado por medio de un receptor, si lo hay, y no habiéndolo o si está inhabilitado, por medio de un vecino de la confianza del tribunal, que sea mayor de edad y sepa leer y escribir o por un miembro del Cuerpo de Carabineros. Deberá entregarse copia íntegra del acta y del proveído a que se refiere el artículo anterior.
+La demanda y la primera resolución de cualquiera gestión anterior a ésta se notificará personalmente al demandado por medio de un receptor, si lo hay, y no habiéndolo o si está inhabilitado, por medio de un vecino de la confianza del tribunal, que sea mayor de edad y sepa leer y escribir o por un miembro del Cuerpo de Carabineros. Deberá entregarse copia íntegra del acta y del proveído a que se refiere el artículo anterior. [[Art. 705 inc. 1 CPC| ]]
 
-Las mismas personas podrán practicar la notificación establecida en el artículo 44 cuando ella sea procedente.
+Las mismas personas podrán practicar la notificación establecida en el artículo 44 cuando ella sea procedente. [[Art. 705 inc. 2 CPC| ]]

@@ -1,9 +1,9 @@
 En la Sexta Región, del Libertador General Bernardo O'Higgins, existirán los siguientes juzgados de letras que tendrán competencia en los territorios que se indican:
 
-A.- JUZGADOS CIVILES:
+A.- JUZGADOS CIVILES: [[Art. 33 A. COT| ]]
 Dos juzgados de letras en lo civil con asiento en la comuna de Rancagua, con competencia sobre las comunas de Rancagua, Graneros, Mostazal, Codegua, Machalí, Coltauco, Doñihue, Coínco y Olivar.
 
-B.- JUZGADOS CON COMPETENCIA COMUN:
+B.- JUZGADOS CON COMPETENCIA COMUN: [[Art. 33 B. COT| ]]
 Un juzgado con asiento en la comuna de Rengo, con dos jueces, con competencia sobre las comunas de Rengo, Requínoa, Malloa y Quinta de Tilcoco;
 Un juzgado con asiento en la comuna de San Vicente, con dos jueces, con competencia sobre las comunas de San Vicente y Pichidegua;
 Un juzgado con asiento en la comuna de Peumo, con dos jueces, con competencia sobre las comunas de Peumo y Las Cabras;

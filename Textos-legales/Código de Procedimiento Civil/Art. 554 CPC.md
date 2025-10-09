@@ -1,3 +1,3 @@
-Cuando el querellado quiera rendir prueba testimonial, deberá indicar el nombre, profesión u oficio y residencia de los testigos, en una lista que entregará en la secretaría y se agregará al proceso por lo menos antes de las doce del día que preceda al designado para la audiencia.
+Cuando el querellado quiera rendir prueba testimonial, deberá indicar el nombre, profesión u oficio y residencia de los testigos, en una lista que entregará en la secretaría y se agregará al proceso por lo menos antes de las doce del día que preceda al designado para la audiencia. [[Art. 554 inc. 1 CPC| ]]
 
-No se examinarán testigos que no estén mencionados en dichas listas, salvo acuerdo expreso de las partes.
+No se examinarán testigos que no estén mencionados en dichas listas, salvo acuerdo expreso de las partes. [[Art. 554 inc. 2 CPC| ]]

@@ -1,5 +1,5 @@
-En los contratos a tiempo parcial se permitirá el pacto de horas extraordinarias.
+En los contratos a tiempo parcial se permitirá el pacto de horas extraordinarias. [[Art. 40 bis A. inc. 1 CT| ]]
 
-La base de cálculo para el pago de dichas horas extraordinarias, no podrá ser inferior al ingreso mínimo mensual que determina la ley, calculado proporcionalmente a la cantidad de horas pactadas como jornada ordinaria.
+La base de cálculo para el pago de dichas horas extraordinarias, no podrá ser inferior al ingreso mínimo mensual que determina la ley, calculado proporcionalmente a la cantidad de horas pactadas como jornada ordinaria. [[Art. 40 bis A. inc. 2 CT| ]]
 
-La jornada ordinaria diaria deberá ser continua y no podrá exceder de las 10 horas, pudiendo interrumpirse por un lapso no inferior a media hora ni superior a una hora para la colación.
+La jornada ordinaria diaria deberá ser continua y no podrá exceder de las 10 horas, pudiendo interrumpirse por un lapso no inferior a media hora ni superior a una hora para la colación. [[Art. 40 bis A. inc. 3 CT| ]]

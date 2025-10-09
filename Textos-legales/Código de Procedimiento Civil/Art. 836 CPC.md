@@ -1,3 +1,3 @@
-Para obtener la aprobación judicial de la emancipación voluntaria se presentarán al tribunal el padre y el hijo, declarando el primero que quiere emancipar al hijo y el segundo que consiente en ello.
+Para obtener la aprobación judicial de la emancipación voluntaria se presentarán al tribunal el padre y el hijo, declarando el primero que quiere emancipar al hijo y el segundo que consiente en ello. [[Art. 836 inc. 1 CPC| ]]
 
-El tribunal, previo conocimiento de causa en la forma expresada en el inciso 2° del artículo 824, autorizará la emancipación y mandará reducirla a escritura pública, si la encuentra ventajosa para el hijo, o denegará la autorización en caso contrario.
+El tribunal, previo conocimiento de causa en la forma expresada en el inciso 2° del artículo 824, autorizará la emancipación y mandará reducirla a escritura pública, si la encuentra ventajosa para el hijo, o denegará la autorización en caso contrario. [[Art. 836 inc. 2 CPC| ]]

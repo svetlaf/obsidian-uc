@@ -1,3 +1,3 @@
-La ley establecerá fórmulas de coordinación para la administración de todos o algunos de los municipios, con respecto a los problemas que les sean comunes, así como entre los municipios y los demás servicios públicos.
+La ley establecerá fórmulas de coordinación para la administración de todos o algunos de los municipios, con respecto a los problemas que les sean comunes, así como entre los municipios y los demás servicios públicos. [[Art. 123 inc. 1 CPR| ]]
 
-Sin perjuicio de lo dispuesto en el inciso anterior, la ley orgánica constitucional respectiva regulará la administración de las áreas metropolitanas, y establecerá las condiciones y formalidades que permitan conferir dicha calidad a determinados territorios
+Sin perjuicio de lo dispuesto en el inciso anterior, la ley orgánica constitucional respectiva regulará la administración de las áreas metropolitanas, y establecerá las condiciones y formalidades que permitan conferir dicha calidad a determinados territorios [[Art. 123 inc. 2 CPR| ]]

@@ -1,3 +1,3 @@
-Los instrumentos podrán presentarse en cualquier estado del juicio hasta el vencimiento del término probatorio en primera instancia, y hasta la vista de la causa en segunda instancia.
+Los instrumentos podrán presentarse en cualquier estado del juicio hasta el vencimiento del término probatorio en primera instancia, y hasta la vista de la causa en segunda instancia. [[Art. 348 inc. 1 CPC| ]]
 
-La agregación de los que se presenten en segunda instancia, no suspenderá en ningún caso la vista de la causa; pero el tribunal no podrá fallarla, sino después de vencido el término de la citación, cuando haya lugar a ella.
+La agregación de los que se presenten en segunda instancia, no suspenderá en ningún caso la vista de la causa; pero el tribunal no podrá fallarla, sino después de vencido el término de la citación, cuando haya lugar a ella. [[Art. 348 inc. 2 CPC| ]]

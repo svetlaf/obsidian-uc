@@ -1,7 +1,7 @@
-Podrá decretarse, a solicitud de parte, la exhibición de instrumentos que existan en poder de la otra parte o de un tercero, con tal que tengan relación directa con la cuestión debatida y que no revistan el carácter de secretos o confidenciales.
+Podrá decretarse, a solicitud de parte, la exhibición de instrumentos que existan en poder de la otra parte o de un tercero, con tal que tengan relación directa con la cuestión debatida y que no revistan el carácter de secretos o confidenciales. [[Art. 349 inc. 1 CPC| ]]
 
-Los gastos que la exhibición haga necesarios serán de cuenta del que la solicite, sin perjuicio de lo que se resuelva sobre pago de costas.
+Los gastos que la exhibición haga necesarios serán de cuenta del que la solicite, sin perjuicio de lo que se resuelva sobre pago de costas. [[Art. 349 inc. 2 CPC| ]]
 
-Si se rehúsa la exhibición sin justa causa, podrá apremiarse al desobediente en la forma establecida por el artículo 274; y si es la parte misma, incurrirá además en el apercibimiento establecida por el artículo 277.
+Si se rehúsa la exhibición sin justa causa, podrá apremiarse al desobediente en la forma establecida por el artículo 274; y si es la parte misma, incurrirá además en el apercibimiento establecida por el artículo 277. [[Art. 349 inc. 3 CPC| ]]
 
-Cuando la exhibición haya de hacerse por un tercero, podrá éste exigir que en su propia casa u oficina se saque testimonio de los instrumentos por un ministro de fe.
+Cuando la exhibición haya de hacerse por un tercero, podrá éste exigir que en su propia casa u oficina se saque testimonio de los instrumentos por un ministro de fe. [[Art. 349 inc. 4 CPC| ]]

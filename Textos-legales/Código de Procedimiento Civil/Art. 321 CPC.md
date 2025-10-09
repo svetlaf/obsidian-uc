@@ -1,3 +1,3 @@
-No obstante lo dispuesto en el artículo anterior, es admisible la ampliación de la prueba cuando dentro del término probatorio ocurre algún hecho substancialmente relacionado con el asunto que se ventila.
+No obstante lo dispuesto en el artículo anterior, es admisible la ampliación de la prueba cuando dentro del término probatorio ocurre algún hecho substancialmente relacionado con el asunto que se ventila. [[Art. 321 inc. 1 CPC| ]]
 
-Será también admisible la ampliación a hechos verificados y no alegados antes de recibirse a prueba la causa, con tal que jure el que los aduce que sólo entonces han llegado a su conocimiento.
+Será también admisible la ampliación a hechos verificados y no alegados antes de recibirse a prueba la causa, con tal que jure el que los aduce que sólo entonces han llegado a su conocimiento. [[Art. 321 inc. 2 CPC| ]]

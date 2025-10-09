@@ -1,3 +1,3 @@
-No podrá deducirse reconvención sino cuando el tribunal tenga competencia para conocer de ella, estimada como demanda, o cuando sea admisible la prórroga de jurisdicción. Podrá también deducirse aun cuando por su cuantía la reconvención deba ventilarse ante un juez inferior.
+No podrá deducirse reconvención sino cuando el tribunal tenga competencia para conocer de ella, estimada como demanda, o cuando sea admisible la prórroga de jurisdicción. Podrá también deducirse aun cuando por su cuantía la reconvención deba ventilarse ante un juez inferior. [[Art. 315 inc. 1 CPC| ]]
 
-Para estimar la competencia, se considerará el monto de los valores reclamados por vía de reconvención separadamente de los que son materia de la demanda.
+Para estimar la competencia, se considerará el monto de los valores reclamados por vía de reconvención separadamente de los que son materia de la demanda. [[Art. 315 inc. 2 CPC| ]]

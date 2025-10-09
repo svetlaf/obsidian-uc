@@ -1,5 +1,5 @@
-Los árbitros de derecho se someterán, tanto en la tramitación como en el pronunciamiento de la sentencia definitiva, a las reglas que la ley establece para los jueces ordinarios, según la naturaleza de la acción deducida.
+Los árbitros de derecho se someterán, tanto en la tramitación como en el pronunciamiento de la sentencia definitiva, a las reglas que la ley establece para los jueces ordinarios, según la naturaleza de la acción deducida. [[Art. 628 inc. 1 CPC| ]]
 
-Sin embargo, en los casos en que la ley lo permita, podrán concederse al árbitro de derecho las facultades de arbitrador, en cuanto al procedimiento, y limitarse al pronunciamiento de la sentencia definitiva la aplicación estricta de la ley. La tramitación se ajustará en tal caso a las reglas del párrafo siguiente.
+Sin embargo, en los casos en que la ley lo permita, podrán concederse al árbitro de derecho las facultades de arbitrador, en cuanto al procedimiento, y limitarse al pronunciamiento de la sentencia definitiva la aplicación estricta de la ley. La tramitación se ajustará en tal caso a las reglas del párrafo siguiente. [[Art. 628 inc. 2 CPC| ]]
 
-Por motivos de manifiesta conveniencia podrán los tribunales autorizar la concesión al árbitro de derecho de las facultades de que trata el inciso anterior, aun cuando uno o más de los interesados en el juicio sean incapaces.
+Por motivos de manifiesta conveniencia podrán los tribunales autorizar la concesión al árbitro de derecho de las facultades de que trata el inciso anterior, aun cuando uno o más de los interesados en el juicio sean incapaces. [[Art. 628 inc. 3 CPC| ]]

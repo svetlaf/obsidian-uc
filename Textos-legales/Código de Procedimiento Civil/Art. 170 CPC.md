@@ -1,16 +1,16 @@
 Las sentencias definitivas de primera o de única instancia y las de segunda que modifiquen o revoquen en su parte dispositiva las de otros tribunales, contendrán:
 
-1° . La designación precisa de las partes litigantes, su domicilio y profesión u oficio;
+1° . La designación precisa de las partes litigantes, su domicilio y profesión u oficio; [[Art. 170 n°1 CPC| ]]
 
-2° . La enunciación breve de las peticiones o acciones deducidas por el demandante y de sus fundamentos;
+2° . La enunciación breve de las peticiones o acciones deducidas por el demandante y de sus fundamentos; [[Art. 170 n°2 CPC| ]]
 
-3° . Igual enunciación de las excepciones o defensas alegadas por el demandado;
+3° . Igual enunciación de las excepciones o defensas alegadas por el demandado; [[Art. 170 n°3 CPC| ]]
 
-4° . Las consideraciones de hecho o de derecho que sirven de fundamento a la sentencia;
+4° . Las consideraciones de hecho o de derecho que sirven de fundamento a la sentencia; [[Art. 170 n°4 CPC| ]]
 
-5° . La enunciación de las leyes, y en su defecto de los principios de equidad, con arreglo a los cuales se pronuncia el fallo; y
+5° . La enunciación de las leyes, y en su defecto de los principios de equidad, con arreglo a los cuales se pronuncia el fallo; y [[Art. 170 n°5 CPC| ]]
 
-6° . La decisión del asunto controvertido. Esta decisión deberá comprender todas las acciones y excepciones que se hayan hecho valer en el juicio; pero podrá omitirse la resolución de aquellas que sean incompatibles con las aceptadas.
+6° . La decisión del asunto controvertido. Esta decisión deberá comprender todas las acciones y excepciones que se hayan hecho valer en el juicio; pero podrá omitirse la resolución de aquellas que sean incompatibles con las aceptadas. [[Art. 170 n°6 CPC| ]]
 
 En igual forma deberán dictarse las sentencias definitivas de segunda instancia que confirmen sin modificación las de primera cuando éstas no reúnen todos o algunos de los requisitos indicados en la enunciación precedente.
 

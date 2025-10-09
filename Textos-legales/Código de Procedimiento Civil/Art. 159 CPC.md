@@ -1,16 +1,16 @@
 Los tribunales, sólo dentro del plazo para dictar sentencia, podrán dictar de oficio medidas para mejor resolver. Las que se dicten fuera de este plazo se tendrán por no decretadas. Sin perjuicio de lo establecido en el inciso primero del artículo 431, podrán dictar alguna o algunas de las siguientes medidas:
 
-1a. La agregación de cualquier documento que estimen necesario para esclarecer el derecho de los litigantes;
+1a. La agregación de cualquier documento que estimen necesario para esclarecer el derecho de los litigantes; [[Art. 159 n°1 CPC| ]]
 
-2a. La confesión judicial de cualquiera de las partes sobre hechos que consideren de influencia en la cuestión y que no resulten probados;
+2a. La confesión judicial de cualquiera de las partes sobre hechos que consideren de influencia en la cuestión y que no resulten probados; [[Art. 159 n°2 CPC| ]]
 
-3a. La inspección personal del objeto de la cuestión;
+3a. La inspección personal del objeto de la cuestión; [[Art. 159 n°3 CPC| ]]
 
-4a. El informe de peritos;
+4a. El informe de peritos; [[Art. 159 n°4 CPC| ]]
 
-5a. La comparecencia de testigos que hayan declarado en el juicio, para que aclaren o expliquen sus dichos obscuros o contradictorios; y
+5a. La comparecencia de testigos que hayan declarado en el juicio, para que aclaren o expliquen sus dichos obscuros o contradictorios; y [[Art. 159 n°5 CPC| ]]
 
-6a. La presentación de cualesquiera otros autos que tengan relación con el pleito. Esta medida se cumplirá de conformidad a lo establecido en el inciso 3° del artículo 37.
+6a. La presentación de cualesquiera otros autos que tengan relación con el pleito. Esta medida se cumplirá de conformidad a lo establecido en el inciso 3° del artículo 37. [[Art. 159 n°6 CPC| ]]
 
 En este último caso y siempre que se hubiese remitido el expediente original, éste quedará en poder del tribunal que decrete esta medida sólo por el tiempo estrictamente necesario para su examen, no pudiendo exceder de ocho días este término si se trata de autos pendientes.
 

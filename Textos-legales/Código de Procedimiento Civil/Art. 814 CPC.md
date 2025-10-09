@@ -1,3 +1,3 @@
-Por la interposición de este recurso no se suspenderá la ejecución de la sentencia impugnada.
+Por la interposición de este recurso no se suspenderá la ejecución de la sentencia impugnada. [[Art. 814 inc. 1 CPC| ]]
 
-Podrá, sin embargo, el tribunal, en vista de las circunstancias, a petición del recurrente, y oído el fiscal judicial, ordenar que se suspenda la ejecución de la sentencia, siempre que aquél dé fianza bastante para satisfacer el valor de lo litigado y los perjuicios que se causen con la inejecución de la sentencia, para el caso de que el recurso sea desestimado.
+Podrá, sin embargo, el tribunal, en vista de las circunstancias, a petición del recurrente, y oído el fiscal judicial, ordenar que se suspenda la ejecución de la sentencia, siempre que aquél dé fianza bastante para satisfacer el valor de lo litigado y los perjuicios que se causen con la inejecución de la sentencia, para el caso de que el recurso sea desestimado. [[Art. 814 inc. 2 CPC| ]]

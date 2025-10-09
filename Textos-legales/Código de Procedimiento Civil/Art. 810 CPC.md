@@ -1,11 +1,11 @@
 La Corte Suprema de Justicia podrá rever una sentencia firme en los casos siguientes:
 
-1° . Si se ha fundado en documentos declarados falsos por sentencia ejecutoria, dictada con posterioridad a la sentencia que se trata de rever;
+1° . Si se ha fundado en documentos declarados falsos por sentencia ejecutoria, dictada con posterioridad a la sentencia que se trata de rever; [[Art. 810 n°1 CPC| ]]
 
-2° . Si pronunciada en virtud de pruebas de testigos, han sido éstos condenados por falso testimonio dado especialmente en las declaraciones que sirvieron de único fundamento a la sentencia;
+2° . Si pronunciada en virtud de pruebas de testigos, han sido éstos condenados por falso testimonio dado especialmente en las declaraciones que sirvieron de único fundamento a la sentencia; [[Art. 810 n°2 CPC| ]]
 
-3° . Si la sentencia firme se ha ganado injustamente en virtud de cohecho, violencia u otra maquinación fraudulenta, cuya existencia haya sido declarada por sentencia de término; y
+3° . Si la sentencia firme se ha ganado injustamente en virtud de cohecho, violencia u otra maquinación fraudulenta, cuya existencia haya sido declarada por sentencia de término; y [[Art. 810 n°3 CPC| ]]
 
-4° . Si se ha pronunciado contra otra pasada en autoridad de cosa juzgada y que no se alegó en el juicio en que la sentencia firme recayó.
+4° . Si se ha pronunciado contra otra pasada en autoridad de cosa juzgada y que no se alegó en el juicio en que la sentencia firme recayó. [[Art. 810 n°4 CPC| ]]
 
 El recurso de revisión no procede respecto de las sentencias pronunciadas por la Corte Suprema, conociendo en los recursos de casación o de revisión.

@@ -1,3 +1,3 @@
-El notario que incurriere en falsedad autentificando una firma en conformidad con el artículo 425, que no corresponda a la persona que haya suscrito el instrumento respectivo, incurrirá en las penas del artículo 193 del Código Penal.
+El notario que incurriere en falsedad autentificando una firma en conformidad con el artículo 425, que no corresponda a la persona que haya suscrito el instrumento respectivo, incurrirá en las penas del artículo 193 del Código Penal. [[Art. 443 inc. 1 COT| ]]
 
-Cuando por negligencia o ignorancia inexcusables autentificare una firma que no corresponda a la persona que aparece suscribiéndola, sufrirá la pena de presidio menor en su grado mínimo o multa de cinco a diez ingresos mínimos mensuales.
+Cuando por negligencia o ignorancia inexcusables autentificare una firma que no corresponda a la persona que aparece suscribiéndola, sufrirá la pena de presidio menor en su grado mínimo o multa de cinco a diez ingresos mínimos mensuales. [[Art. 443 inc. 2 COT| ]]

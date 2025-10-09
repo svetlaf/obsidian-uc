@@ -1,2 +1,1 @@
-Secretaría del cuerpo arbitral.
 La Secretaría del cuerpo arbitral se radicará en la Dirección del Trabajo, la que será responsable de llevar el registro de árbitros.

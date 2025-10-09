@@ -1,3 +1,3 @@
-Relación del convenio colectivo con el contrato individual y registro del instrumento. Las estipulaciones de los convenios colectivos celebrados en virtud de las normas de este Capítulo se tendrán como parte integrante de los contratos individuales de los trabajadores afiliados a la o las organizaciones sindicales que los hubieren negociado, incluidos aquellos que se afilien con posterioridad.
+Relación del convenio colectivo con el contrato individual y registro del instrumento. Las estipulaciones de los convenios colectivos celebrados en virtud de las normas de este Capítulo se tendrán como parte integrante de los contratos individuales de los trabajadores afiliados a la o las organizaciones sindicales que los hubieren negociado, incluidos aquellos que se afilien con posterioridad. [[Art. 371 inc. 1 CT| ]]
 
-Los convenios colectivos deberán ser registrados en la Inspección del Trabajo respectiva, dentro del plazo de cinco días contado desde su suscripción.
+Los convenios colectivos deberán ser registrados en la Inspección del Trabajo respectiva, dentro del plazo de cinco días contado desde su suscripción. [[Art. 371 inc. 2 CT| ]]

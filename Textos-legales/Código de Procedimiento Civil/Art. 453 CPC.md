@@ -1,3 +1,3 @@
-Si el embargo recae sobre bienes raíces o derechos reales constituidos en ellos, no producirá efecto alguno legal respecto de terceros, sino desde la fecha en que se inscriba en el respectivo registro conservatorio en donde estén situados los situados los inmuebles.
+Si el embargo recae sobre bienes raíces o derechos reales constituidos en ellos, no producirá efecto alguno legal respecto de terceros, sino desde la fecha en que se inscriba en el respectivo registro conservatorio en donde estén situados los inmuebles. [[Art. 453 inc. 1 CPC| ]]
 
-El ministro de fe que practique el embargo, requerirá inmediatamente su inscripción y firmará con el conservador respectivo y retirará la diligencia en el plazo de veinticuatro horas.
+El ministro de fe que practique el embargo, requerirá inmediatamente su inscripción y firmará con el conservador respectivo y retirará la diligencia en el plazo de veinticuatro horas. [[Art. 453 inc. 2 CPC| ]]

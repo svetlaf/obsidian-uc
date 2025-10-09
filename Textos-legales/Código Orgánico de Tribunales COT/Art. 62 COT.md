@@ -1,5 +1,5 @@
-Las Cortes de Apelaciones integradas por sus fiscales judiciales o con abogados integrantes, se dividirán en salas de tres miembros para el despacho de las causas, cuando hubiere retardo.
+Las Cortes de Apelaciones integradas por sus fiscales judiciales o con abogados integrantes, se dividirán en salas de tres miembros para el despacho de las causas, cuando hubiere retardo. [[Art. 62 inc. 1 COT| ]]
 
-Se entenderá que hay retardo cuando dividido el total de causas en estado de tabla y de las apelaciones que deban conocerse en cuenta, inclusive las criminales, por el número de salas, el cuociente fuere superior a ciento.
+Se entenderá que hay retardo cuando dividido el total de causas en estado de tabla y de las apelaciones que deban conocerse en cuenta, inclusive las criminales, por el número de salas, el cuociente fuere superior a ciento. [[Art. 62 inc. 2 COT| ]]
 
-Producido este caso y si no bastaren los relatores en propiedad, el tribunal designará por mayoría de votos los relatores interinos que estime conveniente, quienes gozarán durante el tiempo en que sirvieren de igual remuneración que los propietarios.
+Producido este caso y si no bastaren los relatores en propiedad, el tribunal designará por mayoría de votos los relatores interinos que estime conveniente, quienes gozarán durante el tiempo en que sirvieren de igual remuneración que los propietarios. [[Art. 62 inc. 3 COT| ]]

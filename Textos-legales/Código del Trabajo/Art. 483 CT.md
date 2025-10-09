@@ -1,3 +1,3 @@
-Excepcionalmente, contra la resolución que falle el recurso de nulidad, podrá interponerse recurso de unificación de jurisprudencia.
+Excepcionalmente, contra la resolución que falle el recurso de nulidad, podrá interponerse recurso de unificación de jurisprudencia. [[Art. 483 inc. 1 CT| ]]
 
-Procederá el recurso de unificación de jurisprudencia cuando respecto de la materia de derecho objeto del juicio existieren distintas interpretaciones sostenidas en uno o más fallos firmes emanados de Tribunales Superiores de Justicia.
+Procederá el recurso de unificación de jurisprudencia cuando respecto de la materia de derecho objeto del juicio existieren distintas interpretaciones sostenidas en uno o más fallos firmes emanados de Tribunales Superiores de Justicia. [[Art. 483 inc. 2 CT| ]]

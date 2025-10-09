@@ -1,3 +1,3 @@
-El privilegio de pobreza podrá solicitarse en cualquier estado del juicio y aún antes de su iniciación, y deberá siempre pedirse al tribunal a quien corresponda conocer en única o primera instancia del asunto en que haya de tener efecto.
+El privilegio de pobreza podrá solicitarse en cualquier estado del juicio y aún antes de su iniciación, y deberá siempre pedirse al tribunal a quien corresponda conocer en única o primera instancia del asunto en que haya de tener efecto. [[Art. 130 inc. 1 CPC| ]]
 
-Podrá tramitarse en una sola gestión para varias causas determinadas y entre las mismas partes, si el conocimiento de todas corresponde al mismo tribunal en primera instancia.
+Podrá tramitarse en una sola gestión para varias causas determinadas y entre las mismas partes, si el conocimiento de todas corresponde al mismo tribunal en primera instancia. [[Art. 130 inc. 2 CPC| ]]

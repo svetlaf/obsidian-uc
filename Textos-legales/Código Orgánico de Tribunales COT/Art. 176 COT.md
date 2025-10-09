@@ -1,3 +1,3 @@
-En los lugares de asiento de Corte en que hubiere más de un juez de letras en lo civil, deberá presentarse a la Corte toda demanda o gestión judicial que se iniciare y que deba conocer alguno de dichos jueces, a fin de que se designe el juez a quien corresponda su conocimiento.
+En los lugares de asiento de Corte en que hubiere más de un juez de letras en lo civil, deberá presentarse a la Corte toda demanda o gestión judicial que se iniciare y que deba conocer alguno de dichos jueces, a fin de que se designe el juez a quien corresponda su conocimiento. [[Art. 176 inc. 1 COT| ]]
 
-Esta designación se hará electrónicamente por orden del presidente del tribunal, asignando a cada causa un número de orden, según su naturaleza.
+Esta designación se hará electrónicamente por orden del presidente del tribunal, asignando a cada causa un número de orden, según su naturaleza. [[Art. 176 inc. 2 COT| ]]

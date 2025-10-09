@@ -1,3 +1,3 @@
-El acreedor podrá solicitar que se le autorice para llevar a cabo por medio de un tercero, y a expensas del deudor, el hecho debido, si a juicio de aquél es esto posible, siempre que no oponiendo excepciones el deudor se niegue a cumplir el mandamiento ejecutivo; y cuando desobedezca la sentencia que deseche las excepciones opuestas o deje transcurrir el plazo a que se refiere el número 2 del artículo 533, sin dar principio a los trabajos.
+El acreedor podrá solicitar que se le autorice para llevar a cabo por medio de un tercero, y a expensas del deudor, el hecho debido, si a juicio de aquél es esto posible, siempre que no oponiendo excepciones el deudor se niegue a cumplir el mandamiento ejecutivo; y cuando desobedezca la sentencia que deseche las excepciones opuestas o deje transcurrir el plazo a que se refiere el número 2 del artículo 533, sin dar principio a los trabajos. [[Art. 536 inc. 1 CPC| ]]
 
-Igual solicitud podrá hacerse cuando, comenzada la obra, se abandone por el deudor sin causa justificada.
+Igual solicitud podrá hacerse cuando, comenzada la obra, se abandone por el deudor sin causa justificada. [[Art. 536 inc. 2 CPC| ]]

@@ -1,3 +1,3 @@
-Si se trata del derecho a pensiones futuras que no abracen un tiempo determinado, se fijará la cuantía de la materia por la suma a que ascendieren dichas pensiones en un año. Si tienen tiempo determinado, se atenderá al monto de todas ellas.
+Si se trata del derecho a pensiones futuras que no abracen un tiempo determinado, se fijará la cuantía de la materia por la suma a que ascendieren dichas pensiones en un año. Si tienen tiempo determinado, se atenderá al monto de todas ellas. [[Art. 127 inc. 1 COT| ]]
 
-Pero si se tratare del cobro de una cantidad procedente de pensiones periódicas ya devengadas, la determinación se hará por el monto a que todas ellas ascendieren.
+Pero si se tratare del cobro de una cantidad procedente de pensiones periódicas ya devengadas, la determinación se hará por el monto a que todas ellas ascendieren. [[Art. 127 inc. 2 COT| ]]

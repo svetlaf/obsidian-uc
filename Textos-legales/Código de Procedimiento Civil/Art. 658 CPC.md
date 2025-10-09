@@ -1,5 +1,5 @@
-Para proceder a la licitación pública de los bienes comunes bastará su anuncio por medio de avisos en un diario de la comuna o de la capital de la provincia o de la capital de la región, si en aquélla no lo hubiere.
+Para proceder a la licitación pública de los bienes comunes bastará su anuncio por medio de avisos en un diario de la comuna o de la capital de la provincia o de la capital de la región, si en aquélla no lo hubiere. [[Art. 658 inc. 1 CPC| ]]
 
-Cuando entre los interesados haya incapaces, la publicación de avisos se hará por cuatro veces a lo menos, mediando entre la primera publicación y el remate un espacio de tiempo que no baje de quince días. Si por no efectuarse el remate, es necesario hacer nuevas publicaciones, se procederá en conformidad a lo establecido en el artículo 502. Los avisos podrán publicarse también en días inhábiles, los que no se descontarán para el cómputo del plazo señalado en el inciso anterior.
+Cuando entre los interesados haya incapaces, la publicación de avisos se hará por cuatro veces a lo menos, mediando entre la primera publicación y el remate un espacio de tiempo que no baje de quince días. Si por no efectuarse el remate, es necesario hacer nuevas publicaciones, se procederá en conformidad a lo establecido en el artículo 502. Los avisos podrán publicarse también en días inhábiles, los que no se descontarán para el cómputo del plazo señalado en el inciso anterior. [[Art. 658 inc. 2 CPC| ]]
 
-Si los bienes están en otra comuna, el remate se anunciará también en ella, por el mismo tiempo y en la misma forma.
+Si los bienes están en otra comuna, el remate se anunciará también en ella, por el mismo tiempo y en la misma forma. [[Art. 658 inc. 3 CPC| ]]

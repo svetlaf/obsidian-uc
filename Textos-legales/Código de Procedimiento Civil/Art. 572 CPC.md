@@ -1,3 +1,3 @@
-Con el mérito de la diligencia ordenada por el artículo precedente, el tribunal en el acto citará a las partes a oír sentencia, la que deberá dictar de inmediato o en el plazo de los tres días subsiguientes, sea denegando lo pedido por el querellante, sea decretando la demolición, enmienda, afianzamiento o extracción a que haya lugar.
+Con el mérito de la diligencia ordenada por el artículo precedente, el tribunal en el acto citará a las partes a oír sentencia, la que deberá dictar de inmediato o en el plazo de los tres días subsiguientes, sea denegando lo pedido por el querellante, sea decretando la demolición, enmienda, afianzamiento o extracción a que haya lugar. [[Art. 572 inc. 1 CPC| ]]
 
-Cuando la diligencia de reconocimiento no haya sido practicada por el tribunal, podrá éste, como medida para mejor resolver, disponer que se rectifique o amplíe en los puntos que estime necesarios.
+Cuando la diligencia de reconocimiento no haya sido practicada por el tribunal, podrá éste, como medida para mejor resolver, disponer que se rectifique o amplíe en los puntos que estime necesarios. [[Art. 572 inc. 2 CPC| ]]

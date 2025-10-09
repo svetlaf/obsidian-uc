@@ -1,3 +1,3 @@
-No se considerará el fuero de que gocen las partes en los juicios de minas, posesorios, sobre distribución de aguas, particiones, en los que se tramiten breve y sumariamente y en los demás que determinen las leyes.
+No se considerará el fuero de que gocen las partes en los juicios de minas, posesorios, sobre distribución de aguas, particiones, en los que se tramiten breve y sumariamente y en los demás que determinen las leyes. [[Art. 133 inc. 1 COT| ]]
 
-Tampoco se tomará en cuenta el que tengan los acreedores en el procedimiento concursal de liquidación ni el de los interesados en los asuntos no contenciosos.
+Tampoco se tomará en cuenta el que tengan los acreedores en el procedimiento concursal de liquidación ni el de los interesados en los asuntos no contenciosos. [[Art. 133 inc. 2 COT| ]]

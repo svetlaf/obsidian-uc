@@ -1,3 +1,3 @@
-La demanda de jactancia se someterá a los trámites establecidos para el juicio sumario.
+La demanda de jactancia se someterá a los trámites establecidos para el juicio sumario. [[Art. 271 inc. 1 CPC| ]]
 
-Si se da lugar a ella, y vence el plazo concedido al jactancioso para deducir su acción sin que cumpla lo ordenado, deberá la parte interesada solicitar que se declare por el tribunal el apercibimiento a que se refiere el artículo 269. Esta solicitud se tramitará como incidente.
+Si se da lugar a ella, y vence el plazo concedido al jactancioso para deducir su acción sin que cumpla lo ordenado, deberá la parte interesada solicitar que se declare por el tribunal el apercibimiento a que se refiere el artículo 269. Esta solicitud se tramitará como incidente. [[Art. 271 inc. 2 CPC| ]]

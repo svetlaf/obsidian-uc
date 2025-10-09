@@ -1,3 +1,3 @@
-Solamente podrán oponerse tachas a los testigos antes de que presten su declaración. En el caso del inciso final del artículo anterior, podrán también oponerse dentro de los tres días subsiguientes al examen de los testigos.
+Solamente podrán oponerse tachas a los testigos antes de que presten su declaración. En el caso del inciso final del artículo anterior, podrán también oponerse dentro de los tres días subsiguientes al examen de los testigos. [[Art. 373 inc. 1 CPC| ]]
 
-Sólo se admitirán las tachas que se funden en alguna de las inhabilidades mencionadas en los artículos 357 y 358, y con tal que se expresen con la claridad y especificación necesarias para que puedan ser fácilmente comprendidas.
+Sólo se admitirán las tachas que se funden en alguna de las inhabilidades mencionadas en los artículos 357 y 358, y con tal que se expresen con la claridad y especificación necesarias para que puedan ser fácilmente comprendidas. [[Art. 373 inc. 2 CPC| ]]

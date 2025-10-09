@@ -1,3 +1,3 @@
-Lo dispuesto en los artículos anteriores no se aplicará a las boletas de garantía o fianza que emitan las instituciones de crédito para tomar parte en los remates, para responder de medidas precautorias o para otorgar fianzas.
+Lo dispuesto en los artículos anteriores no se aplicará a las boletas de garantía o fianza que emitan las instituciones de crédito para tomar parte en los remates, para responder de medidas precautorias o para otorgar fianzas. [[Art. 518 inc. 1 COT| ]]
 
-Cuando el tribunal deba hacer efectivas estas boletas las depositará en la cuenta del juzgado para efectuar los pagos correspondientes. Si procede su devolución al interesado las entregará directamente a éste mediante el endoso respectivo.
+Cuando el tribunal deba hacer efectivas estas boletas las depositará en la cuenta del juzgado para efectuar los pagos correspondientes. Si procede su devolución al interesado las entregará directamente a éste mediante el endoso respectivo. [[Art. 518 inc. 2 COT| ]]

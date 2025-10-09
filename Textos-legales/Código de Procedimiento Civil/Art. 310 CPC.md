@@ -1,5 +1,5 @@
-No obstante lo dispuesto en el artículo anterior, las excepciones de prescripción, cosa juzgada, transacción y pago efectivo de la deuda, cuando ésta se funde en un antecedente escrito, podrán oponerse en cualquier estado de la causa; pero no se admitirán si no se alegan por escrito antes de la citación para sentencia en primera instancia, o de la vista de la causa en segunda.
+No obstante lo dispuesto en el artículo anterior, las excepciones de prescripción, cosa juzgada, transacción y pago efectivo de la deuda, cuando ésta se funde en un antecedente escrito, podrán oponerse en cualquier estado de la causa; pero no se admitirán si no se alegan por escrito antes de la citación para sentencia en primera instancia, o de la vista de la causa en segunda. [[Art. 310 inc. 1 CPC| ]]
 
-Si se formulan en primera instancia, después de recibida la causa a prueba, se tramitarán como incidentes, que pueden recibirse a prueba, si el tribunal lo estima necesario, y se reservará su resolución para definitiva.
+Si se formulan en primera instancia, después de recibida la causa a prueba, se tramitarán como incidentes, que pueden recibirse a prueba, si el tribunal lo estima necesario, y se reservará su resolución para definitiva. [[Art. 310 inc. 2 CPC| ]]
 
-Si se deducen en segunda, se seguirá igual procedimiento, pero en tal caso el tribunal de alzada se pronunciará sobre ellas en única instancia.
+Si se deducen en segunda, se seguirá igual procedimiento, pero en tal caso el tribunal de alzada se pronunciará sobre ellas en única instancia. [[Art. 310 inc. 3 CPC| ]]

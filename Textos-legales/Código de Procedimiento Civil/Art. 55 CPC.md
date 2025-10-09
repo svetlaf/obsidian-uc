@@ -1,3 +1,5 @@
-Aunque no se haya verificado notificación alguna o se haya efectuado en otra forma que la legal, se tendrá por notificada una resolución desde que la parte a quien afecte haga en el juicio cualquiera gestión que suponga conocimiento de dicha resolución, sin haber antes reclamado la falta o nulidad de la notificación.
+Aunque no se haya verificado notificación alguna o se haya efectuado en otra forma que la legal, se tendrá por notificada una resolución desde que la parte a quien afecte haga en el juicio cualquiera gestión que suponga conocimiento de dicha resolución, sin haber antes reclamado la falta o nulidad de la notificación. [[Art. 55 inc. 1 CPC| ]]
 
-Asimismo, la parte que solicitó la nulidad de una notificación, por el solo ministerio de la ley, se tendrá por notificada de la resolución cuya notificación fue declarada nula, desde que se le notifique la sentencia que declara tal nulidad. En caso que la nulidad de la notificación haya sido declarada por un tribunal superior, esta notificación se tendrá por efectuada al notificársele el "cúmplase" de dicha resolución.
+Asimismo, la parte que solicitó la nulidad de una notificación, por el solo ministerio de la ley, se tendrá por notificada de la resolución cuya notificación fue declarada nula, desde que se le notifique la sentencia que declara tal nulidad. [[Art. 55 inc. 2 CPC| ]]
+
+En caso que la nulidad de la notificación haya sido declarada por un tribunal superior, esta notificación se tendrá por efectuada al notificársele el "cúmplase" de dicha resolución. [[Art. 55 inc. 3 CPC| ]]

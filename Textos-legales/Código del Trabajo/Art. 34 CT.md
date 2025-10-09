@@ -1,3 +1,3 @@
-La jornada de trabajo se dividirá en dos partes, dejándose entre ellas, a lo menos, el tiempo de media hora para la colación. Este período intermedio no se considerará trabajado para computar la duración de la jornada diaria.
+La jornada de trabajo se dividirá en dos partes, dejándose entre ellas, a lo menos, el tiempo de media hora para la colación. Este período intermedio no se considerará trabajado para computar la duración de la jornada diaria. [[Art. 34 inc. 1 CT| ]]
 
-Se exceptúan de lo dispuesto en el inciso anterior los trabajos de proceso continuo. En caso de duda de si una determinada labor está o no sujeta a esta excepción, decidirá la Dirección del Trabajo mediante resolución de la cual podrá reclamarse ante el Juzgado de Letras del Trabajo en los términos previstos en el artículo 31.
+Se exceptúan de lo dispuesto en el inciso anterior los trabajos de proceso continuo. En caso de duda de si una determinada labor está o no sujeta a esta excepción, decidirá la Dirección del Trabajo mediante resolución de la cual podrá reclamarse ante el Juzgado de Letras del Trabajo en los términos previstos en el artículo 31. [[Art. 34 inc. 2 CT| ]]

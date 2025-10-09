@@ -1,3 +1,3 @@
-Ninguna persona, grupo u organización podrá poseer o tener armas u otros elementos similares que señale una ley aprobada con quórum calificado, sin autorización otorgada en conformidad a ésta.
+Ninguna persona, grupo u organización podrá poseer o tener armas u otros elementos similares que señale una ley aprobada con quórum calificado, sin autorización otorgada en conformidad a ésta. [[Art. 103 inc. 1 CPR| ]]
 
-Una ley determinará el Ministerio o los órganos de su dependencia que ejercerán la supervigilancia y el control de las armas. Asimismo, establecerá los órganos públicos encargados de fiscalizar el cumplimiento de las normas relativas a dicho control.
+Una ley determinará el Ministerio o los órganos de su dependencia que ejercerán la supervigilancia y el control de las armas. Asimismo, establecerá los órganos públicos encargados de fiscalizar el cumplimiento de las normas relativas a dicho control. [[Art. 103 inc. 2 CPR| ]]

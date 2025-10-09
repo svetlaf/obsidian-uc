@@ -1,3 +1,3 @@
-En caso de no resultar mayoría en el pronunciamiento de la sentencia definitiva o de otra clase de resoluciones, siempre que ellas no sean apelables, quedará sin efecto el compromiso, si éste es voluntario. Si es forzoso, se procederá a nombrar nuevos árbitros.
+En caso de no resultar mayoría en el pronunciamiento de la sentencia definitiva o de otra clase de resoluciones, siempre que ellas no sean apelables, quedará sin efecto el compromiso, si éste es voluntario. Si es forzoso, se procederá a nombrar nuevos árbitros. [[Art. 631 inc. 1 CPC| ]]
 
-Cuando pueda deducirse el recurso, cada opinión se estimará como resolución distinta, y se elevarán los antecedentes al tribunal de alzada, para que resuelva como sea de derecho sobre el punto que haya motivado el desacuerdo de los árbitros.
+Cuando pueda deducirse el recurso, cada opinión se estimará como resolución distinta, y se elevarán los antecedentes al tribunal de alzada, para que resuelva como sea de derecho sobre el punto que haya motivado el desacuerdo de los árbitros. [[Art. 631 inc. 2 CPC| ]]

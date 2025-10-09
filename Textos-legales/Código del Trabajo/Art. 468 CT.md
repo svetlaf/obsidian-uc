@@ -1,5 +1,5 @@
-En el caso que las partes acordaren una forma de pago del crédito perseguido en la causa, el pacto correspondiente deberá ser ratificado ante el juez de la causa y la o las cuotas acordadas deberán consignar los reajustes e intereses del período. El pacto así ratificado, tendrá mérito ejecutivo para todos los efectos legales.
+En el caso que las partes acordaren una forma de pago del crédito perseguido en la causa, el pacto correspondiente deberá ser ratificado ante el juez de la causa y la o las cuotas acordadas deberán consignar los reajustes e intereses del período. El pacto así ratificado, tendrá mérito ejecutivo para todos los efectos legales. [[Art. 468 inc. 1 CT| ]]
 
-El no pago de una o más cuotas hará inmediatamente exigible el total de la deuda, facultándose al acreedor para que concurra ante el mismo tribunal, dentro del plazo de sesenta días contado desde el incumplimiento, para que se ordene el pago, pudiendo el juez incrementar el saldo de la deuda hasta en un ciento cincuenta por ciento.
+El no pago de una o más cuotas hará inmediatamente exigible el total de la deuda, facultándose al acreedor para que concurra ante el mismo tribunal, dentro del plazo de sesenta días contado desde el incumplimiento, para que se ordene el pago, pudiendo el juez incrementar el saldo de la deuda hasta en un ciento cincuenta por ciento. [[Art. 468 inc. 2 CT| ]]
 
-La resolución que establece el incremento se tramitará incidentalmente. Lo mismo se aplicará al incremento fijado por el juez en conformidad al artículo 169 de este Código.
+La resolución que establece el incremento se tramitará incidentalmente. Lo mismo se aplicará al incremento fijado por el juez en conformidad al artículo 169 de este Código. [[Art. 468 inc. 3 CT| ]]

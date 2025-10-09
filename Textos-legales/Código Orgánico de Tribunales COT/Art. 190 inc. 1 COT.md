@@ -1,1 +1,1 @@
-Las contiendas de competencia serán resueltas por el tribunal que sea superior común de los que estén en conflicto.
+**Las contiendas de competencia serán resueltas por el tribunal que sea superior común de los que estén en conflicto.**

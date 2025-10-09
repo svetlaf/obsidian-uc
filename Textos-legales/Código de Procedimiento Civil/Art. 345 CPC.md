@@ -2,8 +2,8 @@ Los instrumentos públicos otorgados fuera de Chile deberán presentarse debidam
 
 La autenticidad de las firmas y el carácter de estos funcionarios se comprobará en Chile por alguno de los medios siguientes:
 
-1°. El atestado de un agente diplomático o consular chileno, acreditado en el país de donde el instrumento procede, y cuya firma se compruebe con el respectivo certificado del Ministerio de Relaciones Exteriores;
+1°. El atestado de un agente diplomático o consular chileno, acreditado en el país de donde el instrumento procede, y cuya firma se compruebe con el respectivo certificado del Ministerio de Relaciones Exteriores; [[Art. 345 n°1 CPC| ]]
 
-2°. El atestado de un agente diplomático o consular de una nación amiga acreditado en el mismo país, a falta de funcionario chileno, certificándose en este caso la firma por conducto del Ministerio de Relaciones Exteriores del país a que pertenezca el agente o del Ministro Diplomático de dicho país en Chile, y además por el Ministerio de Relaciones Exteriores de la República en ambos casos; y
+2°. El atestado de un agente diplomático o consular de una nación amiga acreditado en el mismo país, a falta de funcionario chileno, certificándose en este caso la firma por conducto del Ministerio de Relaciones Exteriores del país a que pertenezca el agente o del Ministro Diplomático de dicho país en Chile, y además por el Ministerio de Relaciones Exteriores de la República en ambos casos; y [[Art. 345 n°2 CPC| ]]
 
-3°. El atestado del agente diplomático acreditado en Chile por el Gobierno del país en donde se otorgó el instrumento, certificándose su firma por el Ministerio de Relaciones Exteriores de la República.
+3°. El atestado del agente diplomático acreditado en Chile por el Gobierno del país en donde se otorgó el instrumento, certificándose su firma por el Ministerio de Relaciones Exteriores de la República. [[Art. 345 n°3 CPC| ]]

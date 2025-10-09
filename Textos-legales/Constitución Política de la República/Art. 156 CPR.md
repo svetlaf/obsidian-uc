@@ -1,11 +1,11 @@
-Se podrá reclamar de una infracción a las reglas de procedimiento aplicables al Consejo Constitucional y a la Comisión Experta, establecidas en la Constitución y en los reglamentos y los acuerdos de carácter general de dichos órganos.
+Se podrá reclamar de una infracción a las reglas de procedimiento aplicables al Consejo Constitucional y a la Comisión Experta, establecidas en la Constitución y en los reglamentos y los acuerdos de carácter general de dichos órganos. [[Art. 156 inc. 1 CPR| ]]
 
-Conocerán de esta reclamación cinco ministros de la Corte Suprema, elegidos por sorteo por la misma Corte para cada cuestión planteada.
+Conocerán de esta reclamación cinco ministros de la Corte Suprema, elegidos por sorteo por la misma Corte para cada cuestión planteada. [[Art. 156 inc. 2 CPR| ]]
 
-La reclamación deberá ser suscrita por al menos un quinto de los miembros en ejercicio del Consejo Constitucional o dos quintos de los miembros de la Comisión Experta, y se interpondrá ante la Corte Suprema, dentro del plazo de cinco días desde que se tomó conocimiento del vicio alegado.
+La reclamación deberá ser suscrita por al menos un quinto de los miembros en ejercicio del Consejo Constitucional o dos quintos de los miembros de la Comisión Experta, y se interpondrá ante la Corte Suprema, dentro del plazo de cinco días desde que se tomó conocimiento del vicio alegado. [[Art. 156 inc. 3 CPR| ]]
 
-La reclamación deberá indicar el vicio que se reclama, el que deberá ser esencial, y el perjuicio que causa.
+La reclamación deberá indicar el vicio que se reclama, el que deberá ser esencial, y el perjuicio que causa. [[Art. 156 inc. 4 CPR| ]]
 
-El procedimiento para el conocimiento y resolución de las reclamaciones será establecido en un auto acordado que adoptará la Corte Suprema, el que no podrá ser objeto del control establecido en artículo 93, número 2, de la Constitución.
+El procedimiento para el conocimiento y resolución de las reclamaciones será establecido en un auto acordado que adoptará la Corte Suprema, el que no podrá ser objeto del control establecido en artículo 93, número 2, de la Constitución. [[Art. 156 inc. 5 CPR| ]]
 
-La sentencia que acoja la reclamación sólo podrá anular el acto. Dicha sentencia deberá dictarse dentro de los diez días siguientes a la presentación del reclamo. Contra las resoluciones de que trata este artículo no se admitirá acción ni recurso alguno.
+La sentencia que acoja la reclamación sólo podrá anular el acto. Dicha sentencia deberá dictarse dentro de los diez días siguientes a la presentación del reclamo. Contra las resoluciones de que trata este artículo no se admitirá acción ni recurso alguno. [[Art. 156 inc. 6 CPR| ]]

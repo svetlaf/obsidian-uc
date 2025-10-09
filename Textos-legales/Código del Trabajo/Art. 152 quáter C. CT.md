@@ -1,5 +1,5 @@
-Los trabajadores de un centro de contacto o llamadas que estén sujetos a conexión continua tendrán derecho a una interrupción de diez segundos entre cada atención. Asimismo, tendrán derecho a descansos en la jornada de trabajo por un total de treinta minutos durante el día, los que serán planificados en acuerdo con el empleador. Estos descansos no podrán acordarse en fracciones inferiores a diez minutos ni por la totalidad de su duración.
+Los trabajadores de un centro de contacto o llamadas que estén sujetos a conexión continua tendrán derecho a una interrupción de diez segundos entre cada atención. Asimismo, tendrán derecho a descansos en la jornada de trabajo por un total de treinta minutos durante el día, los que serán planificados en acuerdo con el empleador. Estos descansos no podrán acordarse en fracciones inferiores a diez minutos ni por la totalidad de su duración. [[Art. 152 quáter C. inc. 1 CT| ]]
 
-Las interrupciones y descansos señalados en el inciso anterior, así como aquellos destinados para que los trabajadores acudan a los servicios higiénicos, no podrán significar en ningún caso un menoscabo a sus remuneraciones y se considerarán trabajados para todos los efectos legales.
+Las interrupciones y descansos señalados en el inciso anterior, así como aquellos destinados para que los trabajadores acudan a los servicios higiénicos, no podrán significar en ningún caso un menoscabo a sus remuneraciones y se considerarán trabajados para todos los efectos legales. [[Art. 152 quáter C. inc. 2 CT| ]]
 
-Lo anterior, sin perjuicio del derecho a colación consagrado en el artículo 34.
+Lo anterior, sin perjuicio del derecho a colación consagrado en el artículo 34. [[Art. 152 quáter C. inc. 3 CT| ]]

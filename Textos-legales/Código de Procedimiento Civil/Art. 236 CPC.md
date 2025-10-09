@@ -1,3 +1,3 @@
-Si la sentencia ordena el pago de prestaciones periódicas y el deudor retarda el pago de dos o más, podrá el juez compelerlo a prestar seguridades para el pago, tal como la de convertir las prestaciones en los intereses de un capital que se consigna al efecto, en un banco, Caja de Ahorros y otros establecimientos análogos. Este capital se restituirá al deudor tan pronto como cese la obligación.
+Si la sentencia ordena el pago de prestaciones periódicas y el deudor retarda el pago de dos o más, podrá el juez compelerlo a prestar seguridades para el pago, tal como la de convertir las prestaciones en los intereses de un capital que se consigna al efecto, en un banco, Caja de Ahorros y otros establecimientos análogos. Este capital se restituirá al deudor tan pronto como cese la obligación. [[Art. 236 inc. 1 CPC| ]]
 
-Esta petición se tramitará en forma incidental.
+Esta petición se tramitará en forma incidental. [[Art. 236 inc. 2 CPC| ]]

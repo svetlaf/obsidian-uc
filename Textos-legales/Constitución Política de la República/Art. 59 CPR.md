@@ -1,3 +1,3 @@
-Ningún diputado o senador, desde el momento de su proclamación por el Tribunal Calificador de Elecciones puede ser nombrado para un empleo, función o comisión de los referidos en el artículo anterior.
+Ningún diputado o senador, desde el momento de su proclamación por el Tribunal Calificador de Elecciones puede ser nombrado para un empleo, función o comisión de los referidos en el artículo anterior. [[Art. 59 inc. 1 CPR| ]]
 
-Esta disposición no rige en caso de guerra exterior; ni se aplica a los cargos de Presidente de la República, Ministro de Estado y agente diplomático; pero sólo los cargos conferidos en estado de guerra son compatibles con las funciones de diputado o senador.
+Esta disposición no rige en caso de guerra exterior; ni se aplica a los cargos de Presidente de la República, Ministro de Estado y agente diplomático; pero sólo los cargos conferidos en estado de guerra son compatibles con las funciones de diputado o senador. [[Art. 59 inc. 2 CPR| ]]

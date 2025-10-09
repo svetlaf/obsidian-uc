@@ -1,3 +1,3 @@
-Cuando la cosa embargada se halle en poder de un tercero que se oponga a la entrega alegando el derecho de gozarla a otro título que el de dueño, no se hará alteración en este goce hasta el momento de la enajenación, ejerciendo mientras tanto el depositario sobre la cosa los mismos derechos que ejercía el deudor.
+Cuando la cosa embargada se halle en poder de un tercero que se oponga a la entrega alegando el derecho de gozarla a otro título que el de dueño, no se hará alteración en este goce hasta el momento de la enajenación, ejerciendo mientras tanto el depositario sobre la cosa los mismos derechos que ejercía el deudor. [[Art. 454 inc. 1 CPC| ]]
 
-Lo cual se entiende sin perjuicio del derecho que corresponda al tenedor de la cosa embargada para seguir gozándola aún después de su enajenación.
+Lo cual se entiende sin perjuicio del derecho que corresponda al tenedor de la cosa embargada para seguir gozándola aún después de su enajenación. [[Art. 454 inc. 2 CPC| ]]

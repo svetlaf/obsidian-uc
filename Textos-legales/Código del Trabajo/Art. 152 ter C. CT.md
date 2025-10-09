@@ -1,7 +1,7 @@
-El empleador o el operador, en su caso, deberá entregar con una anticipación de a lo menos cinco días el Rol de Vuelo que regirá la jornada de los trabajadores durante el mes siguiente. El empleador podrá modificar, por cualquier causa, dicho Rol de Vuelo dentro de su período de vigencia, en tanto no se afecten con ello los días libres programados del trabajador.
+El empleador o el operador, en su caso, deberá entregar con una anticipación de a lo menos cinco días el Rol de Vuelo que regirá la jornada de los trabajadores durante el mes siguiente. El empleador podrá modificar, por cualquier causa, dicho Rol de Vuelo dentro de su período de vigencia, en tanto no se afecten con ello los días libres programados del trabajador. [[Art. 152 ter inc. 1 C. CT| ]]
 
-Si el cambio de un Rol de Vuelo implica un número menor de horas de vuelo, el trabajador tendrá derecho a que se le remunere en conformidad a las horas originalmente programadas; si implica un número superior de horas de vuelo, éstas deberán ser pagadas en su totalidad. Esta norma se aplicará sólo a los trabajadores cuyas remuneraciones se calculan total o parcialmente sobre la base de horas efectivas de vuelo.
+Si el cambio de un Rol de Vuelo implica un número menor de horas de vuelo, el trabajador tendrá derecho a que se le remunere en conformidad a las horas originalmente programadas; si implica un número superior de horas de vuelo, éstas deberán ser pagadas en su totalidad. Esta norma se aplicará sólo a los trabajadores cuyas remuneraciones se calculan total o parcialmente sobre la base de horas efectivas de vuelo. [[Art. 152 ter inc. 2 C. CT| ]]
 
-Si en caso de fuerza mayor o caso fortuito los días libres programados fueran afectados estando el trabajador fuera de su lugar de residencia, estos deberán ser compensados de común acuerdo.
+Si en caso de fuerza mayor o caso fortuito los días libres programados fueran afectados estando el trabajador fuera de su lugar de residencia, estos deberán ser compensados de común acuerdo. [[Art. 152 ter inc. 3 C. CT| ]]
 
-No será considerado cambio de Rol de Vuelo aquella alteración producto de la solicitud del propio trabajador.
+No será considerado cambio de Rol de Vuelo aquella alteración producto de la solicitud del propio trabajador. [[Art. 152 ter inc. 4 C. CT| ]]

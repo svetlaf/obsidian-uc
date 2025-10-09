@@ -1,3 +1,3 @@
-Para que sea eficaz el derecho de retención que en ciertos casos conceden las leyes, es necesario que su procedencia se declare judicialmente a petición del que pueda hacerlo valer.
+Para que sea eficaz el derecho de retención que en ciertos casos conceden las leyes, es necesario que su procedencia se declare judicialmente a petición del que pueda hacerlo valer. [[Art. 545 inc. 1 CPC| ]]
 
-Podrá solicitarse la retención como medida precautoria del derecho que garantiza, y, en tal caso, se procederá conforme a lo dispuesto en los artículos 299, 300 y 302.
+Podrá solicitarse la retención como medida precautoria del derecho que garantiza, y, en tal caso, se procederá conforme a lo dispuesto en los artículos 299, 300 y 302. [[Art. 545 inc. 2 CPC| ]]

@@ -1,3 +1,3 @@
-Las normas del presente Capítulo, se aplicarán al personal tripulante de vuelo y de cabina de las empresas que presten servicios de transporte de pasajeros o carga, sin perjuicio de su sujeción a normas de seguridad en los vuelos, diferentes a las impartidas por la Dirección General de Aeronáutica Civil.
+Las normas del presente Capítulo, se aplicarán al personal tripulante de vuelo y de cabina de las empresas que presten servicios de transporte de pasajeros o carga, sin perjuicio de su sujeción a normas de seguridad en los vuelos, diferentes a las impartidas por la Dirección General de Aeronáutica Civil. [[Art. 152 ter inc. 1 CT| ]]
 
-Asimismo, les serán aplicables todas las normas del presente Código, en tanto no sean incompatibles o contradictorias con las normas de este Capítulo.
+Asimismo, les serán aplicables todas las normas del presente Código, en tanto no sean incompatibles o contradictorias con las normas de este Capítulo. [[Art. 152 ter inc. 2 CT| ]]

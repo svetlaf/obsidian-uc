@@ -1,3 +1,3 @@
-El pago de las remuneraciones deberá efectuarse dentro de las veinticuatro horas siguientes al término del turno o jornada respectivos, exceptuándose para el cómputo de este plazo las horas correspondientes a días domingo y festivos.
+El pago de las remuneraciones deberá efectuarse dentro de las veinticuatro horas siguientes al término del turno o jornada respectivos, exceptuándose para el cómputo de este plazo las horas correspondientes a días domingo y festivos. [[Art. 139 inc. 1 CT| ]]
 
-No obstante, si el contrato se hubiese celebrado en cumplimiento de un convenio de provisión de puestos de trabajo, el pago se hará con la periodicidad que en éste se haya estipulado, la que en ningún caso podrá exceder de un mes.
+No obstante, si el contrato se hubiese celebrado en cumplimiento de un convenio de provisión de puestos de trabajo, el pago se hará con la periodicidad que en éste se haya estipulado, la que en ningún caso podrá exceder de un mes. [[Art. 139 inc. 2 CT| ]]

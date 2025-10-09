@@ -1,3 +1,3 @@
-Si el poseedor no efectúa el pago o el abandono en el plazo expresado en el artículo anterior, podrá desposeérsele de la propiedad hipotecada para hacer con ella pago al acreedor.
+Si el poseedor no efectúa el pago o el abandono en el plazo expresado en el artículo anterior, podrá desposeérsele de la propiedad hipotecada para hacer con ella pago al acreedor. [[Art. 759 inc. 1 CPC| ]]
 
-Esta acción se someterá a las reglas del juicio ordinario o a las del juicio ejecutivo, según sea la calidad del título en que se funde, procediéndose contra el poseedor en los mismos términos en que podría hacerse contra el deudor personal.
+Esta acción se someterá a las reglas del juicio ordinario o a las del juicio ejecutivo, según sea la calidad del título en que se funde, procediéndose contra el poseedor en los mismos términos en que podría hacerse contra el deudor personal. [[Art. 759 inc. 2 CPC| ]]

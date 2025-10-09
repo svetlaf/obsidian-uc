@@ -1,3 +1,3 @@
-Notificada la demanda a cualquiera de los demandados y antes de la contestación, podrá el demandante hacer en ella las ampliaciones o rectificaciones que estime convenientes.
+Notificada la demanda a cualquiera de los demandados y antes de la contestación, podrá el demandante hacer en ella las ampliaciones o rectificaciones que estime convenientes. [[Art. 261 inc. 1 CPC| ]]
 
-Estas modificaciones se considerarán como una demanda nueva para los efectos de su notificación, y sólo desde la fecha en que esta diligencia se practique correrá el término para contestar la primitiva demanda.
+Estas modificaciones se considerarán como una demanda nueva para los efectos de su notificación, y sólo desde la fecha en que esta diligencia se practique correrá el término para contestar la primitiva demanda. [[Art. 261 inc. 2 CPC| ]]

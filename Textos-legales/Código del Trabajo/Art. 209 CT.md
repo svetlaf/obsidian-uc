@@ -1,3 +1,3 @@
-El empleador es responsable de las obligaciones de afiliación y cotización que se originan del seguro social obligatorio contra riesgos de accidentes del trabajo y enfermedades profesionales regulado por la ley N° 16.744.
+El empleador es responsable de las obligaciones de afiliación y cotización que se originan del seguro social obligatorio contra riesgos de accidentes del trabajo y enfermedades profesionales regulado por la ley N° 16.744. [[Art. 209 inc. 1 CT| ]]
 
-En los mismos términos, el dueño de la obra, empresa o faena es subsidiariamente responsable de las obligaciones que en materia de afiliación y cotización, afecten a los contratistas en relación con las obligaciones de sus subcontratistas.
+En los mismos términos, el dueño de la obra, empresa o faena es subsidiariamente responsable de las obligaciones que en materia de afiliación y cotización, afecten a los contratistas en relación con las obligaciones de sus subcontratistas. [[Art. 209 inc. 2 CT| ]]

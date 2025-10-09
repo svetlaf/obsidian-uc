@@ -1,9 +1,9 @@
 En la Décima Región, de Los Lagos, existirán los siguientes juzgados de letras:
 
-A.- JUZGADOS CIVILES:
+A.- JUZGADOS CIVILES: [[Art. 37 A. COT| ]]
 Dos Juzgados con asiento en la comuna de Puerto Montt con competencia sobre las comunas de Puerto Montt y Cochamó;
 
-B.- JUZGADOS DE COMPETENCIA COMÚN:
+B.- JUZGADOS DE COMPETENCIA COMÚN: [[Art. 37 B. COT| ]]
 Tres Juzgados con asiento en la comuna de Osorno con competencia sobre las comunas de Osorno, San Pablo, Puyehue, Puerto Octay y San Juan de la Costa;
 Un Juzgado con asiento en la comuna de Río Negro, con competencia sobre las comunas de Río Negro y Purranque;
 Un Juzgado con asiento en la comuna de Puerto Varas, con competencia sobre las comunas de Puerto Varas, Llanquihue, Frutillar y Fresia;

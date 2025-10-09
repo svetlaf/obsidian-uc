@@ -1,3 +1,3 @@
-Si la estimación de los dos peritos es idéntica, o si lo es la de uno de los peritos y la del tercero, se aceptará como valor de los bienes el que establezcan las dos avaluaciones conformes.
+Si la estimación de los dos peritos es idéntica, o si lo es la de uno de los peritos y la del tercero, se aceptará como valor de los bienes el que establezcan las dos avaluaciones conformes. [[Art. 918 inc. 1 CPC| ]]
 
-No existiendo esta conformidad, se tendrá como valor de los bienes el tercio de la suma de las tres operaciones; pero si entre ellas hay notable diferencia, podrá el tribunal modificar prudencialmente ese valor.
+No existiendo esta conformidad, se tendrá como valor de los bienes el tercio de la suma de las tres operaciones; pero si entre ellas hay notable diferencia, podrá el tribunal modificar prudencialmente ese valor. [[Art. 918 inc. 2 CPC| ]]

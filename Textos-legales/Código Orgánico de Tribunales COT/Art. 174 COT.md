@@ -1,3 +1,3 @@
-Si contra la acción penal se pusieren excepciones de carácter civil concernientes al dominio o a otro derecho real sobre inmuebles, podrá suspenderse el juicio criminal, cuando dichas excepciones aparecieren revestidas de fundamento plausible y de su aceptación, por la sentencia que sobre ellas recaiga, hubiere de desaparecer el delito.
+Si contra la acción penal se pusieren excepciones de carácter civil concernientes al dominio o a otro derecho real sobre inmuebles, podrá suspenderse el juicio criminal, cuando dichas excepciones aparecieren revestidas de fundamento plausible y de su aceptación, por la sentencia que sobre ellas recaiga, hubiere de desaparecer el delito. [[Art. 174 inc. 1 COT| ]]
 
-El conocimiento de esas excepciones corresponde al tribunal en lo civil.
+El conocimiento de esas excepciones corresponde al tribunal en lo civil. [[Art. 174 inc. 2 COT| ]]

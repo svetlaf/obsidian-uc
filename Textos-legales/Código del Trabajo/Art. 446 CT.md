@@ -1,14 +1,14 @@
 La demanda se interpondrá por escrito y deberá contener:
 
-1. La designación del tribunal ante quien se entabla;
+1. La designación del tribunal ante quien se entabla; [[Art. 446 n°1 CT| ]]
 
-2. El nombre, apellidos, domicilio y profesión u oficio del demandante y en su caso de las personas que lo representen, y naturaleza de la representación;
+2. El nombre, apellidos, domicilio y profesión u oficio del demandante y en su caso de las personas que lo representen, y naturaleza de la representación; [[Art. 446 n°2 CT| ]]
 
-3. El nombre, apellidos, domicilio y profesión u oficio del demandado;
+3. El nombre, apellidos, domicilio y profesión u oficio del demandado; [[Art. 446 n°3 CT| ]]
 
-4. La exposición clara y circunstanciada de los hechos y consideraciones de derecho en que se fundamenta, y
+4. La exposición clara y circunstanciada de los hechos y consideraciones de derecho en que se fundamenta, y [[Art. 446 n°4 CT| ]]
 
-5. La enunciación precisa y concreta de las peticiones que se someten a la resolución del tribunal.
+5. La enunciación precisa y concreta de las peticiones que se someten a la resolución del tribunal. [[Art. 446 n°5 CT| ]]
 
 La prueba documental sólo se podrá presentar en la audiencia preparatoria. Sin embargo, deberá presentarse conjuntamente con la demanda, aquella que dé cuenta de las actuaciones administrativas que se refieren a los hechos contenidos en esa.
 

@@ -1,3 +1,3 @@
-Protocolización es el hecho de agregar un documento al final del registro de un notario, a pedido de quien lo solicita.
+Protocolización es el hecho de agregar un documento al final del registro de un notario, a pedido de quien lo solicita. [[Art. 415 inc. 1 COT| ]]
 
-Para que la protocolización surta efecto legal deberá dejarse constancia de ella en el libro repertorio el día en que se presente el documento, en la forma establecida en el artículo 430.
+Para que la protocolización surta efecto legal deberá dejarse constancia de ella en el libro repertorio el día en que se presente el documento, en la forma establecida en el artículo 430. [[Art. 415 inc. 2 COT| ]]

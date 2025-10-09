@@ -1,3 +1,3 @@
-El juez podrá pronunciar el fallo al término de la audiencia de juicio o, en todo caso, dictarlo dentro del plazo de décimo quinto día, contado desde la realización de ésta, en cuyo caso citará a las partes para notificarlas del fallo, fijando día y hora al efecto, dentro del mismo plazo.
+El juez podrá pronunciar el fallo al término de la audiencia de juicio o, en todo caso, dictarlo dentro del plazo de décimo quinto día, contado desde la realización de ésta, en cuyo caso citará a las partes para notificarlas del fallo, fijando día y hora al efecto, dentro del mismo plazo. [[Art. 457 inc. 1 CT| ]]
 
-Las partes se entenderán notificadas de la sentencia, sea en la audiencia de juicio o en la actuación prevista al efecto, hayan o no asistido a ellas.
+Las partes se entenderán notificadas de la sentencia, sea en la audiencia de juicio o en la actuación prevista al efecto, hayan o no asistido a ellas. [[Art. 457 inc. 2 CT| ]]

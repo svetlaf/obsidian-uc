@@ -18,7 +18,7 @@ Quinta Región de Valparaíso:
 San Felipe, con cuatro jueces, con competencia sobre las comunas de la provincia de San Felipe.
 Los Andes, con cuatro jueces, con competencia sobre las comunas de la provincia de Los Andes.
 Quillota, con seis jueces, con competencia sobre las comunas de La Ligua, Petorca, Cabildo, Papudo, Zapallar, Nogales, Calera, La Cruz, Quillota, Hijuelas, Limache y Olmué.
-Viña del Mar, con dieciseís jueces, con competencia sobre las comunas de Puchuncaví, Quintero, Viña del Mar, Villa Alemana, Quilpué y Concón.
+Viña del Mar, con dieciséis jueces, con competencia sobre las comunas de Puchuncaví, Quintero, Viña del Mar, Villa Alemana, Quilpué y Concón.
 Valparaíso, con diecinueve jueces, con competencia sobre las comunas de Juan Fernández, Valparaíso, Casablanca e Isla de Pascua.
 San Antonio, con siete jueces, con competencia sobre las comunas de Algarrobo, El Quisco, El Tabo, Cartagena, San Antonio y Santo Domingo.
 
@@ -30,7 +30,7 @@ Santa Cruz, con siete jueces, con competencia sobre las comunas de Santa Cruz, N
 Séptima Región del Maule:
 Curicó, con siete jueces, con competencia sobre las comunas de Teno, Vichuquén, Hualañé, Rauco, Curicó, Romeral, Licantén, Sagrada Familia y Molina.
 Talca, con siete jueces, con competencia sobre las comunas de Curepto, Río Claro, Constitución, Pencahue, Talca, Pelarco, San Clemente, Maule, Empedrado y San Rafael.
-Linares, con seis jueces, con competencia sobre las comunas de San Javier, Villa Alegre, Colbún, Yerbas Buenas, Linares y Longaví .
+Linares, con seis jueces, con competencia sobre las comunas de San Javier, Villa Alegre, Colbún, Yerbas Buenas, Linares y Longaví.
 Cauquenes, con cuatro jueces, con competencia sobre las comunas de Chanco, Cauquenes, Pelluhue, Retiro y Parral.
 
 Octava Región del Bío Bío:
@@ -58,7 +58,7 @@ Decimocuarta Región de los Ríos:
 Valdivia, con siete jueces, con competencia sobre las comunas de Mariquina, Lanco, Panguipulli, Máfil, Valdivia, Los Lagos, Corral, Paillaco, Futrono, La Unión, Lago Ranco y Río Bueno.
 
 Decimoquinta Región de Arica y Parinacota:
-Arica, con diez jueces, con competencia sobre las comunas de General Lagos, Putre, Arica y Camarones
+Arica, con diez jueces, con competencia sobre las comunas de General Lagos, Putre, Arica y Camarones.
 
 Región Metropolitana de Santiago:
 Colina, con seis jueces, con competencia sobre las comunas de Til Til, Colina y Lampa.
@@ -66,6 +66,7 @@ Puente Alto, con nueve jueces, con competencia sobre las comunas de Puente Alto,
 San Bernardo, con nueve jueces, con competencia sobre las comunas de San Bernardo, Calera de Tango, Buin y Paine.
 Melipilla, con seis jueces, con competencia sobre las comunas de Melipilla, San Pedro, Alhué, Curacaví y María Pinto.
 Talagante, con seis jueces, con competencia sobre las comunas de Talagante, El Monte, Isla de Maipo, Peñaflor y Padre Hurtado.
+
 Habrá además, con asiento en la comuna de Santiago, los siguientes tribunales de juicio oral en lo penal:
 
 Primer Tribunal de Juicio Oral en lo Penal de Santiago, con doce jueces, con competencia sobre las comunas de Lo Prado, Cerro Navia y Pudahuel.

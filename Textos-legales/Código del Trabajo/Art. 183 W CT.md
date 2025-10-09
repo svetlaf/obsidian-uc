@@ -1,3 +1,3 @@
-Será obligación de la usuaria controlar la asistencia del trabajador de servicios transitorios y poner a disposición de la empresa de servicios transitorios copia del registro respectivo.
+Será obligación de la usuaria controlar la asistencia del trabajador de servicios transitorios y poner a disposición de la empresa de servicios transitorios copia del registro respectivo. [[Art. 183 inc. 1 W CT| ]]
 
-En el registro se indicará, a lo menos, el nombre y apellido del trabajador de servicios transitorios, nombre o razón social y domicilio de la empresa de servicios transitorios y de la usuaria, y diariamente las horas de ingreso y salida del trabajador.
+En el registro se indicará, a lo menos, el nombre y apellido del trabajador de servicios transitorios, nombre o razón social y domicilio de la empresa de servicios transitorios y de la usuaria, y diariamente las horas de ingreso y salida del trabajador. [[Art. 183 inc. 2 W CT| ]]

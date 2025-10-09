@@ -1,3 +1,3 @@
-Todo término probatorio es común para las partes y dentro de él deberán solicitar toda diligencia de prueba que no hubieren pedido con anterioridad a su iniciación.
+Todo término probatorio es común para las partes y dentro de él deberán solicitar toda diligencia de prueba que no hubieren pedido con anterioridad a su iniciación. [[Art. 327 inc. 1 CPC| ]]
 
-En los casos contemplados en los artículos 310, 321 y 322 el tribunal, de estimar necesaria la prueba, concederá un término especial de prueba que se regirá por las normas del artículo 90, limitándose a quince días el plazo total que establece en su inciso tercero y sin perjuicio de lo establecido en el artículo 431.
+En los casos contemplados en los artículos 310, 321 y 322 el tribunal, de estimar necesaria la prueba, concederá un término especial de prueba que se regirá por las normas del artículo 90, limitándose a quince días el plazo total que establece en su inciso tercero y sin perjuicio de lo establecido en el artículo 431. [[Art. 327 inc. 2 CPC| ]]

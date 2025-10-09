@@ -2,4 +2,4 @@ Oída la contestación, el tribunal resolverá sobre la impugnación, sea aproba
 
 Si el tribunal manda rectificar la operación, expresará los puntos sobre los cuales debe recaer la rectificación.
 
-Presentada la operación por el perito, hará el tribunal el justiprecio sin más trámite.■
+Presentada la operación por el perito, hará el tribunal el justiprecio sin más trámite.

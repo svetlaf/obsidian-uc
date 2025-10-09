@@ -1,3 +1,3 @@
-Para adjudicarse o licitar los bienes comunes, se apreciarán por peritos nombrados en la forma ordinaria.
+Para adjudicarse o licitar los bienes comunes, se apreciarán por peritos nombrados en la forma ordinaria. [[Art. 657 inc. 1 CPC| ]]
 
-Podrá, sin embargo, omitirse la tasación, si el valor de los bienes se fija por acuerdo unánime de las partes, o de sus representantes, aun cuando haya entre aquéllas incapaces, con tal que existan en los autos antecedentes que justifiquen la apreciación hecha por las partes, o que se trate de bienes muebles, o de fijar un mínimum para licitar bienes raíces con admisión de postores extraños.
+Podrá, sin embargo, omitirse la tasación, si el valor de los bienes se fija por acuerdo unánime de las partes, o de sus representantes, aun cuando haya entre aquéllas incapaces, con tal que existan en los autos antecedentes que justifiquen la apreciación hecha por las partes, o que se trate de bienes muebles, o de fijar un mínimum para licitar bienes raíces con admisión de postores extraños. [[Art. 657 inc. 2 CPC| ]]

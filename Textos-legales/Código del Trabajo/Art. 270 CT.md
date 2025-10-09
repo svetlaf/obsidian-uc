@@ -1,3 +1,3 @@
-Los estatutos de las federaciones y confederaciones determinarán el modo como deberá ponderarse la votación de los directores de las organizaciones afiliadas. Si éstos nada dijeren, los directores votarán en proporción directa al número de sus respectivos afiliados.
+Los estatutos de las federaciones y confederaciones determinarán el modo como deberá ponderarse la votación de los directores de las organizaciones afiliadas. Si éstos nada dijeren, los directores votarán en proporción directa al número de sus respectivos afiliados. [[Art. 270 inc. 1 CT| ]]
 
-En todo caso, en la aprobación y reforma de los estatutos, los directores votarán siempre en proporción directa al número de sus respectivos afiliados.
+En todo caso, en la aprobación y reforma de los estatutos, los directores votarán siempre en proporción directa al número de sus respectivos afiliados. [[Art. 270 inc. 2 CT| ]]

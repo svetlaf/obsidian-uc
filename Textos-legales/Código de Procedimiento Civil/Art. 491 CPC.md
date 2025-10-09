@@ -1,3 +1,3 @@
-El precio de los bienes que se rematen deberá pagarse de contado, salvo que las partes acuerden o que el tribunal, por motivos fundados, resuelva otra cosa.
+El precio de los bienes que se rematen deberá pagarse de contado, salvo que las partes acuerden o que el tribunal, por motivos fundados, resuelva otra cosa. [[Art. 491 inc. 1 CPC| ]]
 
-Las demás condiciones para la subasta se propondrán por el ejecutante, con citación de la contraria. La oposición que se formule será resuelta de plano por el tribunal, consultando la mayor facilidad y el mejor resultado de la enajenación.
+Las demás condiciones para la subasta se propondrán por el ejecutante, con citación de la contraria. La oposición que se formule será resuelta de plano por el tribunal, consultando la mayor facilidad y el mejor resultado de la enajenación. [[Art. 491 inc. 2 CPC| ]]

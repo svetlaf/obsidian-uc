@@ -1,3 +1,3 @@
-El tutor o curador testamentario que pida el discernimiento de la tutela o curaduría, presentará el nombramiento que se le haya hecho y hará constar que se han verificado las condiciones legales necesarias para que el nombramiento tenga lugar.
+El tutor o curador testamentario que pida el discernimiento de la tutela o curaduría, presentará el nombramiento que se le haya hecho y hará constar que se han verificado las condiciones legales necesarias para que el nombramiento tenga lugar. [[Art. 853 inc. 1 CPC| ]]
 
-Encontrando justificada la petición, el tribunal aprobará el nombramiento y mandará discernir el cargo, previa audiencia del defensor de menores.
+Encontrando justificada la petición, el tribunal aprobará el nombramiento y mandará discernir el cargo, previa audiencia del defensor de menores. [[Art. 853 inc. 2 CPC| ]]

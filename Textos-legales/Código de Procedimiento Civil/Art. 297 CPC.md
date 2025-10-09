@@ -1,3 +1,3 @@
-Cuando la prohibición recaiga sobre bienes raíces se inscribirá en el registro del Conservador respectivo, y sin este requisito no producirá efecto respecto de terceros.
+Cuando la prohibición recaiga sobre bienes raíces se inscribirá en el registro del Conservador respectivo, y sin este requisito no producirá efecto respecto de terceros. [[Art. 297 inc. 1 CPC| ]]
 
-Cuando verse sobre cosas muebles, sólo producirá efecto respecto de los terceros que tengan conocimiento de ella al tiempo del contrato; pero el demandado será en todo caso responsable de fraude, si ha procedido a sabiendas.
+Cuando verse sobre cosas muebles, sólo producirá efecto respecto de los terceros que tengan conocimiento de ella al tiempo del contrato; pero el demandado será en todo caso responsable de fraude, si ha procedido a sabiendas. [[Art. 297 inc. 2 CPC| ]]

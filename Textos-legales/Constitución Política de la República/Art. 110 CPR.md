@@ -1,3 +1,3 @@
-Para el gobierno y administración interior del Estado, el territorio de la República se divide en regiones y éstas en provincias. Para los efectos de la administración local, las provincias se dividirán en comunas.
+Para el gobierno y administración interior del Estado, el territorio de la República se divide en regiones y éstas en provincias. Para los efectos de la administración local, las provincias se dividirán en comunas. [[Art. 110 inc. 1 CPR| ]]
 
-La creación, supresión y denominación de regiones, provincias y comunas; la modificación de sus límites, así como la fijación de las capitales de las regiones y provincias, serán materia de ley orgánica constitucional.
+La creación, supresión y denominación de regiones, provincias y comunas; la modificación de sus límites, así como la fijación de las capitales de las regiones y provincias, serán materia de ley orgánica constitucional. [[Art. 110 inc. 2 CPR| ]]

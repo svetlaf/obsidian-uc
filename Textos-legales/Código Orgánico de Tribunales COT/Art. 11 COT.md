@@ -1,3 +1,3 @@
-Para hacer ejecutar sus sentencias y para practicar o hacer practicar las actuaciones que decreten, podrán los tribunales requerir de las demás autoridades el auxilio de la fuerza pública que de ellas dependiere, o los otros medios de acción conducentes de que dispusieren.
+Para hacer ejecutar sus sentencias y para practicar o hacer practicar las actuaciones que decreten, podrán los tribunales requerir de las demás autoridades el auxilio de la fuerza pública que de ellas dependiere, o los otros medios de acción conducentes de que dispusieren. [[Art. 11 inc. 1 COT| ]]
 
-La autoridad legalmente requerida debe prestar el auxilio, sin que le corresponda calificar el fundamento con que se le pide ni la justicia o legalidad de la sentencia o decreto que se trata de ejecutar.
+La autoridad legalmente requerida debe prestar el auxilio, sin que le corresponda calificar el fundamento con que se le pide ni la justicia o legalidad de la sentencia o decreto que se trata de ejecutar. [[Art. 11 inc. 2 COT| ]]

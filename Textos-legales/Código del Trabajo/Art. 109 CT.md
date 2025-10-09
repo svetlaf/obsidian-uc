@@ -1,3 +1,3 @@
-No será obligatorio el trabajo en días domingo o festivos cuando la nave se encuentre fondeada en puerto. La duración del trabajo en la semana correspondiente no podrá en este caso exceder de cuarenta y ocho horas, la que se calculará de forma proporcional por los días en que la nave esté fondeada en puerto.
+No será obligatorio el trabajo en días domingo o festivos cuando la nave se encuentre fondeada en puerto. La duración del trabajo en la semana correspondiente no podrá en este caso exceder de cuarenta y ocho horas, la que se calculará de forma proporcional por los días en que la nave esté fondeada en puerto. [[Art. 109 inc. 1 CT| ]]
 
-Sin perjuicio de lo señalado precedentemente y sólo para los efectos del cálculo y pago de las remuneraciones, el exceso de cuarenta horas semanales se pagará siempre con el recargo establecido en el inciso tercero del artículo 32.
+Sin perjuicio de lo señalado precedentemente y sólo para los efectos del cálculo y pago de las remuneraciones, el exceso de cuarenta horas semanales se pagará siempre con el recargo establecido en el inciso tercero del artículo 32. [[Art. 109 inc. 2 CT| ]]

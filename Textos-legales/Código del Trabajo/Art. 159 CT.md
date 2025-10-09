@@ -1,16 +1,16 @@
 El contrato de trabajo terminará en los siguientes casos:
 
-1.- Mutuo acuerdo de las partes.
+1.- Mutuo acuerdo de las partes. [[Art. 159 n°1 CT| ]]
 
-2.- Renuncia del trabajador, dando aviso a su empleador con treinta días de anticipación, a lo menos.
+2.- Renuncia del trabajador, dando aviso a su empleador con treinta días de anticipación, a lo menos. [[Art. 159 n°2 CT| ]]
 
-3.- Muerte del trabajador.
+3.- Muerte del trabajador. [[Art. 159 n°3 CT| ]]
 
 4.- Vencimiento del plazo convenido en el contrato. La duración del contrato de plazo fijo no podrá exceder de un año.
 El trabajador que hubiere prestado servicios discontinuos en virtud de más de dos contratos a plazo, durante doce meses o más en un período de quince meses, contados desde la primera contratación, se presumirá legalmente que ha sido contratado por una duración indefinida.
 Tratándose de gerentes o personas que tengan un título profesional o técnico otorgado por una institución de educación superior del Estado o reconocida por éste, la duración del contrato no podrá exceder de dos años.
-El hecho de continuar el trabajador prestando servicios con conocimiento del empleador después de expirado el plazo, lo transforma en contrato de duración indefinida. Igual efecto producirá la segunda renovación de un contrato de plazo fijo.
+El hecho de continuar el trabajador prestando servicios con conocimiento del empleador después de expirado el plazo, lo transforma en contrato de duración indefinida. Igual efecto producirá la segunda renovación de un contrato de plazo fijo. [[Art. 159 n°4 CT| ]]
 
-5.- Conclusión del trabajo o servicio que dio origen al contrato.
+5.- Conclusión del trabajo o servicio que dio origen al contrato. [[Art. 159 n°5 CT| ]]
 
-6.- Caso fortuito o fuerza mayor.
+6.- Caso fortuito o fuerza mayor. [[Art. 159 n°6 CT| ]]

@@ -1,3 +1,3 @@
-El empleador velará para que en la organización de la faena se utilicen los medios adecuados, especialmente mecánicos, a fin de evitar la manipulación manual habitual de las cargas.
+El empleador velará para que en la organización de la faena se utilicen los medios adecuados, especialmente mecánicos, a fin de evitar la manipulación manual habitual de las cargas. [[Art. 211 G. inc. 1 CT| ]]
 
-Asimismo, el empleador procurará que el trabajador que se ocupe en la manipulación manual de las cargas reciba una formación satisfactoria, respecto de los métodos de trabajo que debe utilizar, a fin de proteger su salud.
+Asimismo, el empleador procurará que el trabajador que se ocupe en la manipulación manual de las cargas reciba una formación satisfactoria, respecto de los métodos de trabajo que debe utilizar, a fin de proteger su salud. [[Art. 211 G. inc. 2 CT| ]]

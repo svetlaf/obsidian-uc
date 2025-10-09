@@ -1,3 +1,3 @@
-Las votaciones que deban realizarse para elegir o a que dé lugar la censura al directorio, serán secretas y deberán practicarse en presencia de un ministro de fe. El día de la votación no podrá llevarse a efecto asamblea alguna del sindicato respectivo, salvo lo dispuesto en el artículo 221.
+Las votaciones que deban realizarse para elegir o a que dé lugar la censura al directorio, serán secretas y deberán practicarse en presencia de un ministro de fe. El día de la votación no podrá llevarse a efecto asamblea alguna del sindicato respectivo, salvo lo dispuesto en el artículo 221. [[Art. 239 inc. 1 CT| ]]
 
-El estatuto establecerá los requisitos de antigüedad para la votación de elección y censura del directorio sindical.
+El estatuto establecerá los requisitos de antigüedad para la votación de elección y censura del directorio sindical. [[Art. 239 inc. 2 CT| ]]

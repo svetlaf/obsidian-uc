@@ -1,3 +1,3 @@
-La exhibición, en el caso del número 2 del artículo 273, se hará mostrando el objeto que deba exhibirse, o autorizando al interesado para que lo reconozca y dándole facilidades para ello, siempre que el objeto se encuentre en poder de la persona a quien se ordene la exhibición.
+La exhibición, en el caso del número 2 del artículo 273, se hará mostrando el objeto que deba exhibirse, o autorizando al interesado para que lo reconozca y dándole facilidades para ello, siempre que el objeto se encuentre en poder de la persona a quien se ordene la exhibición. [[Art. 275 inc. 1 CPC| ]]
 
-Si el objeto se halla en poder de terceros, cumplirá la persona a quien se ordene la exhibición, expresando el nombre y residencia de dichos terceros, o el lugar donde el objeto se encuentre.
+Si el objeto se halla en poder de terceros, cumplirá la persona a quien se ordene la exhibición, expresando el nombre y residencia de dichos terceros, o el lugar donde el objeto se encuentre. [[Art. 275 inc. 2 CPC| ]]

@@ -1,3 +1,3 @@
-Los reglamentos internos y sus modificaciones deberán ponerse en conocimiento de los trabajadores treinta días antes de la fecha en que comiencen a regir, y fijarse, a lo menos, en dos sitios visibles del lugar de las faenas con la misma anticipación. Deberá también entregarse una copia a los sindicatos y a los Comités Paritarios existentes en la empresa.
+Los reglamentos internos y sus modificaciones deberán ponerse en conocimiento de los trabajadores treinta días antes de la fecha en que comiencen a regir, y fijarse, a lo menos, en dos sitios visibles del lugar de las faenas con la misma anticipación. Deberá también entregarse una copia a los sindicatos y a los Comités Paritarios existentes en la empresa. [[Art. 156 inc. 1 CT| ]]
 
-Además, el empleador deberá entregar gratuitamente a los trabajadores un ejemplar impreso que contenga en un texto el reglamento interno de la empresa y el reglamento a que se refiere la Ley N°  16.744.
+Además, el empleador deberá entregar gratuitamente a los trabajadores un ejemplar impreso que contenga en un texto el reglamento interno de la empresa y el reglamento a que se refiere la Ley N° 16.744. [[Art. 156 inc. 2 CT| ]]

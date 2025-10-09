@@ -1,3 +1,3 @@
-Todo procurador legalmente constituido conservará su carácter de tal mientras en el proceso no haya testimonio de la expiración de su mandato.
+Todo procurador legalmente constituido conservará su carácter de tal mientras en el proceso no haya testimonio de la expiración de su mandato. [[Art. 10 inc. 1 CPC| ]]
 
-Si la causa de la expiración del mandato es la renuncia del procurador, estará éste obligado a ponerla en conocimiento de su mandante, junto con el estado del juicio, y se entenderá vigente el poder hasta que haya transcurrido el término de emplazamiento desde la notificación de la renuncia al mandante.
+Si la causa de la expiración del mandato es la renuncia del procurador, estará éste obligado a ponerla en conocimiento de su mandante, junto con el estado del juicio, y se entenderá vigente el poder hasta que haya transcurrido el término de emplazamiento desde la notificación de la renuncia al mandante. [[Art. 10 inc. 2 CPC| ]]
